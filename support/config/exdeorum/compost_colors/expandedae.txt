@@ -1,0 +1,6 @@
+// Compost colors for expandedae. You may add your own colors, change existing ones, or remove colors that aren't needed.
+auto_complete_card, #afc2c9
+exp_pattern_provider_upgrade, #f8f8f8
+greater_accel_card, #aec0c8
+pattern_refiller_card, #aabcc5
+wireless_exp_encoding_terminal, #cab2ee

@@ -1,0 +1,140 @@
+:root {
+  color-scheme: light;
+  --page-bg-top: #fbfbf9;
+  --page-bg: #f6f5f1;
+  --page-bg-bottom: #f1efe9;
+  --surface: #ffffff;
+  --surface-strong: #ffffff;
+  --surface-soft: #f7f6f2;
+  --surface-gradient: #ffffff;
+  --text: #1f2a30;
+  --muted: #66727a;
+  --text-soft: rgba(31, 42, 48, 0.6);
+  --text-faint: rgba(31, 42, 48, 0.5);
+  --accent: #8b6a37;
+  --accent-alt: #31655f;
+  --accent-soft: rgba(139, 106, 55, 0.08);
+  --accent-soft-strong: rgba(139, 106, 55, 0.12);
+  --accent-border: rgba(139, 106, 55, 0.2);
+  --accent-border-strong: rgba(139, 106, 55, 0.28);
+  --accent-text: #6b5228;
+  --accent-alt-soft: rgba(49, 101, 95, 0.1);
+  --accent-alt-text: #2e5d58;
+  --danger-soft: rgba(184, 104, 104, 0.12);
+  --danger-text: #915252;
+  --border: rgba(31, 42, 48, 0.1);
+  --border-strong: rgba(31, 42, 48, 0.18);
+  --grid-line: rgba(31, 42, 48, 0.03);
+  --mesh-gold: rgba(139, 106, 55, 0.05);
+  --mesh-teal: rgba(49, 101, 95, 0.04);
+  --shadow: 0 10px 24px rgba(31, 42, 48, 0.06);
+  --font-title: "Avenir Next", "Source Han Sans SC", "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", sans-serif;
+  --font-body: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", sans-serif;
+  --sticky-offset: 22px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#__nuxt {
+  min-height: 100%;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+body {
+  background: var(--page-bg);
+  color: var(--text);
+  font-family: var(--font-body);
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+.panel-card {
+  padding: 20px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 22px;
+  box-shadow: var(--shadow);
+}
+
+.ghost-button,
+.mini-button {
+  appearance: none;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  color: var(--text);
+  background: var(--surface);
+  cursor: pointer;
+  transition:
+    transform 160ms ease,
+    border-color 160ms ease,
+    background 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.ghost-button:hover,
+.mini-button:hover {
+  transform: translateY(-1px);
+  border-color: var(--accent-border-strong);
+  background: var(--accent-soft);
+  box-shadow: 0 6px 16px rgba(31, 42, 48, 0.08);
+}
+
+.ghost-button {
+  min-height: 48px;
+}
+
+.mini-button {
+  padding: 8px 12px;
+  font-size: 0.88rem;
+}
+
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: flex-start;
+}
+
+.status-chip,
+.task-chip {
+  display: inline-flex;
+  align-items: center;
+  flex: 0 0 auto;
+  align-self: flex-start;
+  gap: 6px;
+  padding: 6px 10px;
+  max-width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  font-size: 0.84rem;
+  line-height: 1.4;
+  white-space: normal;
+  word-break: break-word;
+}
+
+.status-chip {
+  color: var(--accent-text);
+  background: var(--accent-soft-strong);
+}
+
+.status-chip-hidden {
+  color: var(--danger-text);
+  background: var(--danger-soft);
+}
+
+.task-chip {
+  color: var(--accent-alt-text);
+  background: var(--accent-alt-soft);
+}

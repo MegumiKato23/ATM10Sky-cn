@@ -1,0 +1,2 @@
+// Compost colors for mi_sound_addon. You may add your own colors, change existing ones, or remove colors that aren't needed.
+mallet, #8e8a7f

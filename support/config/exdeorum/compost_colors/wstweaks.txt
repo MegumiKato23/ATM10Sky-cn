@@ -1,0 +1,3 @@
+// Compost colors for wstweaks. You may add your own colors, change existing ones, or remove colors that aren't needed.
+fragment, #ffffff
+immolation_blade, #fc9d16

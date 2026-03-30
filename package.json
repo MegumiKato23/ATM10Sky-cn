@@ -1,0 +1,15 @@
+{
+  "name": "atm10-tts-quest-browser",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "node support/tools/build-quest-site.mjs",
+    "prebuild": "node support/tools/build-quest-site.mjs",
+    "dev": "nuxt dev --host 0.0.0.0 --port 3000",
+    "build": "nuxt build",
+    "preview": "nuxt preview --host 0.0.0.0 --port 3000"
+  },
+  "dependencies": {
+    "nuxt": "^3"
+  }
+}

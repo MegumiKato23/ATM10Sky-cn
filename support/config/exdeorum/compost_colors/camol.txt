@@ -1,0 +1,3 @@
+// Compost colors for camol. You may add your own colors, change existing ones, or remove colors that aren't needed.
+camo_item, #ffffff
+solid_camo_item, #ffffff

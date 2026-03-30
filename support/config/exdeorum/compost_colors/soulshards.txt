@@ -1,0 +1,6 @@
+// Compost colors for soulshards. You may add your own colors, change existing ones, or remove colors that aren't needed.
+corrupted_essence, #b46cff
+corrupted_ingot, #a786c2
+soul_shard, #d6c9e1
+vile_dust, #e3f2ed
+vile_sword, #866b9a

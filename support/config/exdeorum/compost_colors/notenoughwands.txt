@@ -1,0 +1,13 @@
+// Compost colors for notenoughwands. You may add your own colors, change existing ones, or remove colors that aren't needed.
+acceleration_wand, #d9e0cd
+advanced_wand_core, #fff8dc
+building_wand, #f5b575
+capturing_wand, #9db648
+displacement_wand, #fee7a8
+illumination_wand, #ffffff
+master_protection_wand, #ffc2ac
+moving_wand, #7d764a
+protection_wand, #c6c6af
+swapping_wand, #ffedd3
+teleportation_wand, #507a41
+wand_core, #fff4cc

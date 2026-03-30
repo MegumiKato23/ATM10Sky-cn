@@ -1,0 +1,26 @@
+{
+  "user_agreement": true,
+  "modpack": {
+    "name": "ATM10 To the Sky-2.0.1",
+    "minecraft_version": "1.21.1",
+    "loader_type": "neoforge-21.1.221"
+  },
+  "curseforge": {
+    "project_id": 1298402,
+    "file_id": 7820168,
+    "project_slug": "all-the-mods-10-sky"
+  },
+  "resource_pack_install": {
+    "auto_install_enabled": false,
+    "install_method": "resourcepacks",
+    "description": "检测到 4 个 lang 文件包含 JSON 富文本格式 (如带颜色、悬停效果的文本)，KubeJS 的 lang 加载器不支持此格式，因此资源包需要手动在游戏中启用"
+  },
+  "language_packs": [
+    "BBSMC汉化包.zip"
+  ],
+  "meta": {
+    "generated_at": "2026-03-27T03:49:55.891733",
+    "generator": "TranslateTool",
+    "generator_version": "1.0.0"
+  }
+}

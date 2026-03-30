@@ -1,0 +1,11 @@
+// Compost colors for ars_controle. You may add your own colors, change existing ones, or remove colors that aren't needed.
+glyph_filter_above, #d69a7c
+glyph_filter_below, #d69a7c
+glyph_filter_level, #d69a7c
+glyph_filter_not, #fbbb96
+glyph_filter_or, #f5b593
+glyph_filter_random, #e7a887
+glyph_filter_xnor, #f8b894
+glyph_filter_xor, #f0b18e
+glyph_precise_delay, #afd2b5
+remote, #cc9dcc

@@ -1,0 +1,13 @@
+{
+	quest.0AE83A6CC21F96D4.quest_desc: ["电解一个&#3127F5奇点&r将产生&#DA27F5&aUU物质&f&r.在此过程中,&#3127F5奇点&r&n&a不会被&r消耗.\\n&7[Electrolysing a &#3127F5Singularity will make &#DA27F5UU Matter. In this process, the &#3127F5Singularity is NOT consumed.]&f"]
+	quest.1E22A0D5F4B2EB0D.quest_subtitle: "用氦气冷冻氩气&7[Freezing Argon with Helium]&f"
+	quest.27826D74ADC73556.quest_desc: ["在&#E3CE54坎塔尔电力高炉&r中用&#90F0E7氧气&r烧制&#ED8C61&a铜粉&f&r,你将得到&#E87848&a热退火铜锭&f&r.这可以在&#4CBBD9&a真空冷冻机&f&r中冷却以获得&#E87848&a退火铜锭&f&r.这些锭可以被粉碎成&#E87848&a退火铜粉&f&r.\\n&7[Cooking &#ED8C61Copper Dust with &#90F0E7Oxygen in a &#E3CE54Kanthal EBF will give you &#E87848Annealed Copper Hot Ingot. This can be cooled down in a &#4CBBD9Vacuum Freezer to get &#E87848Annealed Copper Ingot. These ingots can be macerated for the &#E87848Annealed Copper Dust.]&f"]
+	quest.3AB0822F02350DA3.quest_subtitle: "无限&a伤害&f&7[Infinite Damage]&f"
+	quest.3B99290BE63F2968.quest_subtitle: "压缩&a碳粉&f&7[Compressing Carbon Dust]&f"
+	quest.4F780343E3FFA43E.quest_subtitle: "&a结束了&f&7[This is the End]&f"
+	quest.53C167AF34694F8F.quest_desc: ["将&#40B36A钇&r、&#DBA146&a退火铜&f&r、&#33CC3A钕&r和&#D6D290铱&r粉混合,将制成&#5EDEE0超导粉&r.这可以在&#E3CE54坎塔尔电力高炉&r中烧制,然后在&#4CBBD9&a真空冷冻机&f&r中冷却.\\n&7[Mixing together &#40B36AYttrium, &#DBA146Annealed Copper, &#33CC3ANeodymium and &#D6D290Iridium Dusts will make &#5EDEE0SuperConductor Dust. This can be cooked in a &#E3CE54Kanthal EBF to be cooled down in the &#4CBBD9Vacuum Freezer.]&f"]
+	quest.53C167AF34694F8F.quest_subtitle: "超导&7[Conducting superly]&f"
+	quest.54C852CA6E056589.quest_subtitle: "核电池&7[Nuclear Batteries]&f"
+	quest.732DA855AFF62907.quest_desc: ["离心&8煤炭&r将制成&7&a碳粉&f&r.\\n&7[Centrifuging Coal will make Carbon Dust.]&f"]
+	task.121A74E938A0320C.title: "&aUU物质&f&7[UU Matter]&f"
+}

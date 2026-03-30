@@ -1,0 +1,44 @@
+{
+	"chapters/productive_bees.snbt": {
+		quest.60B985069E0E643E.quest_subtitle: {
+			old: "Magmática + Suor"
+			new: "Lava + Água"
+		}
+		quest.5AE851B8074BC7E6.quest_subtitle: {
+			old: "Luminoso + Mineradora de Chocolate"
+			new: "Mergulhe o Ovo de Abelha Redstone, o Cristal Fluix e a Pedra Luminosa na água"
+		}
+	}
+	chapter.snbt: {
+		chapter.51A2FE60D8B76FC6.title: {
+			old: "&fExtended e Advanced AE"
+			new: "&fExtended e AdvancedAE"
+		}
+		chapter.6B13AF321AC831D1.title: {
+			old: "&fEra do Óleo e Chapas à Prova de Explosão"
+			new: "&fEra do Petróleo e Chapas à Prova de Explosões"
+		}
+		chapter.37BC0E99F564D560.title: {
+			old: "&fEra do Vapor"
+			new: "&fA Era do Vapor"
+		}
+	}
+	"chapters/productive_trees.snbt": {
+		quest.22151D56616559CB.quest_desc: {
+			old: [" "]
+			new: ["Esses itens podem ser encontrados em baús dentro de Naufrágios."]
+		}
+		quest.289B30DAC960BFF2.quest_desc: {
+			old: [" "]
+			new: ["Esses itens podem ser encontrados em baús dentro das Cidades do End."]
+		}
+		quest.4281BCDCE233F65B.quest_desc: {
+			old: [" "]
+			new: ["Esses itens podem ser encontrados em baús dentro das Cidades Ancestrais."]
+		}
+		quest.18A2F6BA778D96B1.quest_desc: {
+			old: ["Estes podem ser encontrados em baús dentro de Bastiões."]
+			new: ["Esses itens podem ser encontrados em baús dentro dos Bastiões."]
+		}
+	}
+}

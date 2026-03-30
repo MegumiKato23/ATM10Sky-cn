@@ -1,0 +1,7 @@
+// Compost colors for usefulslime. You may add your own colors, change existing ones, or remove colors that aren't needed.
+jello, #93e689
+slime_boots, #7cc672
+slime_chestplate, #8ee183
+slime_helmet, #6fb466
+slime_leggings, #7dc873
+slime_sling, #98d298

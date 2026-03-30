@@ -1,0 +1,3 @@
+// Compost colors for ae2importexportcard. You may add your own colors, change existing ones, or remove colors that aren't needed.
+export_card, #c8d9de
+import_card, #c8d9de

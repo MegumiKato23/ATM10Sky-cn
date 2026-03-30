@@ -1,0 +1,8 @@
+{
+  "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
+  "c:gems/apatite": "null",
+  "c:dusts/saltpeter": "railcraft:saltpeter_dust",
+  "c:dusts/niter": "null",
+  "c:ingots/graphite": "bigreactors:graphite_ingot",
+  "c:rubbers": "null"
+}

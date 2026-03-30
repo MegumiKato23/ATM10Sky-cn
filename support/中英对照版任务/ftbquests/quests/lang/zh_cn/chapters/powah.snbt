@@ -1,0 +1,50 @@
+{
+	quest.05B0A7D0B991050F.title: "反应堆(硬化)&7[Reactor (Hardened)]&f"
+	quest.08245411AFDB63DB.quest_desc: ["此任务由&6AllTheMods Staff&r或&2社区贡献者&r为AllTheMods整合包创作.\\n\\n由于所有&6AllTheMods&r整合包均在&e版权所有&r许可下发布,未经&6AllTheMods团队&r明确许可,此任务不得用于任何非&6AllTheMods团队&r发布的公开整合包.\\n\\n此任务被故意隐藏,如果你看到这个,说明你正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks.\\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.0FD62827710F0AC6.quest_desc: ["&c岩浆发电机&r在供应熔岩时会生成FE.\\n&7[The Magmator will generate FE when supplied with Lava.]&f"]
+	quest.0FFF2BEE5D8EBE12.title: "反应堆(硝化)&7[Reactor (Niotic)]&f"
+	quest.1B0087400B0B8B49.quest_desc: ["&9反应堆&r是一个3x4x3的多方块发电机,通过燃烧&a铀矿石&r作为燃料来产生FE.\\n\\n要建造它,你需要制作总共36个反应堆方块.手持36个方块时,放置一个方块将自动建造整个反应堆.请确保先清理出一些空间!\\n\\n你需要冷却反应堆以使其产生更多FE,可以使用固体或液体&b冷却剂&r来实现.使用固体冷却剂时,你还需要提供一些液体冷却剂.&b&a干冰&f&r是一种很好的固体冷却剂!(注意:1桶&a水&f即可).\\n\\n你还可以通过保持燃料缓冲器满额,以及向反应堆添加煤炭和红石来增加FE产量.使用它们的方块同样有效!\\n&7[The Reactor is a 3x4x3 multiblock generator that burns Urananite as fuel to produce FE.\\n\\nTo build it, you'll need to make a total of 36 Reactor Blocks. While holding 36 in hand, placing one block will auto-build the reactor. Make sure to clear out some room first!\\n\\nYou'll want to cool the reactor down for it to create more FE, and you can do this with either solid or liquid coolant. To use a solid coolant, you'll also need to give it some liquid coolant as well. Dry Ice makes for a great solid coolant! (Note: 1 Water Bucket will do).\\n\\nYou can also increase the FE generation by keeping the fuel buffer full, as well as adding both Coal and Redstone to the Reactor. Using Blocks of either will also work!]&f"]
+	quest.1B0087400B0B8B49.title: "反应堆(初始)&7[Reactor (Starter)]&f"
+	quest.1C273D9E046FD18A.quest_desc: ["用于通过&9充能台&r为物品充能.\\n&7[Used to energize items using the Energizing Orb.]&f"]
+	quest.25EFC21A3C48E0B6.title: "等级:&2灵动&7[Tier: Spirited]&f"
+	quest.33816AF0E699F19F.quest_desc: ["此方块会从任何已充能的物品中抽取FE.\\n&7[This block will drain FE from any charged item.]&f"]
+	quest.341486C9F277FEB7.title: "反应堆(灵动)&7[Reactor (Spirited)]&f"
+	quest.3CB6DC5B09C62CFE.quest_desc: ["&5&a末影道门&f&r用于将能量无线传输到相邻方块或从相邻方块接收能量,接入&7末影网络&r.\\n\\n可以将它们视为你无线能量网络的无线接入点.\\n\\n注意:你只能使用&a末影单元&f来增加&a能量存储容量&r.\\n&7[Ender Gates are used to transfer power wirelessly to and from an adjacent block into the Ender Network.\\n\\nThink of these like wireless access points to your wireless network of power.\\n\\nNote: You can only add power storage capacity using an Ender Cell.]&f"]
+	quest.3D5F87F8E6B89C1B.quest_desc: ["&7熔炉发电机&r会燃烧煤炭和木头等物品来产生FE.\\n&7[The Furnator will burn items like coal and wood to produce FE.]&f"]
+	quest.3DDF87A1E5F5D009.quest_desc: [
+		"一开始,你可以用铁制作&7初始&r和&b基础&r等级的机器来应付,但最终你需要使用&9充能台&r来制作充能材料.\\n\\n&9充能台&r会利用其周围9x9区域内的&a充能棒&r为物品充能,为你创造出更好的材料,以便在Powah的&e等级&r中前进.\\n\\n要为宝珠供能,你需要将充能棒连接到正在供能的&a能量管道&f上.如果你想让宝珠充能更快,要么制作更多充能棒,要么升级到更高等级的充能棒,或者两者都做!要查看充能棒是否已连接,将你的&a扳手&r设置为链接模式,然后你可以将任何充能棒链接到宝珠.\\n&7[In the beginning, you can get by with creating the Starter and Basic tier machines using Iron, but you'll eventually need to create energized mats using the Energizing Orb.\\n\\nThe Energizing Orb will energize items using nearby Energizing Rods within a 9x9 area around it, creating better materials for you to use to progress through the Tiers in Powah.\\n\\nTo power the orb, you'll need to attach Energizing Rods to Energy Cables that are being supplied with energy. If you want the Orb to energize faster, either make more rods, upgrade to higher tier rods, or both! To see if the Rods are connected, set your Wrench to link mode and you can link any Rod to the Orb.]&f"
+		""
+		"{image:atm:textures/questpics/powah/powah_energizing.png width:200 height:200 align:1}"
+	]
+	quest.3DDF87A1E5F5D009.title: "&9充能台&7[The Energizing Orb]&f"
+	quest.4F1FFC02F4EAA2E6.title: "等级:&4硝化&7[Tier: Nitro]&f"
+	quest.52E59FCB39D66BCF.quest_desc: ["作为”被动能源”的最佳选择之一,&9&a热力发电机&f&r当放置在&c&a热源&f&r上方并获得稳定的水供应时,会产生FE.\\n\\n目前有三种方块可以放置在其下方:岩浆块(产量最低)、熔岩源块(稍好一些),或者&c&a烈焰水晶块&f&r(提供最多的热量).\\n&7[One of the best options for \"Passive Power\", the Thermal Generator will produce FE when placed over a Heat Source and given a steady supply of water.\\n\\nThere are currently 3 blocks you can place this over: a Magma block which produces the lowest, a lava source block which is a little better, or a Block of Blazing Crystal, which provides the most heat. ]&f"]
+	quest.562BD37539EE318E.title: "等级:&c炽焰&7[Tier: Blazing]&f"
+	quest.5BCA3F716348ECCD.quest_desc: ["&9&a能量漏斗&f&r会为其指向的方块(如箱子)的库存中任何可充电物品充电.\\n&7[The Energy Hopper will charge any chargeable item inside of the inventory of the block it is pointed to, like a chest.]&f"]
+	quest.5E090C9BB4DAA5D4.title: "等级:&a充能&7[Tier: Energized]&f"
+	quest.5F6152CF085D75D6.title: "反应堆(基础)&7[Reactor (Basic)]&f"
+	quest.61A8FAEC4FF18449.quest_desc: ["这些可用于为你物品栏中的物品充电,也可用于增加&7末影网络&r通道的总能量容量.\\n&7[These can be used to charge items in your inventory, or can be used to increase the overall power capacity of an Ender Network channel.]&f"]
+	quest.61DCECE1FC38E151.title: "反应堆(硝化)&7[Reactor (Nitro)]&f"
+	quest.66ECC26BC81D0093.title: "等级:&b基础&7[Tier: Basic]&f"
+	quest.6754612E9AD4B9C0.title: "反应堆(炽焰)&7[Reactor (Blazing)]&f"
+	quest.677365A816994C8B.quest_desc: [
+		"&9&a玩家供电仪&f&r会无线为玩家的物品充电.你必须先使用&9&a绑定卡&f&r将其绑定到一名玩家.这是基础卡片,仅允许发射器在&a同一维度&f工作.你可以使用&d&a绑定卡(跨维度)&f&r来升级它.\\n&7[The Player Transmitter will charge a player's items wirelessly. You must first bind this to a player using a Binding Card. This is the basic card which allows the transmitter to only work in the same dimension. You can upgrade this by using a Binding Card (Dimensional) instead. ]&f"
+		""
+		"注意:要获得玩家空中珍珠,请对僵尸或尸壳使用空中珍珠.\\n&7[Note: To get a Player Aerial Pearl, use an Aerial Pearl on a Zombie or Husk.]&f"
+	]
+	quest.6B2027DA7AA6FF34.quest_desc: ["&9Powah&r是一个科技模组,专注于&d能量&r的生成、存储和传输.从基础的FE生成到能产生&b250k FE/t&r的&a反应堆&r,Powah一应俱全!\\n\\n要开始,先获取一些&a铀矿石&r!\\n&7[Powah is a tech mod that's all about generating, storing, and transmitting Power. Ranging from basic FE generation to Reactors that produce 250k FE/t, Powah has you covered!\\n\\nTo get started, get some Uraninite!]&f"]
+	quest.6B2027DA7AA6FF34.title: "&a欢迎来到&9Powah&r!!!&7[Welcome to Powah!!!]&f"
+	quest.6D88C19F47D0D469.title: "等级:&7微型&7[Tier: Tiny]&f"
+	quest.700F3FF7C23D0C0F.quest_desc: ["&5&a末影单元&f&r会为你的&7末影网络&r中的一个通道存储能量.要增加网络的能量容量,&a右击&f&a末影单元&f打开界面,然后添加&a电池&r或&9&a能源元件&f&r来增加总容量.\\n&7[The Ender Cell will store power for a channel in your Ender Network. To increase the power capacity of the network, right click on the Ender Cell to open up the interface, then add either a Battery or an Energy Cell to increase the overall capacity.]&f"]
+	quest.7678B5DD1339833E.quest_desc: ["&a太阳能电池板&f在直接暴露于阳光下时会产生FE.但是,你可以使用&7末影透镜&r来忽略其路径上的方块.\\n&7[The Solar Panel generates FE when given direct access to the sun. However, you can use a Lens of Ender to ignore blocks in its way.]&f"]
+	quest.78202A1CF5D86B94.quest_desc: ["Powah的&9能量银行&r.\\n\\n这些也可用于升级你无线&7末影网络&r的总能量存储容量.\\n&7[The Power Bank of Powah.\\n\\nThese can also be used to upgrade the total power storage capacity of your wireless Ender Networks.]&f"]
+	quest.7D52DD751DDADA1B.quest_desc: ["用于传输能量的基础线缆.\\n&7[The basic cables for transferring power.]&f"]
+	quest.7D7983F39E6E818D.title: "等级:&9硝基&7[Tier: Niotic]&f"
+	quest.7E92ED270C67FDE5.quest_desc: ["你在本模组中可以制作的几乎每一台机器都需要一个&9&a绝缘外壳&f&r.\\n\\n你需要先制作&b粘膏&r,以及一些&a棒&r才能继续前进!\\n&7[Almost every single machine you can make in the mod will require a Dielectric Casing.\\n\\nYou'll need to make the Paste first, as well as some Rods to progress!]&f"]
+	quest.7E92ED270C67FDE5.title: "从绝缘材料开始&7[Starting with Dielectric Mats]&f"
+	task.09C7E50E7E13C53C.title: "版权所有&7[AllRightsReserved]&f"
+	task.17F07D6404668DE6.title: "充能棒&7[Energizing Rods]&f"
+	task.1F929F1DF23460AE.title: "&a绑定卡&f&7[Binding Cards]&f"
+	task.3282910297C28795.title: "版权所有&7[AllRightsReserved]&f"
+	task.36E378BF22554E0A.title: "&a能量管道&f&7[Energy Cables]&f"
+}

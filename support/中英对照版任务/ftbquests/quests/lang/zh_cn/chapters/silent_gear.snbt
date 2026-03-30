@@ -1,0 +1,86 @@
+{
+	quest.002D65E4D7E8F62B.title: "二级分级器催化剂&7[Tier 2 Grader Catalyst]&f"
+	quest.036D5767E07005BC.quest_desc: ["&b排放口&r是我们用来提取&7液态金属&r的部件.是的,不幸的是,它对我们徒手或桶来说都太烫了.\\n\\n将&c&l冶炼炉&r&7龙头&r连接到&b排放口&r,通过&a右击&f龙头来排出&7液态金属&r.\\n\\n你还可以在查看&b排放口&r时,查看&c&l冶炼炉&r内的液体量!\\n&7[Drains are what we'll use to extract our the Liquid Metals. Yes, it is unfortunately too hot for our Hands or Buckets. \\n\\nConnect the lFoundry Tap to the Drain, to drain out the Liquid Metals when Right Clicking the Tap. \\n\\nYou can also view the amounts of Liquids in the lFoundry when viewing the Drain!]&f"]
+	quest.036D5767E07005BC.title: "&c&l冶炼炉&r&b排放口&7[lFoundry Drains]&f"
+	quest.047F3F99035CE623.quest_subtitle: "我渴望矿井&7[I yearn for the Mines]&f"
+	quest.061A51A0EC13CA0F.quest_desc: ["现在我们有了&a控制器&r、&b排放口&r和&4储罐&r,我们还需要几个方块.\\n\\n首先是&6液体加热线圈&r.这些将构成&c&l冶炼炉&r的地板,并且是加热&c&l冶炼炉&r所必需的.\\n\\n最后是&c&l冶炼炉&r窗户或&c&a火焰砖&f&r.这些我们将用于建造结构的其余部分!字面意义上的建筑方块.\\n\\n&c&l冶炼炉&r不需要建造外框,所以每个角落都可以是空的；但它必须有4面墙和一个地板才能完成.如果有缺失的方块,&a控制器&r会告诉你位置.\\n\\n&c&l冶炼炉&r的内部可以小到1x1,只要它有&a控制器&r、&6液体加热线圈&r,并且其他墙面填满!\\n\\n不过我不建议造这么小的,因为&c&l冶炼炉&r越大,内部空间就越多!\\n\\n当&a控制器&r像熔炉一样亮起,并且&6液体加热线圈&r变成&6橙色&r时,你就知道&c&l冶炼炉&r建好了.\\n&7[Now that we have a Controller, Drains, and Tanks, we'll need a few more Blocks. \\n\\nFirst, is Liquid Heating Coils. These will make up the floor of the lFoundry, and are needed to Heat up the lFoundry. \\n\\nLast is either lFoundry Windows or Fire Bricks. These are what we'll use for the rest of the structure! The building blocks, quite literally. \\n\\nThe lFoundry will not need the frame built out, so every corner can remain empty; but it must have 4 Walls and a Floor to be completed. The Controller will tell you where a Block is missing, if there is one. \\n\\nThe lFoundry can be as small as 1x1 on the inside, as long as it has a Controller, Liquid Heating Coils, and the other Walls filled! \\n\\nI don't recommend making one so small though, as the bigger the lFoundry, the more space it has in it! \\n\\nYou'll know the lFoundry is built, when the Controller lights up like a Furnace, and the Liquid Heating Coils turn Orange.]&f"]
+	quest.061A51A0EC13CA0F.title: "建造&c&l冶炼炉&r&7[Building the lFoundry]&f"
+	quest.083ABBA1C45FF960.quest_subtitle: "只是一个&a割草器&f&7[Just a Lawn Mower]&f"
+	quest.0947B4ED95B0267E.quest_desc: ["为物品和工具镀层.\\n\\n下界合金是一种极好的镀层材料.\\n&7[Coats an items and tools.\\n\\nNetherite makes a great coating material.]&f"]
+	quest.0947B4ED95B0267E.quest_subtitle: "绝对不只是为了下界合金&7[Totally not just for Netherite]&f"
+	quest.0D26E5EF6CFCFDBF.quest_desc: ["比匕首更高的耐久度,但伤害和速度较低.\\n&7[Higher Durability than a Dagger, but lower damage and speed.]&f"]
+	quest.0D26E5EF6CFCFDBF.quest_subtitle: "刺刺刺&7[Stabby]&f"
+	quest.0DF4B01CC5B49E4E.quest_desc: ["使用这个铸模,你可以制作基础剑!可靠的伤害和可靠的速度.\\n&7[With this Cast, you can make the basic sword! Reliable damage and reliable speed.]&f"]
+	quest.0DF4B01CC5B49E4E.quest_subtitle: "可靠的老伙计&7[Good ol' Reliable]&f"
+	quest.0EF9F10A2178451F.quest_desc: ["&c&l冶炼炉&r的所有部件(除了龙头、&a浇铸台&f和铸盆)都可以染成任何&z颜色&r.&z颜色&r在&c&l冶炼炉&r中也是可以互换的,所以如果你喜欢,可以拥有多色的&c&l冶炼炉&r.\\n&7[All parts of the lFoundry (except Taps, Casting Tables, and Basins) can be dyed to any zColor. zColors are interchangeable in a lFoundry, too, so you can have multi-colored lFoundries, if you like.]&f"]
+	quest.0EF9F10A2178451F.title: "&z可染色&r的&c&l冶炼炉&r&z部件&r&7[zDyeable lFoundry zParts]&f"
+	quest.0FEAD3CA2CC4A8B1.title: "三级星光充能器催化剂&7[Tier 3 Starlight Charger Catalyst]&f"
+	quest.11B0B93D725ABE43.quest_desc: ["&d寂静装备&f可以使用&9&a修理工具包&f&r修复.\\n\\n要修复物品,将&a修理工具包&f放入合成网格,然后放入修复工具所需的材料.这将”填充”&a修理工具包&f.\\n\\n要修复工具,在合成网格中将填充好的&a修理工具包&f与你想要修复的工具结合.\\n&7[Silent Gear gear can be repaired using a Repair Kit.\\n\\nTo repair an item, place the Repair Kit into a crafting grid, then place the materials needed to repair the tool in with it. This will \"fill\" the Repair Kit.\\n\\nTo repair the tool, combine the filled Repair Kit with the tool you'd like to repair in a crafting grid.]&f"]
+	quest.11B0B93D725ABE43.quest_subtitle: "无需铁砧&7[No Anvils required]&f"
+	quest.158B24939A269D83.quest_desc: ["尖端升级用于提高工具的挖掘等级.\\n\\n例如:如果你有一把&a铁镐&f和1颗钻石,你可以制作一个钻石尖端升级,并将其放在你的镐上.这将允许它挖掘黑曜石,并给予属性提升.\\n&7[The Tip Upgrade is used to increase the mining level of a tool.\\n\\nFor example: If you have an Iron Pickaxe, with 1 Diamond, you can make a Diamond Tip Upgrade, and place it on your pickaxe. This will allow it to mine Obsidian, as well as give it a stat boost.]&f"]
+	quest.158B24939A269D83.quest_subtitle: "当你找不到3颗钻石时&7[For when you don't find 3 Diamonds]&f"
+	quest.2156C00E30424844.quest_desc: ["&4储罐&r用于向我们的&c&l冶炼炉&r添加液体.\\n\\n主要是燃料.\\n\\n主要是&c熔岩&r!\\n\\n这似乎是实际为&c&l冶炼炉&r供能的唯一方法之一.\\n&7[Tanks are made for adding Liquids into our lFoundry. \\n\\nMostly Fuel. \\n\\nMostly Lava! \\n\\nThat appears to be one of the only ways to actually Fuel the lFoundry.]&f"]
+	quest.2156C00E30424844.title: "&l&c冶炼炉&r&4储罐&7[lFoundry Tanks]&f"
+	quest.222D08F43B995FED.quest_subtitle: "试试看能不能砸出凹痕&7[Try and dent this]&f"
+	quest.22A0A9C81A5C85A1.quest_subtitle: "将所有东西固定在一起&7[Holding everything together]&f"
+	quest.262036FE8E87F50A.quest_subtitle: "&a3x3挖掘&f&7[3x3 Mining]&f"
+	quest.26F9DB31A835B69C.quest_desc: ["&n冶炼炉&r:&a就绪&r\\n&n冶炼炉中的液态金属&r:&a就绪&r\\n\\n现在我们怎么把它弄出来？\\n\\n还记得我们之前的朋友吗？那个&c&l冶炼炉&r&b排放口&r？我们需要让它认识我们的新朋友,&c&l冶炼炉&r&7龙头&r.\\n\\n将&c&l冶炼炉&r&7龙头&r放在&b排放口&r上,现在我们可以在它下面放置方块来将&7液态金属&r排入……\\n\\n像&8铸盆&r这样的方块,它可以将大约900mB的&7液态金属&r变成完整的&7金属块&r.\\n\\n或者&8&a浇铸台&f&r,这是我们需要用来制作……\\n&7[Foundry: Check \\nLiquid Metal in Foundry: Check \\n\\nNow how do we get it out? \\n\\nRemember our friend from earlier? The lFoundry Drain? We'll need to acquaint him with our new friend, the lFoundry Tap. \\n\\nPlace the lFoundry Tap on the Drain, now we can place Blocks beneath it to drain the Liquid Metal into... \\n\\nBlocks like the Casting Bin, which will turn about 900mB of Liquid Metal, into the full Metal Block. \\n\\nOr the Casting Table which is what we'll need in order to make...]&f"]
+	quest.26F9DB31A835B69C.title: "浇铸物品&7[Casting Items]&f"
+	quest.29131C3532610ADF.quest_desc: ["这是一个用于星光充能器的二级支柱顶盖.\\n&7[This is a Tier 2 Pillar Cap for the Starlight Charger.]&f"]
+	quest.29131C3532610ADF.title: "二级星光充能器支柱顶盖&7[Tier 2 Starlight Charger Pillar Cap]&f"
+	quest.2BF119DD5D977409.title: "二级星光充能器催化剂&7[Tier 2 Starlight Charger Catalyst]&f"
+	quest.2EB96FF06627FD9A.quest_desc: ["&a拆解回收机&f允许你将装备分解成其组成的物品.\\n\\n例如:如果你放入一些&a钻石靴子&f,你将得到4颗钻石.\\n&7[The Salvager allows you to break down gear into the items they from.\\n\\nFor example: If you put in some Diamond Boots you will get 4 Diamonds back.]&f"]
+	quest.2EB96FF06627FD9A.quest_subtitle: "分解(某些)物品!&7[Breaking down (some) items!]&f"
+	quest.2EB96FF06627FD9A.title: "回收机&7[Salvager]&f"
+	quest.3722B43822F80470.quest_desc: ["比剑更高的伤害,但速度更慢.\\n&7[More damage than a Sword, but slower.]&f"]
+	quest.3722B43822F80470.quest_subtitle: "释放你内心的武士&7[Release Your Inner Samurai]&f"
+	quest.3930404D5C8B44EB.quest_desc: ["这用于创建自定义合金.\\n\\n它也是获得&a提尔钢&f的唯一方法!\\n&7[This is used to create custom alloys.\\n\\nIt is also the only way to get Tyrian Steel!]&f"]
+	quest.3930404D5C8B44EB.quest_subtitle: "组合材料&7[Combines Materials]&f"
+	quest.39B85DB54B1037FE.quest_desc: ["比剑稍快,但伤害较低.\\n&7[Slightly faster than a Sword, but lower damage.]&f"]
+	quest.39B85DB54B1037FE.quest_subtitle: "厚剑&7[Thicc Sword]&f"
+	quest.3AC03D1FA5C341A7.quest_desc: ["&a再结晶器&f允许你将不同的晶体组合在一起,制作新的晶体,用于制造武器、工具和盔甲.\\n&7[The Recrystallizer allows you to combine together different crystals to make new crystals to use to make weapons, tools and armor.]&f"]
+	quest.3B560B2ECE331CAF.quest_desc: ["这是一个用于星光充能器的三级支柱顶盖.\\n&7[This is a Tier 3 Pillar Cap for the Starlight Charger.]&f"]
+	quest.3B560B2ECE331CAF.title: "三级星光充能器支柱顶盖&7[Tier 3 Starlight Charger Pillar Cap]&f"
+	quest.3D2C6FF462B17205.quest_desc: ["低伤害,极高的&a攻击速度&f.减少目标的无敌时间.\\n&7[Low damage, very high attack speed. Reduces the invincibility time of the target.]&f"]
+	quest.3D2C6FF462B17205.quest_subtitle: "刺刺刺&7[Stabby Stab]&f"
+	quest.3F39BEB788175CEF.quest_subtitle: "3x3挖掘!&7[3x3 Digging!]&f"
+	quest.405DCD3E36232EEA.quest_desc: ["比剑伤害低,但攻击距离更长.\\n&7[Less damage than a Sword, but longer reach.]&f"]
+	quest.405DCD3E36232EEA.quest_subtitle: "释放你内心的斯巴达人&7[Release Your Inner Spartan]&f"
+	quest.427516AA3E8C9442.quest_subtitle: "多功能锄&7[Versatile Hoe]&f"
+	quest.45899579D9B92D91.quest_desc: ["&a控制器&r是&c&l冶炼炉&r的核心.\\n\\n每个&c&l冶炼炉&r至少需要1个才能建成.\\n\\n我们可以使用&c&l冶炼炉&r来查看&c&l冶炼炉&r的GUI.在这里我们可以看到&c&l冶炼炉&r内的液体量.\\n\\n我们还可以用它来放入和取出&c&l冶炼炉&r中的物品.\\n&7[The Controller is the heart of the lFoundry. \\n\\nEach lFoundry will need atleast 1, to be made. \\n\\nWe can use the lFoundry to view the GUI of the lFoundry. Here we can see the amounts of Liquids within the lFoundry. \\n\\nWe can also use it to put and take Items in and out of the lFoundry.]&f"]
+	quest.45899579D9B92D91.title: "&c&l冶炼炉&r&a控制器&7[lFoundry Controller]&f"
+	quest.462C1F75A2FB9F02.quest_subtitle: "威利在哪？&7[Where's Willy?]&f"
+	quest.48D358470A019E7A.title: "一级星光充能器催化剂&7[Tier 1 Starlight Charger Catalyst]&f"
+	quest.52CDB46F6CBF007B.quest_subtitle: "你喜欢这个吗？&7[Are you digging this?]&f"
+	quest.63CAD77A4488F2CE.quest_subtitle: "镐 + 斧 + 锹&7[Pickaxe + Axe + Shovel]&f"
+	quest.657B3116A6419420.quest_subtitle: "你自己的手柄!&7[Your own Handle!]&f"
+	quest.67216EC5274F08B9.quest_subtitle: "剪羊毛高手专用&7[Used by Shear-perds]&f"
+	quest.69383DA579901E7E.quest_subtitle: "让我问你这个问题&7[Let me Axe you this]&f"
+	quest.6A393C7A24899E3E.quest_desc: ["将锭放入分级器并配合分级器催化剂,可以赋予材料一个等级.\\n\\n等级越好,材料的属性就越好.\\n\\n最好的等级是”MAX”.\\n&7[Placing an ingot in the Grader with a Grader Catalyst will give the material a grade.\\n\\nThe better the grade, the better the stats are on the material.\\n\\nThe best grade is \"MAX\".]&f"]
+	quest.6A393C7A24899E3E.quest_subtitle: "&a材料&f测试仪&7[The Material Tester]&f"
+	quest.6B78378BC8036227.title: "一级分级器催化剂&7[Tier 1 Grader Catalyst]&f"
+	quest.6BBC440BD0AD0E93.quest_desc: ["有些人喜欢&9&l&d寂静装备&f&r,有些人喜欢&7&l匠魂&r.\\n\\n我们决定不二选一,而是通过使用&9&l&d寂静装备&f&r和&c&l高效金属加工&r来兼收并蓄!\\n\\n&c&l高效金属加工&r将改变我们获取&9&l寂静&r物品的方式.现在我们将不再使用&9蓝图&r,而是需要&8铸模&r和一个&c&l冶炼炉&r.\\n\\n要开始制作&c&l冶炼炉&r,先从&c&a耐火黏土块&f&r开始.\\n&7[Some people like lSilent Gear, while some like lTinker's Construct. \\n\\nInstead of choosing between them, we've decided to take the best of both worlds by using lSilent Gear and lProductive Metalworks! \\n\\nlProductive Metalworks will change how we obtain our lSilent Items. Instead of using Blueprints, we'll now need Casts and a lFoundry. \\n\\nTo start making the lFoundry, start with Fire Clay.]&f"]
+	quest.6BBC440BD0AD0E93.title: "&9&l&d寂静装备&f&r与&c&l高效金属加工&7[lSilent Gear and lProductive Metalworks]&f"
+	quest.6BFD7854F078BF16.quest_subtitle: "好好把握这个&7[Get a Grip on this]&f"
+	quest.711826BBCA832EE2.quest_desc: ["所有&8铸模&r生而平等.换个说法,我的意思是它们的制作方法相同.\\n\\n通过在&8&a浇铸台&f&r上将&8钢水&r浇注到一个物品上!\\n\\n你问我们如何制作&8钢水&r？只需熔化任何&8钢&r物品或锭.或者你可以将9份&7铁&r与10份&0煤&r合金化.\\n\\n当&c&l铸造厂&r被&6加热&r且其中含有正确数量的不同&7液态金属&r时,合金化就会发生.这两种&7液态金属&r将结合成一种&7液态金属&r!\\n&7[All Casts are made equal. In another sense I mean they are made the same way. \\n\\nBy Pouring Steel onto an Item in a Casting Table! \\n\\nHow do we make Steel you ask? Simply Melt down any Steel Items or Ingots. Or you can Alloy 9 Iron to 10 Coal. \\n\\nAlloying will happen when the lFoundry is Heated and the right amounts of different Liquid Metals are in it. These two Liquid Metals will combine into one Liquid Metal!]&f"]
+	quest.711826BBCA832EE2.title: "&8铸模&7[Casts]&f"
+	quest.766C80E5D7B7A916.quest_subtitle: "选一个!&7[Pick one!]&f"
+	quest.769D5DE66D13B256.quest_desc: ["此任务由&6AllTheMods 团队&r或&2社区贡献者&r创作,用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r整合包均根据&e版权所有&r许可,未经&6AllTheMods 团队&r明确许可,此任务不得用于任何非&6AllTheMods 团队&r发布的公开整合包.\\n\\n此任务被有意隐藏,如果你看到此信息,说明你正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks.\\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.7C3D763CF22D167A.quest_desc: ["&a星祭&f充能器可以为材料”附魔\\n&7[The Starlight Charger can \"enchant\" materials with the \"Star Charged\" enchantment.\\n\\nA structure must be built with the Starlight Charger in the middle in view of the night sky. It only gains Starlight Power during the night.\\n\\nThe Charger must be placed in the middle of a 7x7 structure, with a Pillar in each corner. Each pillar must have a \"Starlight Charger Cap\".\\n\\nIt also requires a charger catalyst per material.]&f"]
+	quest.7C3D763CF22D167A.quest_subtitle: "”附魔”材料&7[\"Enchanting\" Materials]&f"
+	quest.7C3D763CF22D167A.title: "&d星辉充能器&7[Starlight Charger]&f"
+	quest.7D690A7D0FF6E328.title: "三级分级催化剂&7[Tier 3 Grader Catalyst]&f"
+	quest.7E13007340A818C5.quest_desc: ["这是星辉充能器的一级支柱顶盖.\\n&7[This is a Tier 1 Pillar Cap for the Starlight Charger.]&f"]
+	quest.7E13007340A818C5.title: "一级星辉充能器支柱顶盖&7[Tier 1 Starlight Charger Pillar Cap]&f"
+	task.0EF203AF0BA514F7.title: "&a修理工具包&f&7[Repair Kits]&f"
+	task.155D4ED18738E127.title: "熔炉储罐&7[Foundry Tanks]&f"
+	task.2AE89914A34BF3AD.title: "&a火焰砖&f或熔炉玻璃&7[Fire Bricks or Foundry Windows]&f"
+	task.3B23E744D3B72AE8.title: "&a火焰砖&f或熔炉玻璃&7[Fire Bricks or Foundry Windows]&f"
+	task.511ECEA2E9BD1F71.title: "任意 #productivemetalworks:foundry_drains&7[Any #productivemetalworks:foundry_drains]&f"
+	task.51297F6E0D9BB58C.title: "任意 #productivemetalworks:foundry_tanks&7[Any #productivemetalworks:foundry_tanks]&f"
+	task.54EF988F476C9208.title: "熔炉排水口&7[Foundry Drains]&f"
+	task.55E0635973A828B0.title: "版权所有&7[AllRightsReserved]&f"
+	task.6D9DBD885FE4C94C.title: "版权所有&7[AllRightsReserved]&f"
+	task.76E296A2AD3EFE92.title: "任意 #productivemetalworks:foundry_controllers&7[Any #productivemetalworks:foundry_controllers]&f"
+	task.7D9F2C8E7C65B654.title: "&a熔铸炉控制器&f&7[Foundry Controllers]&f"
+}

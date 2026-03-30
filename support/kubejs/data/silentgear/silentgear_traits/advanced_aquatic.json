@@ -1,0 +1,27 @@
+{
+    "conditions": [],
+    "description": {
+        "text": "高级水生护甲无需全套即可提供水下呼吸效果"
+    },
+    "effects": [
+        {
+            "type": "silentgear:wielder_effect",
+            "potion_effects": {
+                "silentgear:armor": [
+                    {
+                        "type": "piece_count",
+                        "duration": 38,
+                        "effect": "minecraft:water_breathing",
+                        "levels": [
+                            1
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "max_level": 5,
+    "name": {
+        "text": "高级水生护甲"
+    }
+}

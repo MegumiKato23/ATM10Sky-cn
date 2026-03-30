@@ -1,0 +1,7 @@
+// Compost colors for moderndynamics. You may add your own colors, change existing ones, or remove colors that aren't needed.
+attractor, #ffffff
+debug_tool, #f7ff30
+extractor, #ffffff
+filter, #ffffff
+inhibitor, #ffffff
+wrench, #4783d3

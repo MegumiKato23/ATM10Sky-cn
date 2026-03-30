@@ -1,0 +1,11 @@
+{
+	quest.3708A4780ACEB34E.quest_desc: ["在这个整合包中，任务是可选的。任何模组都不会因为你没有完成任务而被锁定！\\n\\n除主线任务外，许多单独的任务线都是作为模组指南而设计的。如果你想按照进度推进，记得查看主线任务！"],
+	quest.3BC0A50886A3222B.quest_desc: ["ATM10 向天空进发 是一个厨房水槽整合包，让你能够以自己的方式探索各种不同的模组！\\n\\n如果你有任何问题或遇到任何困难，欢迎随时加入 ATM 的 Discord！"],
+	quest.3BC0A50886A3222B.title: "&d欢迎来到 All The Mods 10，这次又向天空进发了（再次）",
+	quest.49EDAA2F57D3BF1D.quest_desc: ["此任务由 &6AllTheMods Staff&r 或 &2社区贡献者&r 编写，供 AllTheMods 整合包使用。\\n\\n由于所有 &6AllTheMods&r 整合包均采用 &e保留所有权利&r 许可，因此未经 &6AllTheMods Team&r 明确许可，不得在任何非由其发布的公开整合包中使用此任务。\\n\\n此任务被刻意隐藏，如果你能看到它，说明你正处于编辑模式。"],
+	quest.5AC1BE754210429E.quest_desc: ["如果你想为自己和朋友创建一个队伍，请使用命令 &a/ftbteams party create (队伍名称)&r 来创建队伍！"],
+	task.201F519941A2C7F4.title: "保留所有权利",
+	task.2C816285392535F0.title: "保留所有权利",
+	task.4F13A02FB0055A62.title: "创建团队",
+	task.52BB142F044075B4.title: "任务"
+}

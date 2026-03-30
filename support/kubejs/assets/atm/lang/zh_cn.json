@@ -1,0 +1,10 @@
+{
+    "announcements.atm.dismiss_up_to_version": "[忽略版本%s及更早的公告]",
+    "announcements.atm.dismissed_up_to_version": "已忽略版本%s及更早的公告!",
+    "kubejs.atm.click_here": "点击此处关闭",
+    "packmenu.atm.akliz": "创建服务器",
+    "packmenu.atm.discord": "Discord",
+    "packmenu.atm.github": "Github",
+    "packmenu.atm.patreon": "捐赠",
+    "packmenu.atm.reddit": "Reddit"
+}

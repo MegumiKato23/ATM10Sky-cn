@@ -1,0 +1,410 @@
+{
+	quest.00A6020BC979947F.quest_desc: ["用你刚刚召唤的&9巨灵粉碎者&r,你可以分解一个&a回响碎片&f和一个&a艾瑟金属锭&f,当它们与&a荧光墨囊&f结合时,就能制作出&a青色粉笔&f.\\n&7[With your freshly summoned Marid Crusher, you can break down an Echo Shard and an Iesnium Ingot, which when combined with a Glow Ink Sac creates Cyan Chalk.]&f"]
+	quest.00A6020BC979947F.title: "&3&a青色粉笔&f&7[Cyan Chalk]&f"
+	quest.03250A0202C25E80.quest_desc: ["在你成功击败了用&4提比拉的吸引&r召唤的&9无束缚巨灵&r恶魔后,你可以用它掉落的&9巨灵精华&r来制作”最高”等级的彩色粉笔,&a蓝色粉笔&f.\\n&7[After you've successfully slain the Unbound Marid Demon that you summoned with Tibira's Attraction, you can use the Marid Essence that it drops to craft the \"highest\" colored Chalk, Blue Chalk.]&f"]
+	quest.03250A0202C25E80.title: "&9&a蓝色粉笔&f&7[Blue Chalk]&f"
+	quest.08697EB269B011FD.quest_desc: [
+		"使用&d罗纳扎的接触&r,你可以将你的&b艾瑟&a献祭之碗&f&r升级为邪术圣杯.在仪式中使用时,能完全减少仪式完成所需的时间.\\n&7[With Ronaza's Contact, you can upgrade your Iesnium Sacrificial Bowl to the Eldritch Chalice. When used in a ritual, reduces the time it takes to complete... entirely. ]&f"
+		""
+		"是的,邪术圣杯能让所有仪式瞬间完成!\\n&7[Yes, the Eldritch Chalice makes it so that all rituals complete instantly!]&f"
+	]
+	quest.08697EB269B011FD.title: "邪术圣杯&7[Eldritch Chalice]&f"
+	quest.0A25276925EB0CBA.quest_desc: [
+		"一旦你收集齐了所有颜色的粉笔和基础粉笔,你就可以进行第二种&d无需恶魔&r类型的仪式,&d罗纳扎的接触&r.这是终极仪式,用到了你迄今为止学到的一切!\\n&7[Once you've gathered every single colored Chalk and Foundation Chalk, you can perform the second Demon-less type ritual, Ronaza's Contact. This is the ultimate ritual, using everything you've learned so far!]&f"
+		""
+		"它有使用次数限制,但用这个仪式创造的每样东西都超级强大!\\n&7[It has limited uses, but everything created with this ritual is super powerful!]&f"
+	]
+	quest.0A25276925EB0CBA.quest_subtitle: "凭此圣物,我召唤……&7[With this sacred treasure I summon...]&f"
+	quest.0A25276925EB0CBA.title: "&d罗纳扎的接触&7[Ronaza's Contact]&f"
+	quest.0B3EA604C5172D98.quest_desc: [
+		"为了指定我们想要召唤哪个&c&m恶魔&r &9朋友&r,我们需要制作一本特定的&b束缚之书&r.\\n\\n要制作这个,你需要在&d灵火&r中净化一些&a黑色染料&f来获得&a纯净墨水&f.有了这个,我们将制作我们的第一本束缚之书,它将召唤一个&a小魔&r恶魔.\\n&7[For us to specify which Demon Friend we want to summon, we'll need to make a specific Book of Binding.\\n\\nTo make this, you'll need to purify some Black Dye in Spiritfire to get Purified Ink. With this, we're going to make our first Book of Binding which will summon a Foliot Demon.]&f"
+		""
+		"或者,你也可以制作一本空的束缚之书,之后可以根据你需要的仪式等级进行染色.\\n&7[Alternatively, you can make an Empty Book of Binding, which can be dyed later to fit whatever tier of ritual you need.]&f"
+	]
+	quest.0B3EA604C5172D98.title: "&b&d束缚之书&7[Books of Binding]&f"
+	quest.0BD6365534BF04D5.quest_desc: [
+		"有了&a黄绿色粉笔&f,是时候深入&5附身仪式&r了.这些仪式与其他仪式略有不同,因为它们都需要活祭品,通常是小型生物,如鸡、蜜蜂、蝙蝠等.然而,随着仪式变得更加复杂,它们将需要越来越大的祭品.\\n&7[With Lime Chalk, it's time to delve into Possession Rituals. These rituals are slightly different from the others because they all require a live sacrifice, usually small mobs such as Chickens, Bees, Bats, etc. However, as rituals get more complicated, they will require larger and larger sacrifices. ]&f"
+		""
+		"即使你已经将所有需要的物品和束缚之书放入了&a黄金献祭之碗&f,&a魔法仪式&f也不会开始,除非你在符文上杀死祭品.\\n&7[Even if you've placed all of the items needed and the Book of Binding into the Golden Sacrificial Bowl, the Ritual will not begin until you kill the sacrifice on top of the runes.]&f"
+		""
+		"建议你制作一些生物捕捉物品,比如空灵魂宝石、罐子、&a生物捕捉工具&f,或者&a量子捕捉器&f!\\n&7[It is recommended that you make some sort of mob capture item such as an Empty Soul Gem, Jar, Mob Imprisonment Tool, or Quantum Catcher!]&f"
+		""
+		"&5附身仪式&r的第一级是&e海德林的引诱&r,它只用于获取普通物品,如&a骷髅头颅&f和末地石.因此,你可以直接跳到第二级仪式,&a伊哈甘的奴役&r.\\n&7[The first tier of Possession rituals is Heidryn's Lure, which is only used to get mundane items like Skeleton Skulls and End Stone. Because of this, you can skip straight to the second tier of ritual, Ihagan's Enthrallment. ]&f"
+	]
+	quest.0BD6365534BF04D5.quest_subtitle: "你要召唤谁？&7[Who you gonna call?]&f"
+	quest.0BD6365534BF04D5.title: "&a伊哈甘的奴役&7[Ihagan's Enthrallment]&f"
+	quest.0C554FD9A150D2CD.quest_desc: [
+		"你也可以使用&c铜&a献祭之碗&f&r和&c银&a献祭之碗&f!&r\\n&7[You can also use Copper Sacrificial Bowls and Silver Sacrificial Bowls!]&f"
+		""
+		"虽然这些纯粹是为了装饰,功能上没有任何改变,但它们看起来确实漂亮多了!\\n&7[While these are purely for decoration and change nothing functionally, they do look much nicer!]&f"
+	]
+	quest.0D18BBB04693885A.quest_desc: ["斯特里吉欧的高等束缚是&6灌注仪式&r的第二级.它用于许多不同的事情,但我们主要需要的是&a灌注镐&f和灰色糊剂.\\n&7[Strigeor's Higher Binding is the second tier of Infusion Rituals. It's used for many different things, but the main things we'll need are the Infused Pickaxe and Gray Paste.]&f"]
+	quest.0D18BBB04693885A.quest_subtitle: "”万物”仪式&7[The \"Everything\" Ritual]&f"
+	quest.0D18BBB04693885A.title: "&a斯特里吉欧的高等束缚&7[Strigeor's Higher Binding]&f"
+	quest.0FE3094B22412BD3.quest_desc: ["&a献祭祭坛&f是神秘学提供的另一个工具,这次专注于献祭的自动化.\\n\\n这个祭坛放在你的中心碗下方,如果附近有一个装有潜在祭品的禁锢罐,它将允许用附近&a魔源罐&f中的源质来替代献祭.\\n&7[The Sacrificial Altar is another tool Ars Ocultas offers, this time, focusing on the automation of Sacrifices.\\n\\nThis Altar goes under your central bowl, and will allow for Sacrifices to be substituted with Source from a nearby Source Jar, if a Containment Jar containing the would-be sacrifice is also nearby]&f"]
+	quest.0FE3094B22412BD3.quest_subtitle: "源质替代献祭&7[Source Substitutes Sacrifice]&f"
+	quest.11A0593C0E2E6A35.quest_desc: ["使用&e埃兹维乌斯的灵体强制&r,我们可以将多种不同的自然方块注入能量,形成一些&2自然糊剂&r.将这种糊剂与一些&a含杂白色粉笔&f结合,就能制作出&a绿色粉笔&f.\\n&7[Using Eziveus' Spectral Compulsion, we can imbue a myriad of different nature blocks to form some Nature Paste. Combine this Paste with some Impure White Chalk to create Green Chalk.]&f"]
+	quest.11A0593C0E2E6A35.title: "&2&a绿色粉笔&f&7[Green Chalk]&f"
+	quest.145C8235BCCB9BA8.quest_desc: [
+		"如果我们想收集所有的粉笔,我们需要召唤并杀死一个不太友好的&c炎魔&r.\\n&7[If we want to collect all of the Chalks, we'll need to summon and kill aa not-so friendly Afrit.]&f"
+		""
+		"尽管这不是一个&5附身仪式&r,但这个仪式你需要一个活祭品.在这个例子中,我们将献祭一头牛.对不起了贝琪!\\n&7[Even though this isn't a Possession Ritual, you'll need a live sacrifice for this ritual. In this instance, we'll be sacrificing a Cow. Sorry Betsy!]&f"
+	]
+	quest.145C8235BCCB9BA8.quest_subtitle: "安息吧,贝琪&7[R.I.P. Betsy]&f"
+	quest.145C8235BCCB9BA8.title: "&c&a红色粉笔&f&7[Red Chalk]&f"
+	quest.172D2A634E849562.quest_desc: ["凭借我们收获&c艾瑟金属&r的能力,我们可以召唤恶魔来为我们采矿……我是说……帮我们收集矿石.绝对不是剥削恶魔什么的.\\n\\n为此,我们需要创建一个&d&a维度矿井&f&r来进入恶魔采矿世界.你还需要一个被禁锢在灯里的采矿恶魔,你把它放在矿井里才能工作.虽然任何等级的恶魔都能完成这个任务,但等级越高,工作速度越快,为你开采艾瑟金属的几率也越高.\\n\\n&a矿井&f不会自动输出物品.你需要使用漏斗、运输恶魔或其他方法(如物品管道)将物品提取出来.如果超过存储限制,它会销毁多余的物品.\\n&7[With our ability to harvest Iesnium, we can call upon the Demons to do our bidding in the mines... I mean.... help us gather ores. Definitely not exploiting Demons or anything.\\n\\nFor this, we'll need to create a Dimensional Mineshaft to access the Demon Mining World. You'll also need a Mining Demon confined to a lamp, which you'll place inside of the Mineshaft for it to work. While any tier will complete this quest, higher tiers work faster and have a higher chance at mining Iesnium for you.\\n\\nThe Mineshafts do not auto-export on their own. You will need to extract the items out using either Hoppers, Transporting Demons, or some other method like Item Pipes. It will void any items over its storage limit.]&f"]
+	quest.172D2A634E849562.title: "&c恶魔采矿&7[Demon Mining]&f"
+	quest.1848F431D0380DA9.quest_desc: [
+		"类似于&a斯特里吉欧的高等束缚&r的粉笔修复功能,&c塞维拉的永久禁锢&r可以利用炎魔的力量来修复物品.\\n&7[Similar to the Chalk Repairing function of Strigeor's Higher Binding, Sevira's Permanent Confinement can be used to repair items using the power of an Afrit Demon.]&f"
+		""
+		"这个仪式可以修复几乎任何东西,所以&e采矿恶魔&f、工具和盔甲都可以恢复到原来的耐久度!\\n&7[This ritual can repair just about anything, so Demon Miners, tools, and armor can all be restored to their original durability! ]&f"
+		""
+		"所有用这个仪式修复的物品都会保留其原始属性(词缀、附魔等),所以不用担心你珍贵的附魔!\\n&7[All items that are repaired using this ritual retain their original properties (affixes, enchantments, etc), so don't worry about your precious enchantments!]&f"
+	]
+	quest.1848F431D0380DA9.quest_subtitle: "免费(差不多)的耐久度!&7[Free(ish) durability!]&f"
+	quest.1848F431D0380DA9.title: "修复物品&7[Repairing Items]&f"
+	quest.1B5177A774FCEF64.quest_desc: ["在我们开始寻求恶魔朋友的帮助之前,我们需要制作仪式最重要的物品:&a粉笔&r.\\n\\n需要几种颜色的粉笔,更高级的仪式需要多种粉笔才能激活.首先,&b&a白色粉笔&f&r是最容易获得的.\\n\\n先把异界石扔进熔炉,再把异界原木扔进&d灵火&r.用你创造的物品,你就能制作出&a含杂白色粉笔&f.\\n\\n要净化任何一块粉笔,只需把它扔进&d灵火&r中清洗.使用&a纯化&f后的粉笔在地上画会画出&m恶魔的&r漂亮符号.这些符号很难&a移除&f,除非你给自己做个&a&a粉笔擦&f&r.做吧,值得的.\\n&7[Before we start enlisting the help of our Demon friends, we will need to create the most important item needed for Rituals: Chalk.\\n\\nThere are several colors of chalk needed, with higher level Rituals requiring several to activate. To start with, White Chalk is the easiest to get.\\n\\nStart by tossing Otherstone in a furnace, and tossing Otherworld Logs into Spiritfire. With the items you create, you'll be able to make the Impure White Chalk.\\n\\nTo purify any piece of Chalk, simply throw it into Spiritfire to cleanse it. Using the Purified Chalk on the ground will draw demonic pretty symbols on the ground. These are a pain to remove, unless of course, you make yourself the Chalk Brush. Do it, it's worth it.]&f"]
+	quest.1B5177A774FCEF64.title: "准备仪式:&e粉笔&7[Preparing for a Ritual: Chalk]&f"
+	quest.1BDB369FD243D4C6.quest_desc: [
+		"可以说是你在&d神秘学&f中可以创造的最有用的物品,&b艾瑟金属砧&r是原版铁砧的超强版本.\\n&7[Arguably the most useful item that you can create in Occultism, the Iesnium Anvil is a super-powerful version of the Vanilla Anvil.]&f"
+		""
+		"使用&9乌菲克斯斯的倒置之塔&r创造,它:\\n&7[Created using Uphyxes' Inverted Tower, it:]&f"
+		""
+		"- 无法破坏.\\n&7[- Is unbreakable.]&f"
+		"- 将任何在其上合成的物品的所有附魔最高等级提高一级.\\n&7[- Increases the maximum level of all enchants for anything combined on it by one level.]&f"
+		"- 消耗的经验值是预估的一半(向下取整,所以如果显示25,则消耗12).\\n&7[- Costs half as much xp as the estimate says (rounded down, so if it says 25, it'll cost 12).]&f"
+		"- 对同一物品进行重复编辑时,经验值要求增加得更少.\\n&7[- Has a smaller experience requirement increase for repeated edits on the same item.]&f"
+		"- 提高了可以编辑物品的最高经验等级(即显示”过于昂贵!”的那个点).\\n&7[- Increases the maximum xp level at which you can edit items (the point at which it says \"Too Expensive!\").]&f"
+	]
+	quest.1DE0F289821F55D1.quest_desc: ["现在我们有了一个小魔粉碎者,我们可以&m使用&r礼貌地请它为我们粉碎一些&e末地石&r、&9黑曜石&r和&7方解石&r.我们将用这些来制作一些新的粉笔!\\n&7[Now that we have a Foliot Crusher, we can use politely ask it to crush down some End Stone, Obsidian and Calcite for us. We'll use these to make some new Chalk!]&f"]
+	quest.1DE0F289821F55D1.title: "&a粉笔升级&7[Chalking It Up]&f"
+	quest.1EB887F8072439A3.quest_desc: ["在使用&9法特玛的激励吸引&r召唤&9巨灵粉碎者&r或使用&a奥菲克斯的呼唤&r召唤&a巨灵粉碎者&r之后,你可以将冰、&a浮冰&f和&a蓝冰&f粉碎成它们的粉碎形态,并用这些来制作&a淡蓝色粉笔&f.\\n&7[After using either Fatma's Incentivized Attraction to summon a Marid Crusher or Ophyx' Calling to summon a Djinni Crusher, you can turn Ice, Packed Ice, and Blue Ice into their crushed forms, and use these to create Light Blue Chalk.]&f"]
+	quest.1EB887F8072439A3.title: "&b&a淡蓝色粉笔&f&7[Light Blue Chalk]&f"
+	quest.2960FFE0C53DFEB1.quest_desc: [
+		"&c塞维拉的永久禁锢&r是&6灌注仪式&r的第三级.它主要用于制作下一级的基础粉笔,&a黑色粉笔&f.\\n&7[Sevira's Permanent Confinement is the third tier of Infusion Rituals. It's mainly used to create the next level of foundation Chalk, Black Chalk.]&f"
+		""
+		"它还用于创造一些可以显著加快仪式制作和执行速度的物品.\\n&7[It's also used to create a couple of items that can speed up ritual making and performing by a significant amount.]&f"
+	]
+	quest.2960FFE0C53DFEB1.quest_subtitle: "”更多万物”仪式&7[The \"Even More Everything\" Ritual]&f"
+	quest.2960FFE0C53DFEB1.title: "&c塞维拉的永久禁锢&7[Sevira's Permanent Confinement]&f"
+	quest.29C83B00AC4AFC23.quest_desc: [
+		"既然你已经走了这么远,你可能会问自己,接下来呢？嗯,在&d神秘学&f中还有更多东西可以探索!\\n&7[Now that you've come this far, you may be asking yourself, what's next? Well, there are so many more things to explore in Occultism! ]&f"
+		""
+		"你可以在你的&6&a魔灵全典&f&r中看到每个仪式和物品的完整列表,你可以尝试浏览所有仪式的成果,看看是否能找到让你感兴趣的东西!\\n&7[You can see a comprehensive list of every single ritual and item in your Dictionary of Spirits, you could try going through all the rituals' outcomes to see if you can find something that piques your interest!]&f"
+		""
+		"如果你还没有,你可以布置并装饰三个独立的仪式区域,一个用于召唤,一个用于附身,一个用于灌注.\\n&7[If you haven't already, you could lay out and decorate three separate ritual areas, one for Summons, one for Possessions, and one for Infusions.]&f"
+		""
+		"总有新的方法来利用每一个看似普通的功能,以最大化你在整合包中的体验.祝仪式制作愉快!\\n&7[There's always new ways to use each and every seemingly mundane feature to maximize your experience with the modpack. Happy ritual crafting!]&f"
+	]
+	quest.29C83B00AC4AFC23.title: "接下来呢？&7[What's Next?]&f"
+	quest.2A3D132CDBDC8174.quest_desc: ["你可能想知道:为什么&d新生魔艺&f的物品会出现在&d神秘学&f章节中？这是因为我们有神秘学来连接这两个模组.特别是,灵体,比如我们的小魔粉碎者,可以在这些罐子里工作.你甚至可以把物品用管道输送到罐子里让灵体与之互动,它们会将物品输出到相邻的容器中(我发现罐子底部是最可靠的输出位置).如果它们无法输出到容器,就会把物品输出到世界上.\\n&7[You might be wondering: Why is an Ars Nouveau item in the Occultism chapter? That's because we have Ars Ocultas, to bridge the two mods. Particularly, Spirits, like our Foliot Crusher, can work in these jars. You can even pipe items into the jars for the spirits to interact with, and they will output it to adjacent inventories (I found the bottom side of the jar to be the most reliable place they output to). If they cannot output to an inventory, they'll output the items into the world.]&f"]
+	quest.2A3D132CDBDC8174.quest_subtitle: "灵体可以在禁锢罐中工作&7[Spirits can work in Containment Jars]&f"
+	quest.2A3D132CDBDC8174.title: "神秘学:&a精魂罐&f&7[Ars Ocultas: Spirit Jars]&f"
+	quest.2A5004EB99AE4F96.quest_desc: [
+		"还有更多异界物品需要收集,而每次需要&7&a第三只眼&f&r效果时都吃&c恶魔梦之果&r很烦人.\\n&7[There are more Otherworld items you will need to gather, and eating Demon's Dream Fruit every time you need the Third Eye effect gets annoying.]&f"
+		""
+		"这就是&d异界护目镜&r的用途!当装备时(即使放在饰品栏),它会提供&a第三只眼&f效果!\\n&7[This is what the Otherworld Goggles are for! When equipped (even in your Curios slot), it gives the Third Eye effect!]&f"
+	]
+	quest.2A5004EB99AE4F96.quest_subtitle: "别再吃那个水果了!&7[Quit eating that fruit!]&f"
+	quest.2A5004EB99AE4F96.title: "行业工具:灵体护目镜&7[Tools of the Trade: Spectral Goggles]&f"
+	quest.2A6FE386DF0E1D98.quest_desc: ["不想用&b&a淡蓝色粉笔&f&r召唤&9玛瑞德粉碎者&r？那你也可以用&a镇尼粉碎者&r凑合一下.&a奥菲克斯的召唤&r用于召唤&a镇尼&r.这包括恶魔妻子/丈夫.&a镇尼&r粉碎矿石的效率比弗利奥特高,但不如&c阿弗里特&r或&9玛瑞德&r.它们还能在不融化冰的情况下粉碎冰块.\\n&7[Don't want to get a Marid Crusher for Light Blue Chalk? Then you can settle for a Djinni Crusher instead. Ophyx' Calling is used for summoning Djinnis. This includes a Demonic Wife/Husband. Djinnis are able to crush ores more efficiently than Foliots, but not as efficiently as Afrits or Marids. They're also capable of crushing ice without melting it.]&f"]
+	quest.2A6FE386DF0E1D98.quest_subtitle: "&a淡蓝色&f的替代路径&7[An alternate path for light blue]&f"
+	quest.2A6FE386DF0E1D98.title: "&a奥菲克斯的召唤&7[Ophyx' Calling]&f"
+	quest.2AD68066C1948C90.quest_desc: [
+		"第一个&e弗利奥特粉碎者&r很酷,但如果我告诉你,你可以召唤一个恶魔,它能将每个原始矿石粉碎成6份粉末呢？\\n&7[That first Foliot Crusher was cool, but what if I told you that you could summon a demon that gives you 6 dusts per raw ore it crushes?]&f"
+		""
+		"&9玛瑞德粉碎者&r正是如此.要召唤一个,你需要使用&9法特玛的激励吸引&r.\\n&7[The Marid Crusher does exactly that. To summon one, you'll need to use Fatma's Incentivized Attraction. ]&f"
+	]
+	quest.2AD68066C1948C90.quest_subtitle: "最高级召唤&7[Maximum Summon]&f"
+	quest.2AD68066C1948C90.title: "&9法特玛的激励吸引&7[Fatma's Incentivized Attraction]&f"
+	quest.2CF96A264EB5522C.quest_desc: [
+		"&9乌菲克西斯的倒置之塔&r是&6灌注仪式&r的最高等级.它不像其他三个等级那样用途广泛,但对于&d神秘学&f的”终局”来说仍然是必要的.\\n&7[Uphyxes' Inverted Tower is the maximum tier of Infusion Rituals. It doesn't have as many uses as the other three tiers, but it's still necessary for the \"endgame\" of Occultism. ]&f"
+		""
+		"它主要用于制造龙尘粉末,这是&a品红色粉笔&f的主要成分.\\n&7[Mainly, it's used to create Dragonyst Dust, which is the main ingredient for Magenta Chalk.]&f"
+	]
+	quest.2CF96A264EB5522C.quest_subtitle: "最高级灌注&7[Maximum Infusion]&f"
+	quest.2CF96A264EB5522C.title: "&9乌菲克西斯的倒置之塔&7[Uphyxes' Inverted Tower]&f"
+	quest.2E68E1D96B25336D.quest_desc: ["在击败几个由&6阿布拉斯的开放命令召唤&r召唤的恶魔附身&a僵尸猪灵&f后,你可以用它们掉落的恶魔肉来制作一些&a粉红色粉笔&f.\\n&7[After fighting through a few Demon Possessed Zombified Piglins summoned by Abras' Open Commanding Conjure, you can use the Demonic Meat dropped by them to craft some Pink Chalk.]&f"]
+	quest.2E68E1D96B25336D.title: "&d&a粉红色粉笔&f&7[Pink Chalk]&f"
+	quest.2FD22502E6481269.quest_desc: ["使用&d罗纳扎的联系&r,你可以升级你的灵魂宝石,制造一个三位一体宝石.它基本上就是灵魂宝石的强化版,可以捕捉更大的敌人,尽管它仍然无法容纳大多数Boss.\\n&7[Using Ronaza's Contact, you can upgrade your Soul Gem to create a Trinity Gem. It's basically just a beefed up version of the Soul Gem that can capture larger enemies, although it still can't contain most bosses.]&f"]
+	quest.2FD22502E6481269.title: "三位一体宝石&7[Trinity Gem]&f"
+	quest.30C5B597610F4AFB.quest_desc: ["使用埃兹维乌斯的灵质强制制造的第一个也是最重要的物品是研究碎片粉末.这需要与一些粉碎的绿宝石结合,来制造&a黄绿色粉笔&f!\\n&7[The first and most important item to make using Eziveus' Spectral Compulsion is the Research Fragment Dust. This is used in combination with some crushed Emeralds to create Lime Chalk!]&f"]
+	quest.30C5B597610F4AFB.title: "&a&a黄绿色粉笔&f&7[Lime Chalk]&f"
+	quest.33106E24A3B5DDD8.quest_desc: [
+		"你旅程的下一步将是寻找&c艾瑟尼姆&r.\\n&7[The next step in your journey will be to find Iesnium.]&f"
+		""
+		"通常,你需要在&a下界&f洞穴探险,但这是一个空岛整合包!\\n&7[Normally, you would have to go spelunking in the Nether, but this is a Skyblock modpack!]&f"
+		""
+		"相反,尝试在&a远古残骸&f上使用&a原子再构机&f.\\n&7[Instead, try using an Atomic Reconstructor on Ancient Debris.]&f"
+	]
+	quest.33106E24A3B5DDD8.title: "&c艾瑟尼姆:异界矿石&7[Iesnium: Ore of the Otherworld]&f"
+	quest.3543563DF036D461.quest_desc: ["要制造龙尘粉末,你需要进行&9乌菲克西斯的倒置之塔&r仪式.然而,要制造&a品红色粉笔&f,你还需要一些只能通过&9玛瑞德粉碎者&r获得的材料.\\n&7[To create Dragonyst Dust, you'll need to perform Uphyxes' Inverted Tower. However, to create Magenta Chalk, you'll also need some materials that you can only get through the Marid Crusher.]&f"]
+	quest.3543563DF036D461.title: "&#AD00C8&a品红色粉笔&f&7[&#AD00C8Magenta Chalk]&f"
+	quest.367E891A50991436.quest_desc: ["使用&c塞维拉的永久禁锢&r,我们可以结合几种不同的凋灵材料和下界合金,制造三份凋灵合金粉末.用这些,我们可以为自己制造最高级的基础粉笔,&a黑色粉笔&f.\\n&7[Using Sevira's Permanent Confinement, we can combine several different Wither materials and some Netherite to create three Witherite Dust. With these, we can create ourselves the highest form of Foundation Chalk, Black Chalk.]&f"]
+	quest.367E891A50991436.title: "&a黑色粉笔&f&7[Black Chalk]&f"
+	quest.38A1295878B68F83.quest_desc: [
+		"不,不是那种.\\n&7[No, not that kind.]&f"
+		""
+		"&c阿弗里特恶魔&r是&c火焰&r的恶魔.它们是更高级的恶魔,其中一些是朋友,一些则……不是.这完全取决于仪式控制&c阿弗里特&r的强度.\\n&7[Afrit Demons are Demons of Fire. They are more advanced Demons, which some are friends and some are... not. It all depends on how strongly the ritual can control the Afrit. ]&f"
+		""
+		"因为我们还没有&a红色粉笔&f,我们只能召唤一个&9未束缚&r的恶魔,这意味着它无法被控制并且会具有攻击性.\\n&7[Because we don't have access to Red Chalk yet, all we can summon is an Unbound Demon, meaning it cannot be controlled and will be violent.]&f"
+	]
+	quest.38A1295878B68F83.quest_subtitle: "火热的恶魔!&7[Hot Demons!]&f"
+	quest.38A1295878B68F83.title: "&6坎达尔的开放召唤&7[Kandar's Opened Conjure]&f"
+	quest.39647A2473F6F7D7.quest_desc: [
+		"我们的下一步是涉足&6灌注仪式&r.这些仪式用于将恶魔的魔法注入物品.\\n&7[Our next step is a foray into Infusion Rituals. These rituals are used to imbue items with the magic of demons.]&f"
+		""
+		"&6灌注仪式&r的第一等级是&e埃兹维乌斯的灵质强制&r.我们将使用这个仪式来制造你在这个模组中需要的几件物品.\\n&7[The first tier of Infusion Rituals is Eziveus' Spectral Compulsion. We'll be using this ritual to create several items that you'll need throughout this mod.]&f"
+		""
+		"建议在与你第一个仪式不同的区域创建这个仪式,因为三种主要仪式类型都是在前一个等级的基础上构建的.\\n&7[It is recommended to create this ritual in a separate area from your first one, because the three main types of rituals build off each previous tier.]&f"
+	]
+	quest.39647A2473F6F7D7.quest_subtitle: "给它撒点恶魔粉末™!&7[Put some Demon Dust™ on it!]&f"
+	quest.39647A2473F6F7D7.title: "&e埃兹维乌斯的灵质强制&7[Eziveus' Spectral Compulsion]&f"
+	quest.3D41D0092D94636B.quest_desc: [
+		"如果我告诉你恶魔果实是可燃的呢？\\n&7[What if I told you that the Demon's Fruit is flammable?]&f"
+		""
+		"把我们的&c恶魔梦幻果实&r扔下去并点燃它,会产生&d灵火&r.这就是我们将一些主世界物品转化为&9异界&r材料的方法.\\n&7[Throwing our Demon's Dream Fruit down and setting it on fire will create Spiritfire. This is how we'll convert some overworld items into Otherworld materials.]&f"
+		""
+		"它也很漂亮.\\n&7[It's also pretty.]&f"
+	]
+	quest.3D41D0092D94636B.title: "&9异界&r的&a火焰&f&7[The Flames of The Otherworld]&f"
+	quest.429B5A81DF6C43FE.quest_desc: [
+		"&6阿布拉斯的开放命令召唤&r用于将&c阿弗里特&r恶魔引入猪体内.因为这个仪式没有使用&a红色粉笔&f,它的力量只够召唤一个&9未束缚&r的恶魔.\\n&7[Abras' Open Commanding Conjure is used to bring an Afrit demon into a Pig. Because this ritual is performed without the use of Red Chalk, it's only powerful enough to summon an unbound demon.]&f"
+		""
+		"具体来说,这个仪式会创造一个&c阿弗里特&r附身的&a僵尸猪灵&f,它会掉落一些恶魔肉,用于制作&a粉红色粉笔&f.\\n&7[In particular, this ritual will create an Afrit-possessed Zombified Piglin, which will drop some Demonic Meat, which is used to craft Pink Chalk]&f"
+		""
+		"&4警告:你可能需要多次进行此仪式以获得足够的恶魔肉.\\n&7[WARNING: YOU MAY HAVE TO DO THIS ONE MULTIPLE TIMES TO GET ENOUGH DEMONIC MEAT.]&f"
+	]
+	quest.429B5A81DF6C43FE.quest_subtitle: "多么……血肉模糊……&7[How... Fleshy...]&f"
+	quest.429B5A81DF6C43FE.title: "&6奥杜斯的开放集会&7[Odus' Open Convocation]&f"
+	quest.42F50CE7FE715583.quest_desc: [
+		"要升级你的魔法存储能容纳的堆叠数量,你需要制造&d存储稳定器&r.\\n&7[To upgrade the amount of stacks your magical storage can hold, you'll need to make Storage Stabilizers.]&f"
+		""
+		"一旦制造完成,这些稳定器必须直接指向你的存储促动器的维度矩阵部分,而不是底座.它们最多可以距离5格远,但必须与矩阵有清晰的视线.\\n&7[Once made, these must point directly at the Dimensional Matrix part of your Storage Actuator, not the base. These can be up to 5 blocks away, but must have a clear line of sight to the Matrix.]&f"
+		""
+		"每当你想升级到更高级的稳定器时,破坏它不会摧毁里面的物品.但是,在它被替换或升级之前,你将无法向你的存储中添加更多物品.\\n&7[Whenever you want to upgrade to a higher tier Stabilizer, breaking it won't destroy the items inside. However, you will not be able to add any more items to your storage until it is either replaced or upgraded.]&f"
+		""
+		"下面是一个简单设置的例子!\\n&7[Below is an example of a simple setup!]&f"
+		""
+		"{image:atm:textures/questpics/occultism/storageupgradeexample.png width:200 height:150 align:1}"
+	]
+	quest.42F50CE7FE715583.title: "&a升级我们的魔法存储&7[Upgrading Our Magical Storage]&f"
+	quest.47358ADC1470C82A.quest_desc: [
+		"&c恶魔梦幻果实&r对你完全健康.但有一些副作用你应该知道.\\n&7[Demon's Dream Fruit is perfectly healthy for you. There might be some side effects you should know about.]&f"
+		""
+		"当你食用一个时,你有机会获得&3&a第三只眼&f&r的效果,让你能够窥视&9异界&r.世界中的某些物品可能并非它们看起来的样子,你需要这种”视野”来寻找某些用于进度的物品.\\n&7[When you consume one, you have a chance to get the effect of the Third Eye, allowing you to see into the The Otherworld. Certain items in the world might not be what they seem, and you'll need this \"vision\" to find certain items for progression.]&f"
+		""
+		"或者你可以点燃它,跳过寻找它们中的大多数.这取决于你.\\n&7[Or you can set it on fire and skip finding most of them. That's up to you.]&f"
+	]
+	quest.47358ADC1470C82A.quest_subtitle: "准备开始一段旅程&7[Get Ready for a Trip]&f"
+	quest.47358ADC1470C82A.title: "&c恶魔果实&7[Demon Fruit]&f"
+	quest.4C873491F6F0FFAF.quest_desc: [
+		"使用&d灵火&r,我们可以将几种主世界材料转化为它们的异界变体.你也可以在&b&a第三只眼&f&r的效果下,通过冒险进入世界来找到几种异界材料.你可能会对你发现的东西感到惊讶.为了简化,有通过将它们扔进&d灵火&r来制造基本材料的合成配方.\\n&7[Using Spiritfire, we can convert several Overworld mats into their Otherworld variants. You can also find several Otherworld mats by going under the effects of the Third Eye and adventuring into the world. You might be surprised what you find. To make it easier, there are crafting recipes for the basic materials by throwing them into Spiritfire.]&f"
+		""
+		"&b安山岩&r转化为&3异界石&r,可用于点燃永久的&d灵火&r.\\n&7[Andesite converts to Otherstone, which can be used to light a permanent Spiritfire.]&f"
+		""
+		"&a&a橡树树苗&f&r转化为&9&a橡树树苗&f&r,但它们并不相同.当长成时,这些树看起来和普通的橡树一模一样.然而,在&b&a第三只眼&f&r的效果下,你将能够收获异界变体.\\n&7[Oak Saplings convert to Oak Saplings but they are not the same. When grown, these will look exactly like a regular Oak tree. However, under the effects of the Third Eye, you will be able to harvest the Otherworld variant.]&f"
+		""
+		"如果你收集原木有困难(即使有&b&a第三只眼&f&r它们也变成了普通的&a橡木原木&f),尝试从顶部收集它们.\\n&7[If you have trouble collecting the logs (if they turn into regular Oak Logs even with Third Eye), try collecting them from the top.]&f"
+		""
+		"&e钻石&r将变成&d灵调宝石&r,这些宝石将在我们后面需要的几个配方中使用.\\n&7[Diamonds will turn into Spirit Attuned Gems which are used in several recipes we'll need later on.]&f"
+	]
+	quest.4C873491F6F0FFAF.title: "&d灵火&r转化&7[Spiritfire Conversions]&f"
+	quest.4CE571F942461909.quest_desc: [
+		"&a仪式&f背包不错,但放置所有方块需要很长时间.既然你现在可以进行&c塞维拉的永久禁锢&r仪式,你可以制造工匠&a魔法仪式&f背包了!\\n&7[The Ritual Satchel is nice, but it takes a long time to place all the blocks. Now that you can perform the Sevira's Permanent Confinement ritual, you can create the Artisanal Ritual Satchel!]&f"
+		""
+		"&a工匠&f&a魔法仪式&f背包的功能与普通的&a魔法仪式&f背包几乎相同,除了它能瞬间放置仪式所需的所有物品,并且增加了右键点击&a金弓&f来擦除所有粉笔符文并收集所有其他物品(头颅、蜡烛和水晶)并将它们返回到背包的能力.\\n&7[The Artisanal Ritual Satchel functions nearly identically to the regular Ritual Satchel, except it instantly places all the necessary items for the ritual, and has the added ability to right-click on Golden Bowl to erase all the Chalk Runes and collect all the other items (Skulls, Candles, and Crystals) and return them to the Satchel.]&f"
+		""
+		"不,它不会恢复粉笔的耐久度.\\n&7[No, it doesn't restore the durability of the Chalk.]&f"
+	]
+	quest.4CE571F942461909.title: "行业工具:工匠&a魔法仪式&f背包&7[Tools of the Trade: Artisanal Ritual Satchel]&f"
+	quest.4DF0D7B85065ADC9.quest_subtitle: "砍砍杀杀!&7[Hack and slash!]&f"
+	quest.4DF0D7B85065ADC9.title: "行业工具:屠刀&7[Tools of the Trade: Butcher's Knife]&f"
+	quest.4F35D04721DFC9FF.quest_desc: [
+		"我们将要进行的第一个仪式类型是&9召唤仪式&r.这些仪式用于召唤不同类型的有用恶魔,以协助你进行粉碎、冶炼等,随着你达到更高级别的仪式.\\n&7[The first type of ritual we'll be performing is the Summoning Ritual. These rituals are used to summon different types of useful Demons to assist you in crushing, smelting, and more as you get to higher tiers of rituals.]&f"
+		""
+		"对于我们的第一个仪式,我们想召唤一个&a弗利奥特粉碎者&r恶魔.这个恶魔会为我们粉碎物品,这是我们制造一些更高级粉笔所需要的!\\n&7[For our first ritual, we want to summon a Foliot Crusher Demon. This Demon will crush items for us, which is something we'll need to make some of the higher level Chalks!]&f"
+		""
+		"首先,在工作台中把你的未绑定之书和你的&a&a魔灵全典&f&r结合.这会将一个恶魔绑定到书上,这就是我们仪式所需要的.\\n&7[To start with, combine your Unbound Book with your Dictionary of Spirits in a crafting grid. This will bind a Demon to the Book, which is what we'll need for the ritual.]&f"
+		""
+		"说到你的&a魔灵全典&f,是时候打开它了!在左侧,点击&d五芒星&r标签,然后点击&b阿维亚尔之环&r.你可能需要阅读一点来推进它.还有一种方法是点击\\”全部标记为已读\\n&7[Speaking about your Dictionary of Spirits, it's time to open it up! On the left, click on the Pentacles tab and click on Aviar's Circle. You might have to advance through it by reading a little bit. There is also a way to click \"Mark All As Read\" so it unlocks everything in the Book.]&f"
+		""
+		"This is what we're going to use to summon our new friend. On the right side, you can click the eye in the bottom-left corner of the image to build an outline of the ritual for you in the world. This is super helpful!"
+		""
+		"一旦你完成了多方块仪式,在中心&a献祭之碗&f水平半径8格内的任何地方放下4个(或更多,用于未来的仪式)&a献祭之碗&f,并在上面使用所需的物品.一旦你将你的绑定之书放入&a黄金献祭之碗&f,仪式就会开始!\\n&7[Once you've completed the multi-block ritual, place down 4 (or more for future rituals) Sacrificial Bowls anywhere within 8 block horizontal radius from the center Sacrificial Bowl and use the required items on them. Once you place your Bound Book in the Golden Sacrificial Bowl, the ritual will start!]&f"
+		""
+		"这就是仪式看起来的样子.\\n&7[This is what the ritual will look like.]&f"
+		""
+		""
+		"{image:atm:textures/questpics/occultism/aviarcirclenew.png width:200 height:200 align:center}"
+	]
+	quest.4F35D04721DFC9FF.quest_subtitle: "阿维亚尔之环&7[Aviar's Circle]&f"
+	quest.4F35D04721DFC9FF.title: "&b我们的第一个&d仪式&7[Our First Ritual]&f"
+	quest.5316DF321B45D2CA.quest_desc: ["欢迎来到&d&d神秘学&f&r!\\n\\n这个模组旨在通过征召&c&m恶魔&r &b灵体&r的帮助,以多种不同的方式帮助玩家!别担心,它们大多数是友好的.&o大多数&r.\\n\\n要开始,你需要获得一些&a恶魔梦幻种子&r.破坏一些草来获得它.\\n&7[Welcome to Occultism!\\n\\nThis mod aims to help the player in many different ways by enlisting the help of Demons Spirits! Don't worry, most of them are friendly. Most.\\n\\nTo get started, you'll need to get some Demon's Dream Seeds. Break some grass to get it.]&f"]
+	quest.5316DF321B45D2CA.title: "&d梦见&c恶魔&7[Dreaming of Demons]&f"
+	quest.53DEA3DFEDC4809E.quest_desc: [
+		"别担心,这是阿布拉斯系列仪式的最后一个.它用于召唤&9玛瑞德&r恶魔,但即使它使用了&a红色粉笔&f,它的力量也不足以&9束缚&r这个恶魔.这意味着,不幸的是,你将不得不与它战斗.\\n&7[Don't worry, this is the last of the Abras series of rituals. It is used to summon a Marid demon, but even though it uses Red Chalk, it's not powerful enough to bind the Demon. This means that, unfortunately, you're going to have to fight it.]&f"
+		""
+		"这个仪式使用三叉戟作为祭品,这令人困惑,因为大多数祭品都是活物.所以,与其在完成的仪式圈上杀死一个生物,你只需将三叉戟扔向中心的碗来开始仪式.\\n&7[This ritual uses a Trident as a sacrifice, which is confusing because most sacrifices are living creatures. So instead of killing a mob on top of the completed ritual circle, you simply throw the Trident at the center bowl to start the ritual.]&f"
+	]
+	quest.53DEA3DFEDC4809E.quest_subtitle: "是鸟吗？是飞机吗？不,是一个未束缚的&9玛瑞德&r!&7[Is it a Bird? Is it a Plane? No, it's an unbound Marid!]&f"
+	quest.53DEA3DFEDC4809E.title: "&4提比拉的吸引&7[Tibira's Attraction]&f"
+	quest.54378277B8D28B1D.quest_desc: [
+		"彩虹粉笔的”升级版\\n&7[An \"upgrade\" to the Rainbow Chalk, for those who don't like the rapid color-switching runes ruining their tediously crafted aesthetic. ]&f"
+		""
+		"功能与彩虹粉笔相同,只是所有符文都会显示为白色,并且现在也适用于基础粉笔.\\n&7[Has the same function as the Rainbow Chalk, except all the runes will show up as white, and it now works with Foundation Chalk too.]&f"
+	]
+	quest.56EC79AF11B0869E.quest_desc: ["&9泽奥夫伦斯恳求&r是&5附身仪式&r的最高等级.它只有两个用途:制造残忍精华,这是&a棕色粉笔&f的主要成分；以及制造艾瑟尼姆傀儡,它基本上就是一个&a铁傀儡&f,但永生不死且造成更多伤害.\\n&7[Xeovrenth Adjure is the maximum tier of Possession Rituals. It only has two uses: creating Cruelty Essence, the main ingredient in Brown Chalk, and creating an Iesnium Golem, which is basically just an Iron Golem that's immortal and does more damage.]&f"]
+	quest.56EC79AF11B0869E.quest_subtitle: "最高级附身&7[Maximum Possession]&f"
+	quest.56EC79AF11B0869E.title: "&9泽奥夫伦斯恳求&7[Xeovrenth Adjure]&f"
+	quest.57282D7E31EE61EE.quest_desc: [
+		"一旦你收集了一些&a粗&a艾瑟金属矿石&f&r,你可能想用前几个锭制造一把&d&a艾瑟金属镐&f&r.这不仅像&a灌注镐&f一样可以挖掘艾瑟尼姆,而且使用寿命也长得多.\\n&7[Once you've gathered a few Raw Iesnium Ores, you'll probably want to use the first few ingots to make an Iesnium Pickaxe. This not only mines Iesnium like the Infused Pickaxe, but lasts a lot longer too.]&f"
+		""
+		"给自己行个方便,做一个这个吧!\\n&7[Do yourself a favor and make one of these!]&f"
+	]
+	quest.57282D7E31EE61EE.title: "&a异界镐&r&7[The Otherworld Pickaxe]&f"
+	quest.5831B3192C0E8C56.quest_desc: [
+		"想远程访问你的存储？这可以通过&e&a稳定虫洞&f&r或&a&a存储访问器&f&r来实现.\\n&7[Want to access your storage remotely? This can be done with either the Stable Wormhole or the Storage Accessor.]&f"
+		""
+		"要使用&e&a稳定虫洞&f&r,请潜行右击一个&d存储促动器&r来链接它.然后你可以放置虫洞,使其充当另一个存储位置.\\n&7[To use the Stable Wormhole, shift-click a Storage Actuator to link it. You can then place the Wormhole to act as another storage location.]&f"
+		""
+		"&a&a存储访问器&f&r的链接方式相同,但它是一个无线遥控器,甚至可以跨维度工作!\\n&7[The Storage Accessor is linked in the same way, but acts as a wireless remote that can even work across dimensions!]&f"
+	]
+	quest.5831B3192C0E8C56.title: "&a远程访问&7[Remote Access]&f"
+	quest.5ACE97EE75813006.quest_desc: [
+		"这是关于&d仪式&r的主要信息来源.以下是基础知识:\\n&7[This is the main source of information on Rituals. Here's the basics:]&f"
+		""
+		"&l仪式等级&r:\\n&7[lTiers of Rituals:]&f"
+		""
+		"仪式(基本上)有四个等级,取决于你召唤的恶魔有多强大.第一级是&e小魔&r,然后是&a巨灵&r、&c火怪&r和&9巨魔&r.有些仪式属于中间等级,例如&6无束缚火怪&r等级.\\n&7[Rituals have (basically) four tiers based on how powerful the Demon that you're invoking is. The first tier is Foliot, then Dijini, Afrit, and Marid. Some rituals fall into in-between tiers, such as the Unbound Afrit tier.]&f"
+		""
+		"&l仪式类型&r:\\n&7[Tlypes of Rituals:]&f"
+		""
+		"主要有五种仪式类型,但我们在流程中只需要四种.主要的三种是&9召唤仪式&r、&5附身仪式&r和&6灌注仪式&r.每种仪式都会在它们首次出现在这些任务中时进行解释.第四种仪式是一种&d无恶魔&r&d仪式&r,意味着它使用了所有三种类型的零碎部分来执行特殊动作,而不直接使用恶魔.\\n&7[There are five main types of rituals, but we'll only need four for progression. The main three are Summoning Rituals, Possession Rituals, and Infusion Rituals. Each one will be explained the first time that they appear in these quests. The fourth type of ritual is a sort of Demon-less Ritual, meaning that it uses bits and pieces from all three types to preform a special action without the direct usage of a Demon.]&f"
+		""
+		"第五种类型,&e使魔仪式&r,在流程中不需要.但它们仍然可以召唤一些有用的朋友来帮助你!\\n&7[The fifth type, Familiar Rituals, are not needed for progression. But they can still be summon some useful friends to help you out!]&f"
+		""
+		"&l粉笔&r:\\n&7[lChalks:]&f"
+		""
+		"有两种类型的粉笔:基础粉笔和彩色粉笔.\\n&7[There are two types of Chalks: Foundation Chalks, and Colored Chalks.]&f"
+		""
+		"基础粉笔用于每一个仪式,每高一级颜色就深一个色度,从&a白色粉笔&f开始,到&a黑色粉笔&f结束.\\n&7[Foundation chalks are used in every single ritual, and each tier higher gets a shade darker, starting with White Chalk and ending with Black Chalk. ]&f"
+		""
+		"彩色粉笔是最常用的,但粉笔的颜色并不像基础粉笔那样直接与其力量相关.\\n&7[Colored Chalks are the most commonly used, but the color of the Chalk doesn't directly correlate to its power the same as Foundation Chalks.]&f"
+	]
+	quest.5ACE97EE75813006.title: "仪式基础&7[The Basics of Rituals]&f"
+	quest.5AE80FF518B1BBA6.quest_desc: [
+		"厌倦了随身携带粉笔、蜡烛、头颅和水晶吗？那就做一个&a魔法仪式&f挎包吧!\\n&7[Tired of lugging around Chalks, Candles, Skulls, and Crystals? Just make a Ritual Satchel!]&f"
+		""
+		"手持&a魔法仪式&f挎包时,通过潜行+右击,你可以用它装满绘制仪式圈所需的所有材料.\\n&7[By sneak + right-clicking with the Ritual Satchel in your hand, you can fill it with all the materials you need to draw a ritual circle.]&f"
+		""
+		"一旦你装好了挎包,只需右击任何预览方块即可开始(缓慢地)自动放置所选仪式的所有符文.\\n&7[Once you've loaded up the Satchel, simply right-click any preview block to begin (slowly) automatically placing all the runes for the selected ritual. ]&f"
+		""
+		"如果包里的任何一支粉笔耐久度低于40%,物品上的附魔光效就会消失,以提示你可能需要修理或更换一些粉笔了.\\n&7[If a piece of chalk inside the bag falls under 40% durability, the enchantment glint on this item will disappear to signal that it may be time to repair or replace some of your Chalks.]&f"
+	]
+	quest.5AE80FF518B1BBA6.quest_subtitle: "口袋仪式!&7[Pocket Ritual!]&f"
+	quest.5AE80FF518B1BBA6.title: "行家工具:&a魔法仪式&f挎包&7[Tools of the Trade: Ritual Satchel]&f"
+	quest.61999669BDE127F9.quest_desc: [
+		"如果你还没注意到,一遍又一遍地制作和重做仪式对你的粉笔耐久度消耗非常大.\\n&7[If you haven't noticed already, making and re-making rituals over and over again is very taxing on the durability of your Chalks. ]&f"
+		""
+		"如果你担心粉笔会坏掉,但又不想为了制作一支新粉笔而重新进行整个仪式,那么这个仪式就是为你准备的!\\n&7[If you're worried about your Chalk breaking, but don't feel like doing the entire ritual to create a new chalk over again, then this ritual is for you!]&f"
+		""
+		"利用&a巨灵&r的力量,你可以将任何颜色的粉笔修复到最大耐久度!\\n&7[Using the power of a Dijinni, you can repair any color of Chalk to it's maximum!]&f"
+		""
+		"或者,你也可以使用像禁忌魔艺模组中的&a&a永恒陨星&f&r这样的东西来永久保存你的粉笔!\\n&7[Alternatively, you could use something like the 位阶l Stella from the Forbidden Arcanus mod to permanently preserve your Chalks!]&f"
+	]
+	quest.61999669BDE127F9.quest_subtitle: "你弄坏了,&m我们&r恶魔来修!&7[You break it, we Demons fix it!]&f"
+	quest.61999669BDE127F9.title: "粉笔修复&7[Chalk Repair]&f"
+	quest.6581D4AF1A6DE230.quest_desc: ["恶魔喜欢蜡烛.我想.\\n\\n为了召唤我们朋友的几乎每一个&a魔法仪式&f,你都需要一些蜡烛.你可以制作&a&a屠刀&f&r并杀死一些猪、牛、羊、马,甚至是商贩羊驼来获得一些&a动物脂肪&r来制作它们.事实上,你绝对应该去找商贩羊驼.我听说它们能做出很好的蜡烛.&m我绝对不是刚刚编的&r.\\n\\n否则,原版蜡烛也可以!\\n\\n&9&a魔灵同调水晶&f&r也用于几种仪式,所以不妨现在就做一些!\\n&7[Demons like Candles. I think.\\n\\nFor almost every Ritual to summon our friends, you'll need some Candles. You can create the Butcher Knife and kill some pigs, cows, sheep, horses, or even the Trader Llamas to get some Tallow to make them. Matter of fact, you should definitely find the Trader Llamas. I hear they make good candles. I totally didn't just make that up.\\n\\nOtherwise, Vanilla Candles can also work!\\n\\nSpirit Attuned Crystals are also used in several Rituals, so might as well make some now!]&f"]
+	quest.6581D4AF1A6DE230.title: "仪式准备:&a蜡烛&7[Preparing for a Ritual: Candles]&f"
+	quest.666EA8B8F13EB292.quest_desc: ["此物品用于捕捉生物以便运输或存储.它也是制作&6&aATM之星&f&r所必需的.\\n&7[This item is used to capture mobs for transport or storage. It's also needed for the ATM Star.]&f"]
+	quest.666EA8B8F13EB292.title: "&d空灵魂宝石&7[Empty Soul Gem]&f"
+	quest.67884BFA27870CCE.quest_desc: [
+		"&d奥索林的无束缚召唤&r是&d无恶魔仪式&r的第二级.第一级对流程完全没用,它只用于复活使魔和将恼鬼变成悦灵.\\n&7[Osorin's Unbound Calling is the second tier of Demon-less rituals. The first tier isn't useful for progression at all, it's only used for reviving Familiars and turning Vexes into Allays. ]&f"
+		""
+		"这个仪式用于创造大量你可能无法(或很难)以其他方式获得的稀有方块、物品和材料.\\n&7[This ritual is used to create a ton of rare-ish blocks, items, and materials that you might not be able to (or it's hard to) get otherwise.]&f"
+	]
+	quest.67884BFA27870CCE.quest_subtitle: "为我们这些不那么喜欢试炼大厅的人准备&7[For the less trial-chamber-inclined of us]&f"
+	quest.67884BFA27870CCE.title: "&d奥索林的无束缚召唤&7[Osorin's Unbound Calling]&f"
+	quest.690B89D23134B624.quest_desc: [
+		"拿起你的粉笔,绘制你的&d罗纳扎的接触&r仪式,准备创造终极粉笔*!\\n&7[Grab your chalks, draw your Ronaza's Contact ritual, and get ready to create the ULTIMATE CHALK*!]&f"
+		""
+		"你不再需要随身携带全套16支粉笔,你可以使用彩虹粉笔来绘制一个变色符文,它可以算作其中任何一支(除了基础粉笔,寻找虚空粉笔来把它们也加入组合)!\\n&7[Instead of having to lug around a full set of 16 chalks, you can use the Rainbow Chalk to paint a color-changing Rune that counts as any of them (except for Foundation Chalk, look for Void Chalk to add those to the mix)! ]&f"
+	]
+	quest.690B89D23134B624.title: "&z彩虹&r粉笔&7[zRainbow Chalk]&f"
+	quest.6C1BBA559963B3DF.quest_desc: [
+		"&a灵魂辞典&r是&d&d神秘学&f&r的&a指南书&f.如果你想继续这个模组,你绝对需要制作它!\\n&7[The Dictionary Of Spirits serves as the Guide Book for Occultism. You'll absolutely need to make this if you want to continue with the mod!]&f"
+		""
+		"&a辞典&f里面有一个任务风格的指南,如果你宁愿读它而不是做这些任务的话!\\n&7[The Dictionary has a quest-style guide inside of it if you'd rather read it instead of doing these quests!]&f"
+		""
+		"你还需要这本书来制作整合包中的几样东西,所以你差不多必须做它.:)\\n&7[You'll also need the book to craft several things in the pack, so you kind of have to make it. :)]&f"
+	]
+	quest.6C1BBA559963B3DF.title: "&c恶魔&r小书&7[Little Book o' Demons]&f"
+	quest.6CC5FE34778F0DFA.quest_desc: [
+		"玩这个整合包,你肯定会拥有太多物品.它就是这样运作的,如果你还没有解决存储问题,&d维度存储&r可能正适合你!\\n&7[You're bound to have too many items playing this modpack. It's just it works, and if you haven't figured out your storage situation yet, Dimensional Storage might just be right for you!]&f"
+		""
+		"要开始使用这个魔法存储解决方案,你需要制作&d&a维度存储促动器&f&r并将其放置在世界中.它的作用就像一个潜影盒,这意味着如果你打碎它,里面存储的物品不会丢失.\\n&7[To get started with this magical storage solution, you'll need to craft the Dimensional Storage Actuator and place it down into the world. This acts just like a Shulker Box, meaning if you break it, it won't lose any of the items stored inside.]&f"
+		""
+		"默认情况下,它有128个存储槽位,每个槽位最多可容纳16组物品,但带有&5NBT&r数据的物品除外.这些物品不会堆叠,并且会占用整个槽位,所以确保不要放那些物品!\\n&7[By default, this has 128 storage slots with each slot holding up to 16 stacks of an item, except for items with NBT data. These will not stack and will take up an entire slot, so make sure to leave those items out!]&f"
+		""
+		"如果你不确定哪些物品带有NBT数据,你可以随时查看存储任务线中的任务”NBT与你”以&a了解更多信息&f关于NBT!\\n&7[If you aren't sure what items have NBT data on them, you can always check out the quest \"NBT and You\" in the Storage questline for more info on NBT!]&f"
+	]
+	quest.6CC5FE34778F0DFA.title: "&c&m恶魔&r&d魔法存储&r!&7[Demonic Magical Storage!]&f"
+	quest.6CCDEEDA2C99DA66.quest_desc: ["此任务由&6AllTheMods Staff&r或&2社区贡献者&r为AllTheMods整合包创作.\\n\\n由于所有&6AllTheMods&r整合包均在&e保留所有权利&r许可下,未经&6AllTheMods团队&r明确许可,此任务不得用于任何非&6AllTheMods团队&r发布的公开整合包.\\n\\n此任务被故意隐藏,如果你看到这个,说明你处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks. \\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.6FEED25FFAC4101F.quest_desc: ["使用&a斯特里吉奥的高等束缚&r,你可以创造灰色糊状物.将其涂抹在一支&a含杂白色粉笔&f上以制作&a灰色粉笔&f.\\n&7[Using Strigeor's Higher Binding, you can create Gray Paste. Smear this on a piece of Impure White Chalk to create Gray Chalk.]&f"]
+	quest.6FEED25FFAC4101F.title: "&8&a灰色粉笔&f&7[Gray Chalk]&f"
+	quest.6FFFAE334DFAAAAB.quest_desc: [
+		"你可能已经注意到,仪式往往……有点慢.但现在不会了!使用&c塞维拉的永久禁锢&r,你可以创造&b伊森尼姆&a魔法仪式&f碗&r.\\n&7[As you've probably noticed, rituals tend to be... a little slow. But not anymore! Using Sevira's Permanent Confinement, you can create the Iesnium Ritual Bowl. ]&f"
+		""
+		"当用它代替金制&a魔法仪式&f碗时,它会大大减少执行仪式所需的时间,降至原时间的四分之一!\\n&7[When using this in place of a Golden Ritual Bowl, it greatly reduces how long it takes to perform a ritual, taking it down to one fourth of its original time!]&f"
+	]
+	quest.6FFFAE334DFAAAAB.quest_subtitle: "超速仪式!&7[Super-speed Rituals!]&f"
+	quest.6FFFAE334DFAAAAB.title: "伊森尼姆&a魔法仪式&f碗&7[Iesnium Ritual Bowl]&f"
+	quest.74130EB1E4B8586D.quest_desc: ["使用&a伊哈甘的奴役&r,你可以牺牲一个悦灵、蝙蝠、蜜蜂或鹦鹉来召唤一只&6附身蜜蜂&r.击败一只后,它会掉落诅咒蜂蜜,这是制作&a橙色粉笔&f的主要成分!\\n&7[Using Ihagan's Enthrallment, you can sacrifice an Allay, Bat, Bee, or Parrot to summon a Possessed Bee. Upon defeating one, it will drop Cursed Honey, the main ingredient for making Orange Chalk!]&f"]
+	quest.74130EB1E4B8586D.title: "&6&a橙色粉笔&f&7[Orange Chalk]&f"
+	quest.78ECC28DD4BA9696.quest_desc: [
+		"虽然你可以使用灵魂之火获得大部分&d异界&r材料,但你也可以使用&9&a探测杖&f&r来定位这些材料.\\n&7[While you can get most of the Otherworld materials using Spiritfire, you can also use Divination Rods to locate these materials.]&f"
+		""
+		"首先,你需要将法杖调谐到你正在寻找的材料.例如,如果你正在寻找&8异界石&r,你可以在&a安山岩&r上使用法杖来帮助定位世界中的异界石.\\n&7[First, you'll need to attune the Rod to the material you are looking for. For example, if you are on the hunt for Otherstone, you can use the Rod on Andesite to help locate the Otherstone in the world.]&f"
+		""
+		"一旦调谐到某种材料,你可以手持法杖并按住&a右击&f,粒子会朝着它调谐的最近材料方向射出.\\n&7[Once attuned to a material, you can hold right click with the Rod in hand, and a particle will shoot off in the direction of the nearest material it is attuned to.]&f"
+		""
+		"你仍然需要处于&3&a第三只眼&f&r的效果下才能采集异界方块.\\n&7[You will still need to be under the effects of the Third Eye to be able to harvest the Otherworld block.]&f"
+	]
+	quest.78ECC28DD4BA9696.quest_subtitle: "寻找&d异界&r材料&7[Hunting for Otherworld Materials]&f"
+	quest.78ECC28DD4BA9696.title: "行家工具:&a探测杖&f&7[Tools of the Trade: Divination Rod]&f"
+	quest.7B574DD5CC5ACAE3.quest_desc: ["在我们继续&d&d神秘学&f&r之前,是时候学习如何升级每种类型的五芒星了.每种五芒星都建立在前一种同类型的基础上.\\n\\n这意味着,你不需要为每个等级的&a魔法仪式&f(例如,分别为召唤&a巨灵&r和召唤&a小魔&r)建造单独的五芒星,你可以用一个五芒星处理多个等级的仪式.例如,&9法特玛的激励吸引&r建立在所有之前的召唤五芒星之上.\\n\\n因此,我建议为每种五芒星设置4个19x19的区域.一个用于召唤,一个用于灌注,一个用于附身,一个用于杂项仪式(野生和邪术).\\n&7[Before we proceed with Occultism, it's time we learn about upgrading each type of Pentacle. Each pentacle builds off of the previous of that type.\\n\\nThis means that rather than building separate Pentacles for each tier of Ritual (I.E. a separate pentacle for summoning Djinnis and for summoning Foliots), you can have one pentacle handle multiple tiers of Rituals. For example, Fatma's Incentivized Attraction builds off of all previous Summoning pentacles.\\n\\nBecause of this, I suggest setting up 4 19x19 areas for each Pentacle. One for Summoning, one for Infusion, one for Possession, one for the Miscellaneous rituals (Wild and Eldritch).]&f"]
+	quest.7B574DD5CC5ACAE3.title: "五芒星前言&7[Foreword on Pentacles]&f"
+	quest.7BCD4A425CF6199B.quest_desc: ["在击杀从&9泽奥夫伦斯召唤&r召唤出的慈悲山羊后,你会发现你多了一份残忍精华.将其与一些可可豆结合,制作&a棕色粉笔&f.\\n&7[After slaying the Goat of Mercy summoned from Xeovrenth Adjure, you'll find yourself one Cruelty Essence richer. Combine this with some Cocao Beans to create Brown Chalk.]&f"]
+	quest.7BCD4A425CF6199B.title: "&#4E2C00&a棕色粉笔&f&7[&#4E2C00Brown Chalk]&f"
+	quest.7F09F8F98C13F11B.quest_desc: [
+		"没有&c献祭&r的恶魔&a魔法仪式&f算什么!:D\\n\\n大多数时候,恶魔只是喜欢物品,所以现在还不用太害怕.然而,如果你有一头最喜欢的牛,你可能需要担心了.抱歉了贝琪.\\n\\n&a&a献祭之碗&f&r用于放置仪式所需的物品.只要不覆盖任何必需的粉笔,它们可以放在仪式范围内的任何地方.\\n&7[What is a Demonic Ritual without a Sacrifice! :D\\n\\nMost of the time, Demons just like items so don't be too afraid yet. However, if you have a favorite Cow, you might need to be worried. Sorry Betsy.\\n\\nSacrificial Bowls are used to place items needed for Rituals. These can be placed anywhere within the Ritual, as long as it isn't convering up any of the required Chalk. ]&f"
+		""
+		"目前,你只需要四个,但以后每个仪式可能需要多达十个碗!\\n\\n&6金制&a魔法仪式&f碗&r用于放置在&a魔法仪式&f的中央来激活它,并且通常还需要一本束缚之书放在碗里.\\n&7[For now, you'll only need four, but later on you'll need upwards of ten bowls for each ritual!\\n\\nThe Golden Ritual Bowl is used in the middle of the Ritual to activate it, and also usually needs a Book of Binding for the Ritual in it.]&f"
+	]
+	quest.7F09F8F98C13F11B.title: "仪式准备:&6碗&7[Preparing for a Ritual: Bowls]&f"
+	quest.7F59941D62E672B0.quest_desc: [
+		"&d神秘学&f提供的不仅仅是帮你粉碎矿石的恶魔!\\n&7[Occultism provides more than just Demons to crush your ores!]&f"
+		""
+		"有恶魔可以为你移动物品、砍伐树木等等!!\\n&7[There are Demons that can move stuff for you, chop down wood, and more!!]&f"
+		""
+		"还有方法可以召唤被称为&d使魔&r的酷炫朋友,它们提供特殊增益,甚至为你战斗!一定要在你的指南书中查看&d使魔仪式&r!\\n&7[There are also ways to summon cool friends known as Familiars that give special buffs and even fight for you! Make sure to check out the Familiar Rituals in your guide book!]&f"
+	]
+	quest.7F59941D62E672B0.title: "&d使魔&7[Familiars]&f"
+	task.036759CF4EEFFC7D.title: "保留所有权利&7[AllRightsReserved]&f"
+	task.05A43D4098C30ED1.title: "邪术圣杯&7[Eldritch Chalices]&f"
+	task.0EE813C344409F59.title: "蜡烛&7[Candles]&f"
+	task.10037D5225C2D20E.title: "伊森尼姆&a献祭之碗&f&7[Iesnium Sacrificial Bowls]&f"
+	task.1709A45C149125F1.title: "保留所有权利&7[AllRightsReserved]&f"
+	task.2C5C6F411E2F0CAF.title: "任意 #c:dusts/netherite&7[Any #c:dusts/netherite]&f"
+	task.348A7E3E3A3D324E.title: "是的,我读过了,绝对不会忘记!&7[Yes, I've read this and totally won't forget it!]&f"
+	task.3621D48E2CFAF2C2.title: "任意 #c:wools&7[Any #c:wools]&f"
+	task.51F520BF7DA37873.title: "存储稳定器&7[Storage Stabilizers]&f"
+	task.523951BF097BA61F.title: "任意 #c:dusts/emerald&7[Any #c:dusts/emerald]&f"
+	task.53DE943DF951696B.title: "恶魔矿工&7[Demon Miner]&f"
+	task.55DE27AB2EDB306E.title: "&a献祭之碗&f&7[Sacrificial Bowls]&f"
+	task.57108C994437F25B.title: "任意 #ae2:all_nether_quartz&7[Any #ae2:all_nether_quartz]&f"
+	task.6A5F16B79D587128.title: "&a金弓&f&7[Golden Bowls]&f"
+	task.6B57473B652B8AAB.title: "理解五芒星升级&7[Understanding Pentacle Upgrades]&f"
+	task.6C3887D42B6B2122.title: "使魔&7[Familiars]&f"
+}

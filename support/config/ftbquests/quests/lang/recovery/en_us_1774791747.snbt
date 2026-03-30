@@ -1,0 +1,12 @@
+{
+	"chapters/productive_bees.snbt": {
+		quest.60B985069E0E643E.quest_subtitle: {
+			old: "Magmatic + Sweat"
+			new: "Lava + Water"
+		}
+		quest.5AE851B8074BC7E6.quest_subtitle: {
+			old: "Glowing + Choco Mining"
+			new: "Submerge Redstone Bee Egg, Fluix Crystal and Glowstone in water"
+		}
+	}
+}

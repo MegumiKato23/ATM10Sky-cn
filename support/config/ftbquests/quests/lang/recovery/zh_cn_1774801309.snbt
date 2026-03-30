@@ -1,0 +1,8 @@
+{
+	file.snbt: {
+		file.0000000000000001.title: {
+			old: "&f&lAll The Mods 10：直上云霄！&r"
+			new: "&f&lAll The Mods 10: To the Sky!&r"
+		}
+	}
+}

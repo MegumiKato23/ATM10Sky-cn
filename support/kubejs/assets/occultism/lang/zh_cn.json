@@ -1,0 +1,10 @@
+{
+    "item.occultism.ritual_dummy.sm/ritual/honeycomb": "仪式:合成蜂巢",
+    "item.occultism.ritual_dummy.sm/ritual/misc_demonic_sapling": "仪式:锻造恶魔树苗",
+    "ritual.allthemods.ritual/honeycomb.finished": "仪式成功完成:合成蜂巢",
+    "ritual.allthemods.ritual/honeycomb.interrupted": "仪式中断:合成蜂巢",
+    "ritual.allthemods.ritual/honeycomb.started": "开始仪式:合成蜂巢",
+    "ritual.allthemods.ritual/misc_demonic_sapling.finished": "仪式成功完成:锻造恶魔树苗",
+    "ritual.allthemods.ritual/misc_demonic_sapling.interrupted": "仪式中断:锻造恶魔树苗",
+    "ritual.allthemods.ritual/misc_demonic_sapling.started": "开始仪式:锻造恶魔树苗"
+}
