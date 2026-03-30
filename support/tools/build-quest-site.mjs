@@ -354,6 +354,14 @@ function listSnbtFiles(dirPath) {
     .sort((left, right) => left.localeCompare(right));
 }
 
+function listOptionalSnbtFiles(dirPath) {
+  if (!fs.existsSync(dirPath)) {
+    return [];
+  }
+
+  return listSnbtFiles(dirPath);
+}
+
 function slugifyChapterLabel(value) {
   return String(value)
     .toLowerCase()
@@ -769,7 +777,7 @@ function buildDataset() {
   const mergedCompareQuestDescriptions = buildLocalizedIndex(compareMergedLang, 'quest', 'quest_desc');
 
   const chapterFiles = listSnbtFiles(chaptersRoot);
-  const compareSourceChapterFiles = listSnbtFiles(compareChaptersRoot);
+  const compareSourceChapterFiles = listOptionalSnbtFiles(compareChaptersRoot);
   const translatedChapterFiles = listSnbtFiles(langChaptersRoot);
   const compareChapterFiles = listSnbtFiles(compareLangChaptersRoot);
 
