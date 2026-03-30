@@ -3,4 +3,10 @@ export default defineNuxtConfig({
   srcDir: 'app/',
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
+  nitro: {
+    serverAssets: [{
+      baseName: 'quest-browser',
+      dir: '../../support/quest-browser',
+    }],
+  },
 })
