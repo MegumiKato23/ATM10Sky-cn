@@ -1,0 +1,39 @@
+{
+	quest.08B60D8A25008CCC.quest_desc: ["此任务由 &6AllTheMods 工作人员&r 或 &2社区贡献者&r 编写,用于 AllTheMods 整合包. \\n\\n由于所有 &6AllTheMods&r 整合包均采用 &e保留所有权利&r 许可,未经 &6AllTheMods 团队&r 明确许可,此任务不得用于任何非 AllTheMods 团队发布的公开整合包. \\n\\n此任务被故意隐藏,如果你能看到此信息,说明你正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks. \\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.09C82CDDA800D8C9.quest_desc: ["&a凋灵&f是《我的世界》中的第二个Boss,这个Boss的出现更具选择性.\\n\\n你需要建造凋灵来生成它.用4个&a灵魂沙&f摆成T形,并在顶部放置3个&a凋灵骷髅头颅&f即可生成它!\\n\\n它拥有300点生命值,会四处飞行并向玩家或生物发射&a凋灵之首&f.\\n\\n当生命值降至一半时,它会获得一个针对弹射物的护盾,需要用剑或斧头才能杀死它.\\n\\n一旦你杀死它,它会掉落:&a下界之星&f,有几率掉落&a凋灵灵魂碎片&f,以及大量Corail物品.\\n&7[The Wither is the second Minecraft Boss, this one being more elective. \\n\\nYou'll have to build the Wither to spawn him in. Using 4 Soul Sand in a T shape and placing 3 Wither Skeleton Skulls on top will spawn him in! \\n\\nHe has 300 Hearts and will fly around shooting Wither Skulls at Players or Mobs. \\n\\nWhen taken to half Health he will gain a shield against Projectiles and will need to be killed with a Sword or Axe. \\n\\nOnce you kill him he'll drop: Nether Star, chance at a Withering Soul, and a ton of Corail Items.]&f"]
+	quest.09C82CDDA800D8C9.title: "击杀 &a凋灵&f&7[Kill The Wither]&f"
+	quest.0E20A9B79D1C6637.quest_desc: ["&a监守者&f是1.20版本中加入的Boss.\\n\\n当3个自然生成的&a幽匿尖啸体&f连续被触发,或者在第一个监守者生成后有任何尖啸体被触发时,它就会生成.\\n\\n它是《我的世界》中加入的最强大的生物,拥有500点生命值,攻击伤害超过20点.\\n\\n它的攻击包括近战击打和对远处目标的声纳冲击.\\n\\n它唯一的弱点是失明,但就像夜魔侠一样,这反而让它的其他感官变得更加强大!如果你靠近,它能闻到你的气味,并且要小心不要发出噪音!\\n\\n如果你设法杀死了它,它会掉落:&a幽匿催发体&f、监守者甲壳和深暗之心.\\n&7[The Warden is a boss added in 1.20. \\n\\nHe spawns by having 3 naturally spawning Sculk Shriekers going off in a row, or any Shriekers going off after a first Warden has spawned. \\n\\nHe is the most powerful Mob added by Minecraft, with 500 Hearts and over 20 Hearts damage with his attacks. \\n\\nHis attacks include hitting you and Sonar Blasts for those farther. \\n\\nHis only weakness is being blind, but like daredevil it just made his other senses much stronger! If you are close he can smell you and careful with making noise! \\n\\nIf you somehow kill him he will drop: Sculk Catalysts, Warden Carapace, and Heart of the Deep.]&f"]
+	quest.0E20A9B79D1C6637.title: "杀死&a监守者&f&7[Kill The Warden]&f"
+	quest.0F55D0B4D5094EDB.quest_desc: ["在为ATM7制作大量任务线时,村民商人觉得在任务界面里不断推搡我很有趣.\\n\\n”干掉他们.全部干掉.”\\n\\n- AlfredGG \\n\\n”我附议!” \\n\\n- Toshiba\\n&7[While making a lot of the questlines for ATM7, the Trader Villager thought it'd be funny to constantly push me around in the quest screen.\\n\\n\"Take them out. All of them.\"\\n\\n- AlfredGG \\n\\n\"I second this!\" \\n\\n- Toshiba]&f"]
+	quest.0F55D0B4D5094EDB.quest_subtitle: "“私人恩怨“ - AlfredGG&7[\"This is Personal\" - AlfredGG]&f"
+	quest.0F55D0B4D5094EDB.title: "杀死 &a流浪商人&f 及其烦人的羊驼&7[Kill The Trader Villager and His Annoying Llamas]&f"
+	quest.17F3AC15ADCFB175.title: "&l&9末地悬赏:&r&e 末影人&7[lThe End Bounty: Endermen]&f"
+	quest.1F18B64C84C8809D.title: "&l&9主世界悬赏:&r&e 蜘蛛&7[lOverworld Bounty: Spiders]&f"
+	quest.2B05A29C62676EB2.title: "&l&9主世界悬赏:&r&e 僵尸&7[lOverworld Bounty: Zombies]&f"
+	quest.2BD077EFE77B8EBB.quest_desc: ["僵尸有不同的变种,它们生成于其他生物群系.\\n&7[Zombies have different variants that spawn in other Biomes. ]&f"]
+	quest.2BD077EFE77B8EBB.title: "僵尸变种&7[Zombie Variants]&f"
+	quest.3371F9248D403664.title: "&l&c&a下界&f 悬赏:&r&e &a凋灵骷髅&f&7[lThe Nether Bounty: Wither Skeletons]&f"
+	quest.3813F5C1760C3A79.quest_desc: ["&a猪灵蛮兵&f 出现在这里可能会引起争议,但我认为它们是迷你Boss.\\n\\n它们与普通猪灵一同生成于堡垒遗迹中,但它们是敌对而非中立的.我个人很讨厌这点,尤其是因为如果你攻击它们,所有猪灵都会对你转为敌对.\\n\\n它们有 50 颗心,并用一把 &a金斧&f 攻击你.通常 &a金斧&f 几乎造不成什么伤害,但当它们使用时,不知为何却威力无穷!\\n\\n它们不掉落任何物品,更像是堡垒遗迹中的障碍物!\\n&7[Piglin Brutes being here might cause controversy but I consider them Minibosses. \\n\\nThey spawn in Bastions with regular Piglins but these are Hostile not Neutral. Personally I hate that, especially since if you hit them all Piglins will turn Hostile on you. \\n\\nThey have 50 Hearts and a Golden Axe to hit you. Usually Golden Axes barely do any damage, but when they use it, it is god somehow! \\n\\nThey drop nothing and act more like an obstacle for Bastions!]&f"]
+	quest.3813F5C1760C3A79.title: "杀死一个 &a猪灵蛮兵&f&7[Kill A Piglin Brute]&f"
+	quest.41C0948CD9D50322.quest_desc: ["在这里,你将找到通过击杀敌人可以获得的所有奖励.\\n&7[Here you'll find all of the rewards you can get by slaying enemies.]&f"]
+	quest.41C0948CD9D50322.quest_subtitle: "杀光所有东西&7[Killing All The Things]&f"
+	quest.41C0948CD9D50322.title: "&a悬赏榜&f&7[Bounty Board]&f"
+	quest.42822B1E8A53D051.title: "&l&9主世界悬赏:&r&e 骷髅&7[lOverworld Bounty: Skeletons]&f"
+	quest.56DA46DC82F6665D.quest_desc: ["&a荒野奇美拉&f 是由 &d新生魔艺&f 添加的一个Boss,是推进该模组进程所必需的.\\n\\n需要通过仪式召唤,然后与之战斗!\\n&7[The Wilden Chimera is a Boss added by Ars Nouveau and is needed for progressing through it. \\n\\nHe needs to be summoned through a ritual then fought!]&f"]
+	quest.56DA46DC82F6665D.title: "杀死 &a荒野奇美拉&f&7[Kill The Wilden Chimera]&f"
+	quest.5AC497F76A086A5C.title: "&l&9主世界悬赏:&r&e 女巫&7[lOverworld Bounty: Witches]&f"
+	quest.6141DE779232C8AA.title: "&l&c&a下界&f 悬赏:&r&e 烈焰人&7[lThe Nether Bounty: Blazes]&f"
+	quest.6827836C8E675A94.quest_desc: ["骷髅有不同的变种,就像僵尸一样!\\n&7[Skeletons have different variants, like Zombies do!]&f"]
+	quest.6827836C8E675A94.title: "骷髅变种&7[Skeleton Variants]&f"
+	quest.728BE1816DA23DC0.quest_desc: ["&a末影龙&f 是守卫末地的Boss.\\n\\n当你进入一个 &a末地传送门&f 时,你会到达她生成的那个末地岛屿.\\n\\n她有 200 颗心,可以用火球攻击或冲撞你.\\n\\n你必须破坏黑曜石柱上的 &a末影水晶&f,因为它们会治疗她,这样才能杀死她!\\n\\n一旦你杀死了她,她会掉落:奥术精华、史诗级着色袋、龙皮、来自两个不同模组的 &a龙鳞&f,以及一大堆经验!\\n\\n然后传送门会打开,你可以返回主世界,或者你可以找到一个 &a末地折跃门&f 去探索外岛.你还会在传送门上找到一个 &a龙蛋&f.\\n&7[The Ender Dragon is the Boss that guards The End. \\n\\nWhen you enter an End Portal you'll arrive at the End Island where she spawns. \\n\\nShe has 200 Hearts and can attack with Fireballs or ramming into you. \\n\\nYou'll have to break the End Crystals on the pillars as they heal her, in order to kill her! \\n\\nOnce you do kill her, she'll drop: Arcane Essence, Epic Shaderbags, Dragonskin, Dragon Scales from two different mods, and a bunch of experience! \\n\\nThen the Portal will open up so you can return to the Overworld, or you can find an End Gateway to explore the outer islands. You'll also find a Dragon Egg on the Portal.]&f"]
+	quest.728BE1816DA23DC0.title: "杀死 &a末影龙&f&7[Kill The Ender Dragon]&f"
+	quest.77FC692AC94D2EEF.title: "&l&9主世界悬赏:&r&e 苦力怕&7[lOverworld Bounty: Creepers]&f"
+	task.00CBF98DE4E9CC90.title: "版权所有&7[AllRightsReserved]&f"
+	task.171FD27057746E80.title: "杀死 1 个凋灵&7[Kill 1 Wither]&f"
+	task.1809F1F9A3043683.title: "杀死 1 个 &a末影龙&f&7[Kill 1 Ender Dragon]&f"
+	task.1D136D138EF82DA9.title: "杀死 2 只行商羊驼&7[Kill 2 Trader Llamas]&f"
+	task.452B65E139D9E12D.title: "Kill 1 &a荒野奇美拉&f&7[Kill 1 Wilden Chimera]&f"
+	task.596ABB45C0612AAF.title: "杀死 1 个流浪商人&7[Kill 1 Wandering Trader]&f"
+	task.65E53C9C5AE98B69.title: "版权所有&7[AllRightsReserved]&f"
+	task.69678CAC075C8EA5.title: "杀死 1 个监守者&7[Kill 1 Warden]&f"
+}

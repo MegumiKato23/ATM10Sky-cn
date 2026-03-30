@@ -1,0 +1,55 @@
+{
+	quest.030AC1AF8F735550.quest_desc: ["要将液体输入储罐,你需要某种管道.\\n\\n水力泵可以以缓慢的速度自动将水输入其中,而且是免费的!\\n&7[To get liquids into the Tank you'll need some sort of Pipes.\\n\\nThe Hydro Pump can automatically put Water into them at a slow rate, but also for free!]&f"]
+	quest.030AC1AF8F735550.title: "管道&7[Pipes]&f"
+	quest.06B85804163DD18B.quest_desc: ["索林箱(Soaryn是&dXY工艺&f的作者)是&dXY工艺&f的箱子.\\n\\n破坏方块时它不会掉落其中的物品!我想知道它上面的那些方块是做什么用的？\\n&7[The Soaryn Box (Soaryn being the author of XyCraft) is the chest of XyCraft.\\n\\nIt will not hold items off breaking the block! I wonder what those squares on it do?]&f"]
+	quest.08E484DD3E751697.quest_subtitle: "Roy G. Biv 中的 B&7[The B in Roy G. Biv]&f"
+	quest.08E484DD3E751697.title: "&b蓝色 XY 宝石&7[Blue Xychorium Gems]&f"
+	quest.0D01524F249E25D7.quest_subtitle: "谁把灯关了？&7[Who turned off the lights?]&f"
+	quest.0D01524F249E25D7.title: "&8暗色 XY 宝石&7[Dark Xychorium Gems]&f"
+	quest.15540271BF17C2E4.quest_desc: ["&l欢迎来到 &dXY工艺&f!&r\\n\\n这个系列模组主要致力于 &dXY工艺&f:世界与机器!\\n”世界”部分为我们提供了可以通过筛矿获得的宝石.\\n&7[lWelcome to XyCraft!\\n\\nThis series of mods is mostly dedicated to XyCraft: World and Machines!\\nWorld gives us the Gems which can be obtained by sieving.]&f"]
+	quest.15540271BF17C2E4.title: "&l&dXY工艺&f&7[lXyCraft]&f"
+	quest.16B4A00948D1F60D.quest_desc: ["此任务由 &6AllTheMods 团队&r 或 &2社区贡献者&r 创作,用于 AllTheMods 整合包.\\n\\n由于所有 &6AllTheMods&r 整合包均采用 &e保留所有权利&r 许可,未经 &6AllTheMods 团队&r 明确许可,此任务不得用于任何非 AllTheMods 团队发布的公开整合包.\\n\\n此任务被有意隐藏,如果你看到了这个,说明你正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks.\\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.1E00DBAACDF4404F.quest_desc: ["&a收集器&f 可以作为一个非常廉价的 &a漏斗&f.\\n\\n它会拾取 3 格半径内的所有物品,并将其放入下方或自身的物品栏中.它可以用红石信号关闭!\\n&7[The Collector works as a very cheap Absorption Hopper.\\n\\nIt will pick up all items within a 3 block radius and put it in the inventory below or it's own. It can be turned off with Redstone!]&f"]
+	quest.2278A98DCDF713D7.quest_desc: ["现在是制作储罐的时候了!首先你需要建筑方块和至少 1 个阀门.玻璃和物品输入输出口是可选的.\\n\\n储罐必须由建筑方块构成框架.建筑方块是指任何不透明、不受重力影响、且非自然生成的泥土或草方块.\\n\\n石头、木头或金属等方块必须构成框架和边缘.玻璃、阀门和物品输入输出口必须放置在墙壁上,内部必须是空心的.\\n\\n它最大只能为 13x13x13 大小.完成所有步骤后,&a右击&f 阀门,它会显示”已形成”或告诉你问题所在.\\n&7[Now it's time to make the Tank! First off you need Building Blocks and at least 1 Valve. Glass and Item IOs are optional.\\n\\nThe Tank must be made of a frame of building blocks. Building blocks are anything that isn't transparent, gravity influenced, or natural Dirt or Grass.\\n\\nItems like stone, wood, or metal must make the frame and the edges. Glass, Valves, and Item IOs must be placed in the walls and the inside must be hollow.\\n\\nIt can only be 13x13x13 big. Once you done all that, right click the Valve and it will either say 'Formed' or will tell you the problem.]&f"]
+	quest.2278A98DCDF713D7.title: "&l储罐&7[lThe Tank]&f"
+	quest.2AC7BC448C007BDB.quest_desc: ["用铝加固基维石,你将得到制作机器所需的 &a机器框架&f.\\n&7[Reinforce the Kivi with Aluminum and you'll get Machine Frames which are needed to craft machines.]&f"]
+	quest.2B5E14A47062F83C.quest_subtitle: "Roy G. Biv 中的 R&7[The R in Roy G. Biv]&f"
+	quest.2B5E14A47062F83C.title: "&c红色 XY 宝石&7[Red Xychorium Gems]&f"
+	quest.2C4ECA4F5B1639F4.quest_desc: ["光照场不会发出太多光,但它确实像一个 &a巨型火把&f 一样工作.\\n\\n怪物不会在它周围设定的区域内生成.该区域半径约为 32 格.\\n&7[The Light Field doesn't show much light, but it does work like a Mega Torch.\\n\\nMobs won't spawn in a set area around it. That area is about a 32 block radius.]&f"]
+	quest.2C4ECA4F5B1639F4.title: "&f光照场&7[Light Field]&f"
+	quest.2C7D62231AD6406A.quest_desc: ["&dXY工艺&f 有一个很棒的 &a流体储罐&f 多方块结构!\\n&7[XyCraft has a great Fluid Tank mulitblock!]&f"]
+	quest.2C7D62231AD6406A.title: "&b流体存储与操控&7[Fluid Storage and Manipulation]&f"
+	quest.355244420EA47546.quest_desc: ["装配机是自动合成器.它会从下方的物品栏中取出物品,并按照设定的配方进行合成.\\n\\n你可以通过按住 CTRL 点击来锁定配方.不过,它需要将合成出的物品用管道输出.\\n&7[Fabricator is the Auto-Crafter. It will take items from the inventory below and make a set recipe.\\n\\nYou can lock recipes with CTRL Click. It will need to pipe out the created items though.]&f"]
+	quest.355244420EA47546.quest_subtitle: "自动合成器&7[Auto-Crafter]&f"
+	quest.39E4FC9BA89E44BC.quest_desc: ["&a气球&f 拴绳是一种早期且有限制的创造模式飞行来源.\\n\\n放下拴绳,你就会被拴在一个气球上!双击空格键开始飞行,只是不能飞太远.飞得太远,你就会脱离并坠落.\\n&7[The Balloon on a Stick is an early and restrictive source of Creative Flight.\\n\\nPlace down the stick and you'll be attached to a balloon! Double touch space to start Flying just not too far. Go too far and you'll get detached and fall.]&f"]
+	quest.39E4FC9BA89E44BC.quest_subtitle: "飞起来!&7[Up!]&f"
+	quest.3E970E76372AB094.quest_desc: ["&2加速种植器&r 的工作原理与普通耕地类似,但有一些变化.\\n\\n它会自动浇水,并且比普通耕地更快.\\n&7[The Accelerated Planter works similar to normal Farmland but with some changes.\\n\\nIt's automatIically watered and it's faster than normal Farmland.]&f"]
+	quest.3E970E76372AB094.title: "&2加速种植器&7[Accelerated Planter]&f"
+	quest.3F68BA498E877C8C.quest_subtitle: "Roy Biv 的中间名&7[Roy Biv's middle name]&f"
+	quest.3F68BA498E877C8C.title: "&a绿色 XY 宝石&7[Green Xychorium Gems]&f"
+	quest.43F08B510FC1C06F.quest_desc: ["物品输入输出口使我们能够将物品运输进出储罐.它们可以切换为输出或输入模式.\\n&7[Item IOs give us the ability to transport items in and out of the Tank. They can be toggled for Output and Input.]&f"]
+	quest.43F08B510FC1C06F.quest_subtitle: "物品的进出口&7[Where Items come and go]&f"
+	quest.43F08B510FC1C06F.title: "物品输入输出口&7[Item IOs]&f"
+	quest.4A92237E17ED5F1C.quest_desc: ["虚空容器可以将任何物品栏变成 &a垃圾桶&f.把它放在物品栏上方,物品就再也不会堆积了!\\n&7[The Void Container makes any inventory a Trash Can. Put it on top of the inventory and no more items!]&f"]
+	quest.5E1D4169C083ACEF.quest_desc: ["&c点火板&r 在接收到 &a红石信号&f 时,会在其前方生成火焰.\\n\\n当信号停止时,它会熄灭火焰.\\n&7[The Ignition Plate spawns fire infront of it when given a Redstone Signal.\\n\\nIt will put out the fire when the Signal is stopped.]&f"]
+	quest.5E1D4169C083ACEF.title: "&c点火板&7[Ignition Plate]&f"
+	quest.623E6A855B363C8D.quest_desc: ["&9水方块&r 具有水的特性,但没有流动的部分.\\n\\n可以用它们制作 &a造石机&f,可以用它浇灌耕地,只是你不能用它来落地水.(鱼也会试图进入其中,但仍然会死亡).\\n&7[The Water Block acts as Water without the whole moving part.\\n\\nCobble Gens can be made with them, Farmland can be watered with it, you just can't MLG clutch with it. (Fish will also try to get into it but will still die).]&f"]
+	quest.623E6A855B363C8D.quest_subtitle: "固态的水？冰？&7[Water but Solid, Ice?]&f"
+	quest.623E6A855B363C8D.title: "&9水方块&7[Water Block]&f"
+	quest.643FB1A3ED0EA9EC.quest_desc: ["阀门是你储罐的核心.你将在这里泵入或通过管道输入流体.\\n&7[The Valve is the Heart of your Tank. This is where you'll pump, or pipe fluids into it.]&f"]
+	quest.643FB1A3ED0EA9EC.quest_subtitle: "流体的进出口&7[Where Fluid comes and goes]&f"
+	quest.643FB1A3ED0EA9EC.title: "阀门&7[Valves]&f"
+	quest.64D0D69ADB8820DA.quest_desc: ["&8&a流体虚空&f&r 是一个会消除所有与其相连的水的方块.\\n\\n水源方块或流动的水,任何在 1 格半径范围内的水都会消失.\\n&7[The Fluid Void is a block that stops all water connected to it.\\n\\nSource blocks or flowing water, anything within a 1 block radius is gone.]&f"]
+	quest.64D0D69ADB8820DA.title: "&8&a流体虚空&f&7[Fluid Void]&f"
+	quest.69F11A94D44AB5CF.quest_subtitle: "&a非常多&f 的光!&7[Too much light!]&f"
+	quest.69F11A94D44AB5CF.title: "&f亮色 XY 宝石&7[Light Xychorium Gems]&f"
+	quest.6D0876A402C22067.quest_desc: ["&dXY工艺&f 有一些物品存储和操控功能.不过,没有流体存储和操控那么多!\\n&7[XyCraft has some item storage and manipulation. Not as much as fluid storage and manipulation though!]&f"]
+	quest.6D0876A402C22067.title: "&6物品存储与操控&7[Item Storage and Manipulation]&f"
+	quest.71D133BA3EC6F4FD.quest_desc: ["&a提取器&f 会”生长”其下方的方块或物品,并将其移动到上方的物品栏中.\\n\\n这可以用于制作适用于多种石头的圆石生成器、紫水晶生成器,甚至是 &a龙蛋&f 生成器,以及其他用途!\\n&7[The Extractor will \"grow\" the block or item beneath it and move it to an inventory above it.\\n\\nThis can be used for a Cobblestone generator that works with many types of stone, an Amethyst generator, or even a Dragon Egg generator, along with others!]&f"]
+	quest.71D133BA3EC6F4FD.quest_subtitle: "开采岩石!(以及更多)&7[Farming for Rocks! (and More)]&f"
+	quest.7574A782DCFB87CE.quest_desc: ["基维石可以用于几件事,主要是装饰和机器.\\n\\n你将需要基维石来制作 &dXY工艺&f 中的 &a机器框架&f 和其他机器.它可以与 XY 宝石一起在切石机中制作装饰性方块.\\n&7[Kivi can be used for a couple of things, mainly for decorations and machines.\\n\\nYou'll need Kivi for Machine Frames and other machines in XyCraft. It can be used with Xychorium Gems in a Stonecutter for decorative blocks.]&f"]
+	quest.7574A782DCFB87CE.title: "&l&7基维石&7[lKivi]&f"
+	task.4EEF358CAC170CC4.title: "XY 宝石&7[Xychorium Gems]&f"
+	task.55DD09212E3DB168.title: "&a流体传输管道&f&7[Fluid Pipes]&f"
+	task.706FA543A6C675D3.title: "保留所有权利&7[AllRightsReserved]&f"
+}

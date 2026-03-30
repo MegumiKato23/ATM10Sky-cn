@@ -1,0 +1,141 @@
+{
+	quest.04D0543FE2820F64.quest_desc: ["是时候种些线了!其中一些允许你直接种植,而另一些则为你提供可用于合成配方的替代品.\\n&7[Time to Grow some string! Some of these allow you to grow it directly, whilst others give you an alternative that works in recipes.]&f"]
+	quest.04D0543FE2820F64.quest_subtitle: "谁还需要蜘蛛呢？&7[Who needs Spiders anyway?]&f"
+	quest.04D0543FE2820F64.title: "亚麻线&7[Flax String]&f"
+	quest.0500DA5C4D383DC6.quest_desc: ["通过杀死僵尸或筛泥土获得这些.\\n&7[Get these by killing zombies or sieving dirt.]&f"]
+	quest.0500DA5C4D383DC6.quest_subtitle: "吃你的蔬菜&7[Eat your veggies]&f"
+	quest.083309154A8974DA.quest_desc: ["最基本的改进\\n&7[The most basic of improvements]&f"]
+	quest.083309154A8974DA.quest_subtitle: "小幅提升&7[A slight boost]&f"
+	quest.083309154A8974DA.title: "镀金食物&7[Gilded Foods]&f"
+	quest.0893EFCAC7031FEA.quest_desc: ["是时候烤蛋糕了,如果你已经准备好了牛奶和鸡蛋.\\n&7[Time to bake a cake, if you've got some milk and eggs ready.]&f"]
+	quest.0893EFCAC7031FEA.quest_subtitle: "鱼与熊掌兼得&7[Have your Cake and Eat it too]&f"
+	quest.0A1C2A7A8617D3E4.quest_subtitle: "速通玩家最爱&7[Speedrunners Love this Stuff]&f"
+	quest.0A1C2A7A8617D3E4.title: "小麦&7[Wheat]&f"
+	quest.0A7F53BFE6A4DFDC.quest_desc: ["厌倦了只看到你能制作的配方？有了这个,你可以查看如何制作游戏中的每一种食物.\\n&7[Tired of seeing only recipes you can make? With this you can view how to make every food in the game.]&f"]
+	quest.0A7F53BFE6A4DFDC.quest_subtitle: "烹饪百科全书&7[The encyclopedia of cooking]&f"
+	quest.0A7F53BFE6A4DFDC.title: "无过滤食谱书&7[No Filter Cookbook]&f"
+	quest.0AC713AEEBCF2CD2.quest_desc: ["或者你也可以用MA……但谁会那么做呢？\\n&7[Or you can use MA...but who does that?]&f"]
+	quest.0AC713AEEBCF2CD2.quest_subtitle: "人性化鸡蛋收集&7[Humane egg collection]&f"
+	quest.0AC713AEEBCF2CD2.title: "鸡蛋自动化&7[Egg Automation]&f"
+	quest.0CB4CF33BD96D730.quest_desc: ["丰饶农业允许你通过修改作物属性来提高收获!(任务即将推出)\\n&7[Productive Farming allows you to increase crop returns by modifying their stats! (Quests coming soon)]&f"]
+	quest.0EFF1AA37772156B.quest_desc: ["这个方块为多方块厨房提供水源.\\n\\n它也可以通过管道或缆线抽水来提供无限水.\\n&7[This block provides water to the multi-block kitchen.\\n\\nIt can also provide infinite water by pumping water out via cables or pipes.]&f"]
+	quest.0EFF1AA37772156B.quest_subtitle: "1个方块搞定!&7[1 Block does the trick!]&f"
+	quest.0EFF1AA37772156B.title: "水槽 = 无限水&7[The Sink = Infinite Water]&f"
+	quest.0FE88A567578C720.quest_desc: ["这些是超级食物,能提供多种增益效果,具体取决于苹果种类.\\n&7[These are superfoods that give a wide array of buffs, depending on the apple.]&f"]
+	quest.0FE88A567578C720.quest_subtitle: "结晶苹果&7[Crystallized apples]&f"
+	quest.12139F09C0F1361D.quest_desc: ["提高生长速度,与绿色肥料冲突.\\n&7[Increases speed of growth, conflicts with green fertilizer.]&f"]
+	quest.12139F09C0F1361D.quest_subtitle: "丰饶蘑菇&7[Productive shrooms]&f"
+	quest.13AFCD3B6F62B986.quest_desc: ["提供冰和雪的配方!\\n&7[Provides Ice and Snow recipes!]&f"]
+	quest.13AFCD3B6F62B986.quest_subtitle: "冰,冰,宝贝!&7[Ice, Ice, Baby!]&f"
+	quest.13AFCD3B6F62B986.title: "冰升级&7[Ice Upgrade]&f"
+	quest.1515B32545F51266.quest_desc: ["允许你为炉灶连接能源.\\n&7[Allows you to attach power to the Stove.]&f"]
+	quest.1515B32545F51266.title: "加热升级&7[Heating Upgrade]&f"
+	quest.1697CC05D08B388D.quest_subtitle: "美味的 &a炸鸡&f!&7[Yummy Fried Chicken!]&f"
+	quest.1697CC05D08B388D.title: "&a鸡&f 必须走&7[The Chickens Must Go]&f"
+	quest.1827DEEA2DF1B144.quest_desc: ["欢迎来到食物与农业章节!\\n\\n在这里,你会发现种植和制作食物的不同方法!\\n&7[Welcome to the Food and Farming chapter!\\n\\nHere, you'll find different ways for you to grow and make food!]&f"]
+	quest.1827DEEA2DF1B144.title: "食物与农业&7[Food and Farming]&f"
+	quest.18EADBAFC932F864.quest_desc: ["要剪羊毛你需要剪刀,没有其他方法能获得羊毛……对吧？\\n&7[To shear Sheep you need Shears, you wouldn't get Wool any other way...right?]&f"]
+	quest.18EADBAFC932F864.quest_subtitle: "和平主义者路线&7[Pacifist Run]&f"
+	quest.18EADBAFC932F864.title: "是时候剪毛了&7[It's Clippin' Time]&f"
+	quest.1B4A74D744F39516.quest_desc: ["破坏一些 &a橡树树叶&f.\\n&7[Break some Oak Leaves.]&f"]
+	quest.1B4A74D744F39516.quest_subtitle: "任何工具都行(包括你的拳头)&7[Any tool works (including your fist)]&f"
+	quest.1B4A74D744F39516.title: "破坏树叶&7[Break the Leaves]&f"
+	quest.1D2EF12FD7FDD217.quest_desc: ["鸡会自然下蛋.我猜这不算真正意义上的自然……\\n\\n我猜鸡只是在…… &o做鸡蛋运动!!!&r.\\n&7[Chickens will lay these naturally. I guess it's not really considered naturally...\\n\\nI guess the chickens are just getting... Eggs-ercise!!!.]&f"]
+	quest.1D2EF12FD7FDD217.quest_subtitle: "……还是说呢？&7[...or am I?]&f"
+	quest.1D2EF12FD7FDD217.title: "我不会玩鸡蛋双关语&7[I'm not gonna make an Egg pun]&f"
+	quest.1D48298525EEADC9.quest_desc: ["你应该已经拥有所需的一切了.\\n&7[You should have everything you need already.]&f"]
+	quest.1D48298525EEADC9.quest_subtitle: "给我撒点糖!&7[Pour some Sugar on me!]&f"
+	quest.1D48298525EEADC9.title: "你真甜&7[You're so sweet]&f"
+	quest.1DCAA0310AA55F1C.quest_desc: ["但他通常5点就关门了,所以谁在乎呢？\\n&7[But he usually closes by 5, so who cares?]&f"]
+	quest.1DCAA0310AA55F1C.quest_subtitle: "威利会感到自豪&7[Willy Would be Proud]&f"
+	quest.1DCAA0310AA55F1C.title: "渔夫的开端&7[The Start of a Fisher]&f"
+	quest.1E7A4F84CEDBE2AF.quest_desc: ["骨粉是提高产量的最基本方法.\\n&7[Bonemeal is the most basic way to amplify your returns.]&f"]
+	quest.1E7A4F84CEDBE2AF.quest_subtitle: "得用上那些骨头&7[Gotta use those bones]&f"
+	quest.1E7A4F84CEDBE2AF.title: "促进生长&7[Improving Growth]&f"
+	quest.1F114EB0AAB86DB4.quest_desc: ["市场为你提供一个村民,如果你有足够的绿宝石,他可以卖给你任何东西.\\n\\n剧透:通常每件物品只要1个绿宝石,幸运的是,他们拥有”一切”.\\n&7[Markets provide you with a villager than can sell you anything if you have the right amount of emeralds.\\n\\nSpoiler: It's usually just 1 Emerald per item, luckily, they have EVERYTHING.]&f"]
+	quest.1F114EB0AAB86DB4.quest_subtitle: "&a村民&f 有多种生成方式&7[The Villager has more than one way to Spawn]&f"
+	quest.1F114EB0AAB86DB4.title: "购买农场物资&7[Purchasing Farm Supplies]&f"
+	quest.2786D5AC19163524.quest_desc: ["这个方块能在你的多方块厨房中启用熔炼配方!\\n&7[This block enables smelting recipes in your kitchen multi-block!]&f"]
+	quest.2786D5AC19163524.quest_subtitle: "无需计时器&7[No Timer Needed]&f"
+	quest.2786D5AC19163524.title: "亲爱的,厨房里有个熔炉&7[Honey, there's a Furnace in the Kitchen]&f"
+	quest.28C9EDBF6607E180.quest_desc: ["这个方块是多方块厨房的一部分.\\n\\n它会向你展示你背包中或厨房多方块存储的食物可以制作的所有配方.\\n\\n你终于可以在Minecraft里打造一个漂亮的厨房了.\\n&7[This block is part of a multi-block kitchen.\\n\\nThis will show you every recipe that is available to you with the food you have in your inventory, or stored in the kitchen multi-block.\\n\\nYou can finally create a nice kitchen in Minecraft.]&f"]
+	quest.28C9EDBF6607E180.quest_subtitle: "贝蒂·怀特出生在 &a切片面包&f 之前&7[Betty White was born before Sliced Bread]&f"
+	quest.28C9EDBF6607E180.title: "自切片面包以来最棒的东西&7[THE BEST THING SINCE SLICED BREAD]&f"
+	quest.2E9C035EEE7E5C34.quest_desc: ["经典的拴绳.用它把动物带到你的农场区域.\\n\\n这和矿石不是一回事.\\n&7[The classic Lead. Use this to get animals into your farm area.\\n\\nThis isn't the same thing as the ore.]&f"]
+	quest.2E9C035EEE7E5C34.quest_subtitle: "走吧,小狗狗&7[Get along little Doggy]&f"
+	quest.2E9C035EEE7E5C34.title: "我们用老式方法来做这个&7[We're doing this the Old Fashioned way]&f"
+	quest.2FBF54AC8273E8DF.quest_desc: ["&d林业&f 添加了许多新树木,每种都有自己的好东西.你可以通过破坏树叶来收获这些果实.\\n&7[Productive Trees adds lots of new trees that each have their own goodies. You can harvest these fruits by breaking the leaves.]&f"]
+	quest.2FBF54AC8273E8DF.quest_subtitle: "果实,果实,还是果实&7[Fruits and fruits and fruits]&f"
+	quest.2FBF54AC8273E8DF.title: "&d林业&f&7[Productive Trees]&f"
+	quest.34F29677E6B5E40C.quest_desc: ["提高每次收获的产量,与红色肥料冲突.\\n&7[Increases output per harvest, conflicts with red fertilizer.]&f"]
+	quest.34F29677E6B5E40C.quest_subtitle: "丰饶霉菌&7[Productive mold]&f"
+	quest.361DFDB1E1352D6B.quest_desc: ["在水边找一些 &a拐杖糖&f.\\n&7[Find some Sugar Cane near some water.]&f"]
+	quest.361DFDB1E1352D6B.title: "糖,糖&7[Sugar Sugar]&f"
+	quest.37CA6F9F0226F10E.quest_desc: ["这个方块存储用于烹饪的物品.\\n\\n你也可以在上面放置其他厨房多方块物品,比如烤面包机和 &a罐中牛&f.\\n&7[This block stores items for cooking.\\n\\nYou can also place other kitchen multi-block items on it, like toasters and a Cow in a Jar.]&f"]
+	quest.37CA6F9F0226F10E.quest_subtitle: "我们需要更多烹饪空间&7[We need more cooking space]&f"
+	quest.37CA6F9F0226F10E.title: "需要更多烹饪空间？&7[Need more cooking space?]&f"
+	quest.3EA883C0BB7BD38F.quest_desc: ["让我们收集一些羊毛吧!\\n&7[Let's gather some pieces of Wool!]&f"]
+	quest.3EA883C0BB7BD38F.quest_subtitle: "谁的羊毛是……彩虹色的？&7[Whose Fleece was....Rainbow?]&f"
+	quest.3EA883C0BB7BD38F.title: "玛丽有只小羊羔&7[Mary had a Little Lamb]&f"
+	quest.43021923E220CF68.quest_desc: ["要把泥土耕成耕地,你需要一把锄.\\n&7[To till Dirt into Farmland you'll need a Hoe.]&f"]
+	quest.43021923E220CF68.quest_subtitle: "等到你有了机器再做这个……&7[Wait until you get Machines for this...]&f"
+	quest.43021923E220CF68.title: "&a种植盆&f&7[The Planter]&f"
+	quest.45F83C2750F70F9B.quest_desc: ["来吧,把一本书放进熔炉里烧.\\n&7[Go ahead, put a Book in a Furnace and smelt it.]&f"]
+	quest.45F83C2750F70F9B.quest_subtitle: "完全不会着火……&7[Totally won't catch on fire...]&f"
+	quest.45F83C2750F70F9B.title: "用一本书打造厨房&7[Making a Kitchen, with a Book]&f"
+	quest.460969C070B5C8E5.quest_desc: [
+		"我会说合成它是最简单的……\\n&7[I'd say crafting it is easiest...]&f"
+		"我们不必止步于此!\\n&7[We don't have to stop here!]&f"
+	]
+	quest.460969C070B5C8E5.quest_subtitle: "原版的极限……&7[The limit of Vanilla...]&f"
+	quest.460969C070B5C8E5.title: "“诺切“苹果&7[\"Notch\" apple]&f"
+	quest.47764EFC822E462A.quest_desc: ["这个方块会随时间产出牛奶,并为厨房多方块启用牛奶配方.\\n\\n要把牛装进罐子,先把罐子放在一个坑里.引诱牛掉进罐子上方的坑里,然后在牛身上放一个铁砧.\\n\\n我不知道这玻璃是什么做的,但它比我和鸡的关系还要牢固.\\n&7[This block produces milk over time, and enables milk recipes for the kitchen multi-block.\\n\\nTo get a cow in the jar, place the jar in a hole. Lure the cow to fall in said hole above the jar, then drop an anvil on it.\\n\\nI have no clue what this glass is made of, but it's stronger than my relationship with Chicken.]&f"]
+	quest.47764EFC822E462A.quest_subtitle: "非凡的挤奶能力……狭小的生活空间&7[Phenomenal Milking Powers....Itty bitty living space]&f"
+	quest.47764EFC822E462A.title: "A &a罐中牛&f&7[A Cow in a Jar]&f"
+	quest.528304AA09EA8C23.quest_desc: ["把它们都抓住!\\n&7[Gotta catch em' all!]&f"]
+	quest.528304AA09EA8C23.quest_subtitle: "钓上几天鱼&7[Fishing for days]&f"
+	quest.528304AA09EA8C23.title: "去钓鱼&7[Gone Fishin]&f"
+	quest.55C4824DAD905512.quest_desc: ["此任务由 &6AllTheMods 团队&r 或 &2社区贡献者&r 为 AllTheMods 整合包创作.\\n\\n由于所有 &6AllTheMods&r 整合包均采用 &e保留所有权利&r 许可,未经 &6AllTheMods 团队&r 明确许可,此任务不得用于任何非 AllTheMods 团队发布的公开整合包.\\n\\n此任务被故意隐藏,如果你看到这个,说明你正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks.\\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.58495CFBF4F20CE9.quest_desc: ["它的功能就像厨房柜台,只不过是在空中.\\n\\n而且你不能在上面放东西.\\n&7[This works just like the kitchen counter, except in the air.\\n\\nAnd you can't put things on top of it.]&f"]
+	quest.58495CFBF4F20CE9.quest_subtitle: "这么多活动空间!&7[So much room for activities!]&f"
+	quest.58495CFBF4F20CE9.title: "更多存储空间&7[Even More Storage]&f"
+	quest.58D5BD3106BFD94A.quest_desc: ["合成下一版本的书.我向你保证,这是值得的.\\n\\n我甚至会还你一颗钻石.\\n&7[Craft the next version of the book. I promise you, it's worth it.\\n\\nI'll even give you a Diamond back.]&f"]
+	quest.58D5BD3106BFD94A.quest_subtitle: "这绝对值得&7[This is totally worth it]&f"
+	quest.58D5BD3106BFD94A.title: "用钻石的力量烹饪&7[Cooking with the power of Diamonds]&f"
+	quest.60053279577A59C1.quest_desc: ["厌倦了跳跃时毁掉你的作物？那你走运了!可与其他两种类型一起使用.\\n&7[Tired of annihilating your crops when jumping? Well you're in luck! Usable with the other two types.]&f"]
+	quest.60053279577A59C1.quest_subtitle: "丰饶黄金&7[Productive gold]&f"
+	quest.63050A2CACD6ADC9.quest_subtitle: "还是说呢？&7[or is it?]&f"
+	quest.63050A2CACD6ADC9.title: "顶级钓竿&7[A Maxed Rod]&f"
+	quest.635620A03E3505BF.quest_desc: ["我不想问你是怎么弄到这些的.\\n&7[I don't wanna know how you got these.]&f"]
+	quest.635620A03E3505BF.quest_subtitle: "但是……牛不能被剪毛……&7[But....Cows can't be sheared...]&f"
+	quest.635620A03E3505BF.title: "皮革&7[Leather]&f"
+	quest.659A903F97F93BE2.quest_subtitle: "快速又简单&7[Quick and Simple]&f"
+	quest.659A903F97F93BE2.title: "生命之面包&7[The Bread of Life]&f"
+	quest.72717D1135486D7F.quest_desc: ["让我们收集一些种子.\\n&7[Let's gather some seeds.]&f"]
+	quest.72717D1135486D7F.quest_subtitle: "方块手 1,草方块 0&7[Block Hand 1, Block Grass 0]&f"
+	quest.72717D1135486D7F.title: "空手打草&7[Punch the Grass]&f"
+	quest.73B8A70240E6070E.quest_desc: ["找到一头牛,用桶 &a右击&f 它.\\n\\n说真的,为什么没有公牛？\\n&7[Find a Cow and Right Click it with a Bucket.\\n\\nSeriously, why no Bulls?]&f"]
+	quest.73B8A70240E6070E.quest_subtitle: "为什么游戏里没有公牛？&7[Why aren't there Bulls in the game?]&f"
+	quest.73B8A70240E6070E.title: "挤牛奶 - 获利&7[Milk a Cow - Profit]&f"
+	quest.791AE62ACACBD5BA.quest_subtitle: "你会打开它,关上它,然后再打开它,只因为你无聊&7[You'll open it, close it, then open it again, just because you're bored]&f"
+	quest.79DD2C115A5FC23B.quest_desc: ["每个等级提供一种新的正面效果.可以说这些相当OP……\\n&7[Each tier gives a new positive effect. Safe to say these are pretty OP...]&f"]
+	quest.79DD2C115A5FC23B.quest_subtitle: "等级苹果&7[Tiered apples]&f"
+	quest.79DD2C115A5FC23B.title: "MA苹果&7[MA Apples]&f"
+	quest.7FB5AFB3A30830D4.quest_desc: ["种植这棵树苗以获得最基本的水果.\\n&7[Grow this sapling to gain access to the most basic of fruits.]&f"]
+	quest.7FB5AFB3A30830D4.title: "来自树木的果实&7[Fruits from Trees]&f"
+	task.003A07A0E816B302.title: "丰饶农业&7[Productive Farming]&f"
+	task.1D8904E53906D972.title: "保留所有权利&7[AllRightsReserved]&f"
+	task.2725700B5EA1CD75.title: "剪刀&7[Shears]&f"
+	task.323A434E1AF54408.title: "锄&7[Hoes]&f"
+	task.32791AD78C17C814.title: "农夫乐事工具&7[Farmer's Delight Tools]&f"
+	task.3824DC29D8790DAB.title: "宝石苹果&7[Gem Apples]&f"
+	task.3DA0D9582AEFCBCF.title: "&a亚麻种子&f&7[Flax Seeds]&f"
+	task.5805158E69C05AED.title: "保留所有权利&7[AllRightsReserved]&f"
+	task.669DEA201002793D.title: "冰箱&7[Fridges]&f"
+	task.690D9E03BB024BCF.title: "ATM锭金属&7[ATM metal]&f"
+	task.6DF92BBEC7E3EC10.title: "ATM锭食物&7[ATM food]&f"
+	task.73E843FE4FCCEA33.title: "MA苹果&7[MA Apples]&f"
+	task.78D7794707E4BD83.title: "作物&7[Crops]&f"
+	task.7C686DA23151A0F3.title: "黄金食物&7[Golden food]&f"
+	task.7F08D4E77359BF4A.title: "羊毛&7[Wool]&f"
+}

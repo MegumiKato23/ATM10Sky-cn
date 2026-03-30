@@ -1,0 +1,184 @@
+{
+	quest.04A7AA70C23830FF.quest_desc: ["镰刀工具,可用于清除大量有机材料.镰刀会破坏你挖掘方块周围区域内的方块.\\n&7[Sickles tools that can be used to clear large amount of organic materials. Sickles break blocks in an area around the block you mine.]&f"]
+	quest.04B6E31120663EB2.quest_subtitle: "等级:&a2&7[Tier: 2]&f"
+	quest.06EAA74E0A10CBB6.quest_subtitle: "范围:&b36&r格&7[Range: 36 Blocks]&f"
+	quest.06EAA74E0A10CBB6.title: "&9英普瑞姆&a生长加速器&f&7[Imperium Growth Accelerator]&f"
+	quest.07564DBB023EE2A6.quest_subtitle: "等级:&b4&7[Tier: 4]&f"
+	quest.077B2D62FA7650FB.quest_subtitle: "范围:&627&r格&7[Range: 27 Blocks]&f"
+	quest.077B2D62FA7650FB.title: "&c特提姆&a生长加速器&f&7[Tertium Growth Accelerator]&f"
+	quest.0B37355262121DD5.quest_desc: ["&a&a注魔祭坛&f&r是你制作所有种子的方式.首先放置祭坛,它会显示在哪里放置基座.\\n\\n为了使注魔开始,祭坛需要一个&4红石信号&r.\\n&7[The Infusion Altar is how you make all of the seeds. Place down the Altar first and it'll show you where to place the Pedestals after.\\n\\nIn order for the Infusing to start, the Alter requires a Redstone signal.]&f"]
+	quest.0B37355262121DD5.quest_subtitle: "创造种子&7[Creating Seeds]&f"
+	quest.0B37355262121DD5.title: "&4&a注魔祭坛吧&f&7[Infusion Altar]&f"
+	quest.0EFEDB0DD90DFC81.quest_desc: ["&a收割机&f可以自动收割作物并重新种植.收割机收集的物品会放入其内部物品栏.\\n&7[The Harvester can auto-harvest crops and re-plant them. Items collected by the Harvester are put into it's internal inventory.]&f"]
+	quest.13124A7E22999850.quest_subtitle: "等级:&e1&7[Tier: 1]&f"
+	quest.15D764CAF047EA7A.title: "&c特提姆盔甲&r&7[Tertium Armor]&f"
+	quest.1609BF52108238B0.quest_subtitle: "等级:&e1&7[Tier: 1]&f"
+	quest.1636F3F12E92CAEA.quest_desc: [
+		"要使用&a洒水壶&f,你需要通过右击水源方块来为其装满水.一旦装满水,你可以按住右击作物来浇灌&a洒水壶&f作用范围内的作物.\\n&7[To use a Watering Can you'll need to fill it with Water by right-clicking on a Water source block. Once it's filled with Water you can hold right-click on a crop to water the crops within the Watering Can's AOE.]&f"
+		""
+		"精华洒水壶具有自动浇水的功能.只需按住Shift键右击空中的&a洒水壶&f来&a切换设置&f自动浇水的开启或关闭.当开启时,&a洒水壶&f看起来像是&a已被附魔&f.\\n&7[Essence Watering cans have the ability of auto-watering. Just shift-right-click the Watering Can in the air to toggle auto-watering on or off. It will look like the Watering Can is enchanted when it's turned on.]&f"
+	]
+	quest.16E3031D800B40D5.quest_desc: ["&a灵魂&f刷怪笼使用生物精华来生成生物.例如,如果你放入一些&a恶魂精华&f,你可以生成一只恶魂.\\n&7[The Soulium Spawner uses mob essences to spawn mobs. For example if you put in some Ghast Essence you can spawn a Ghast.]&f"]
+	quest.1C2CF6253F8B32EE.quest_subtitle: "等级:&56&7[Tier: 6]&f"
+	quest.1C4ABF4518638A82.quest_desc: ["增益效果:\\n\\n - &a伤害吸收 II&f (3:00)\\n - &a速度 II&f (3:00)\\n - &a抗性提升 II&f (3:00)\\n - 生命恢复 II (3:00)\\n - &a力量 II&f (3:00)\\n&7[Buffs:\\n\\n - Absorption II (3:00)\\n - Speed II (3:00)\\n - Resistance II (3:00)\\n - Regeneration II (3:00)\\n - Strength II (3:00)]&f"]
+	quest.1C4ABF4518638A82.title: "&4&a终极精华苹果&f&7[Supremium Apple]&f"
+	quest.1CC4F8570A7A99EB.quest_desc: ["&d精华&r是你在&d神秘农业&f中所有种植需求的起点.\\n\\n&e下级精华&r是所有精华的基础等级.你可以通过挖掘、击杀生物或制作种子来种植它们来获得!\\n\\n要制作更大更好的精华,你需要制作一个&9&a注魔水晶&f&r.\\n&7[Essence is the starting point for all of your growing needs in Mystical Agriculture.\\n\\nInferium Essence is the base tier of all essences. You can get this from mining, killing mobs, or by making seeds to grow them! \\n\\nTo make the bigger and better essences, you'll need to make an Infusion Crystal. ]&f"]
+	quest.1CC4F8570A7A99EB.quest_subtitle: "等级:&e1&7[Tier: 1]&f"
+	quest.1CC4F8570A7A99EB.title: "&a下级&7[Inferium]&f"
+	quest.1CF8263756EE8F2A.quest_desc: ["这种特殊的&e粉尘&r由凋灵和&a末影龙&f在被附有&d神秘启迪&r的&d精华武器&r击杀时掉落.\\n&7[This special Dust is dropped from the Wither and the Ender Dragon when killed by an Essence Weapon enchanted with Mystical Enlightenment.]&f"]
+	quest.1CF8263756EE8F2A.title: "&5认知粉尘&r&7[Cognizant Dust]&f"
+	quest.1E0F92F07FDD162E.quest_desc: ["你需要&b&a活化种子基底&f&r来创造资源作物.\\n&7[You will need Prosperity Seed Bases in order to create resource crops.]&f"]
+	quest.1E0F92F07FDD162E.quest_subtitle: "我专注于(种子)基底&7[I'm all about that (Seed) Base]&f"
+	quest.1E0F92F07FDD162E.title: "&b&a活化种子基底&f&7[Prosperity Seed Base]&f"
+	quest.1E414D285E7A5FE2.title: "&c特提姆工具&7[Tertium Tools]&f"
+	quest.1E7DC8E0493BE99E.quest_subtitle: "等级:&e1&7[Tier: 1]&f"
+	quest.1F7591DB6D8EC1E7.quest_desc: ["增益效果:\\n\\n - &a伤害吸收 II&f (3:00)\\n - &a速度 II&f (3:00)\\n - &a抗性提升 II&f (3:00)\\n - 生命恢复 II (3:00)\\n - &a力量 II&f (3:00)\\n - &a急迫 II&f (3:00)\\n&7[Buffs:\\n\\n - Absorption II (3:00)\\n - Speed II (3:00)\\n - Resistance II (3:00)\\n - Regeneration II (3:00)\\n - Strength II (3:00)\\n - Haste II (3:00)]&f"]
+	quest.1F7591DB6D8EC1E7.title: "&a&5究极苹果&f&7[Insanium Apple]&f"
+	quest.1F88C697817A7680.quest_desc: ["增益效果:\\n\\n - &a伤害吸收 II&f (3:00)\\n&7[Buffs:\\n\\n - Absorption II (3:00)]&f"]
+	quest.1F88C697817A7680.title: "&a下级苹果&7[Inferium Apple]&f"
+	quest.202B1F54D3F06DAB.quest_desc: ["这是第6级精华,由4个至尊精华与一个&a注魔水晶&f结合制成.\\n&7[This is the Tier 6 Essence, made by combining 4 Supremium together with an Infusion Crystal.]&f"]
+	quest.202B1F54D3F06DAB.quest_subtitle: "等级:&56&7[Tier: 6]&f"
+	quest.202B1F54D3F06DAB.title: "&5无尽&7[Insanium]&f"
+	quest.20851E0CF315F722.quest_desc: ["对于这个等级的种子,你需要在耕地下方放置一个相同类型的核心,种子才能生长.\\n&7[For seeds of this tier, you will need a crux of the same type placed below the farmland in order for the seeds to grow.]&f"]
+	quest.20851E0CF315F722.title: "&5&a究极耕地&f&7[Insanium Farmland]&f"
+	quest.212EF8601746C500.quest_desc: ["增益效果:\\n\\n - &a伤害吸收 II&f (3:00)\\n - &a速度 II&f (3:00)\\n - &a抗性提升 II&f (3:00)\\n - &a生命恢复 II&f (3:00)\\n&7[Buffs:\\n\\n - Absorption II (3:00)\\n - Speed II (3:00)\\n - Resistance II (3:00)\\n - Regeneration II (3:00)]&f"]
+	quest.212EF8601746C500.title: "&9英普瑞姆苹果&7[Imperium Apple]&f"
+	quest.21A90474590FCDB8.quest_desc: ["”熔炉”是原版熔炉的升级版本,可以进行升级以获得更快的速度和更高的效率.\\n&7[The \"Furnace\" is an upgraded version of a vanilla Furnace that can be upgraded for faster speed and better efficiency.]&f"]
+	quest.21A90474590FCDB8.title: "”熔炉”&7[\"Furnace\"]&f"
+	quest.224CE21E56703F6E.quest_desc: ["法杖可用于激活注魔祭坛,只需右键点击祭坛即可启动注魔过程.\\n&7[The Wand can be used to activate the Infusion Alter, just right-click on the altar to activate the infusion process.]&f"]
+	quest.224CE21E56703F6E.quest_subtitle: "你是个巫师(填入你的名字)!&7[You're a Wizard (Insert your name)!]&f"
+	quest.224CE21E56703F6E.title: "&2法杖&7[Wand]&f"
+	quest.23C36E4B5DCEBFDD.quest_desc: ["此任务由&6AllTheMods 团队&r或&2社区贡献者&r创作,用于 AllTheMods 整合包.\\n\\n由于所有&6AllTheMods&r整合包均采用&e保留所有权利&r许可,未经&6AllTheMods 团队&r明确许可,此任务不得用于任何非其发布的公开整合包.\\n\\n此任务被故意隐藏,如果你看到了这个,说明你正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks.\\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.260F9C98DC2E485B.quest_subtitle: "等级:&b4&7[Tier: 4]&f"
+	quest.26A7746051A4A079.quest_subtitle: "等级:&63&7[Tier: 3]&f"
+	quest.27A0BCE75F198A82.quest_subtitle: "等级:&e1&7[Tier: 1]&f"
+	quest.27E8ED4B5F8127F9.quest_subtitle: "等级:&b4&7[Tier: 4]&f"
+	quest.29AE69722AB4C75C.quest_subtitle: "等级:&a2&7[Tier: 2]&f"
+	quest.2A59C2FE4AAA79D4.quest_subtitle: "等级:&a2&7[Tier: 2]&f"
+	quest.2A7E3F2CD335EAD0.quest_desc: ["要开始制作&a精华装备&r的旅程,你需要先制作下级精华盔甲.\\n\\n这套装备可以像精华一样升级到更高等级.你还可以用&b&a工具装配台&f&r为它们添加&9强化&r!\\n&7[To start your journey making Essence Gear, you'll need to make the Inferium Armor first.\\n\\nThis gear can be upgraded to higher tiers, just like the Essences. You can also Augment them with the Tinkering Table!]&f"]
+	quest.2A7E3F2CD335EAD0.title: "&a下级精华盔甲&7[Inferium Armor]&f"
+	quest.2AECDD9E2DEA708C.quest_subtitle: "等级:&a2&7[Tier: 2]&f"
+	quest.2C73E3C5113BF2AC.quest_desc: ["&a哔哔&f 我是一只羊\\n&7[Beep beep I'm a Sheep]&f"]
+	quest.2C73E3C5113BF2AC.quest_subtitle: "等级:&a2&7[Tier: 2]&f"
+	quest.2C9C9CB71941DC01.quest_desc: ["这是第 3 级精华,由 4 个谨慎精华与一个&a注魔水晶&f合成而成.\\n&7[This is the Tier 3 Essence, made by combining 4 Prudentium together with an Infusion Crystal.]&f"]
+	quest.2C9C9CB71941DC01.quest_subtitle: "等级:&63&7[Tier: 3]&f"
+	quest.2C9C9CB71941DC01.title: "&c三级精华&7[Tertium]&f"
+	quest.2DDA04088C8220D2.quest_desc: ["&a活化水晶碎片&f是模组中的核心合成材料.你可以通过用铁筛或更高级的筛子筛&a灵魂沙&f来获得它们.\\n&7[Prosperity Shards are a core crafting ingredient in the mod. You can obtain them by sifting Soul Sand with an Iron Sieve or higher.]&f"]
+	quest.2DDA04088C8220D2.quest_subtitle: "我们终于能拥有繁荣了吗？&7[Can we finally have Prosperity?]&f"
+	quest.2DDA04088C8220D2.title: "&b&a活化水晶碎片&f&7[Prosperity Shards]&f"
+	quest.30E9255DEC69C061.title: "&4究极精华工具&7[Supremium Tools]&f"
+	quest.32B01BD789F0B037.quest_desc: ["觉醒的究极精华和其他等级精华可以使用&6&d资源蜜蜂&f&r模组来自动化生产.\\n&7[Awakened Supremium and other tiered essences can be farmed using the Productive Bees mod.]&f"]
+	quest.32B01BD789F0B037.title: "自动化觉醒的究极精华&7[Automating Awakened Supremium]&f"
+	quest.3339445194568D77.title: "&2谨慎精华工具&7[Prudentium Tools]&f"
+	quest.3384308C78D86059.quest_subtitle: "等级:&a2&7[Tier: 2]&f"
+	quest.33D23C65E7274A8F.quest_desc: ["要觉醒你的&a终极精华&f,你需要创建一个新的祭坛和 4 个新的基座,以及 4 个&c精华容器&r.\\n\\n&a精髓&f容器需要初始的元素精华来填充:火、水、土和风.\\n&7[To awaken your Supremium Essence, you'll need to create a new Altar and 4 new Pedestals, as well as 4 Essence Vessels.\\n\\nThe Essence Vessels will require the starter Element Essences to fill: Fire, Water, Earth, and Air.]&f"]
+	quest.33D23C65E7274A8F.title: "&d觉醒&r&7[The Awakening]&f"
+	quest.37B297640F537383.quest_desc: ["未调谐强化用于在注魔祭坛中创造各种强化.通过这些神奇的强化,你可以获得&e急迫&r、&1&a夜视&f&r、&b摔落&a伤害抵抗&f&r、&6&a火焰保护&f&r等等!\\n&7[The Unattuned Augment is used in an Infusion Alter to create various augments. Get Haste, Night Vision, Fall Damage Resistance, Fire Resistance, and much more with these amazing augments!]&f"]
+	quest.37B297640F537383.title: "&f未调谐强化&7[Unattuned Augment]&f"
+	quest.38A77DBAD24C4B53.quest_subtitle: "等级:&63&7[Tier: 3]&f"
+	quest.398DEF6BA2E488C1.quest_subtitle: "等级:&56&7[Tier: 6]&f"
+	quest.3BB3AA6C29285837.quest_desc: ["增益效果:\\n\\n - &a伤害吸收 II&f (3:00)\\n - &a速度 II&f (3:00)\\n&7[Buffs:\\n\\n - Absorption II (3:00)\\n - Speed II (3:00)]&f"]
+	quest.3BB3AA6C29285837.title: "&2谨慎精华苹果&7[Prudentium Apple]&f"
+	quest.3BD8315851A3EE5F.quest_subtitle: "等级:&a2&7[Tier: 2]&f"
+	quest.3C9F5EB59D72AC90.quest_desc: ["制作&6&aATM之星&f&r需要一个觉醒的&a终极精华锭&f块.\\n&7[An Awakened Supremium Ingot Block is needed to craft the ATM Star.]&f"]
+	quest.3E555B364FD88B43.quest_subtitle: "范围:&c45&r 格&7[Range: 45 Blocks]&f"
+	quest.3E555B364FD88B43.title: "&4&a终极生长加速器&f&7[Supremium Growth Accelerator]&f"
+	quest.3EA2578C3A56FAE8.quest_desc: ["&a灵魂提取器&f允许你通过放入一个罐子并使用生物物品来填充&a灵魂瓶&f.例如,添加腐肉会给予一部分僵尸灵魂.\\n&7[The Soul Extractor allows you to fill up Soul Jars by inserting a jar and using mob items to fill them. For example, adding Rotten Flesh will give a portion of a Zombie Soul.]&f"]
+	quest.3EBCBED3FD033117.quest_subtitle: "等级:&a2&7[Tier: 2]&f"
+	quest.408D8B1CFBA22BAF.quest_desc: ["防凋灵方块,&a防凋灵砖块&f和&a防凋零玻璃&f具有极高的爆炸抗性,不会被凋灵或&a末影龙&f摧毁.\\n&7[Witherproof Blocks, Witherproof Bricks and Witherproof Glass have a very high blast resistance and cannot be destroyed by the Wither or the Ender Dragon.]&f"]
+	quest.408D8B1CFBA22BAF.title: "&0防凋灵方块&7[Witherproof Blocks]&f"
+	quest.409A92D40F539485.quest_subtitle: "等级:&e1&7[Tier: 1]&f"
+	quest.41DBE44D7AA0B623.quest_desc: ["&a工具装配台&f就是用来为你的精华装备添加这些强化的!\\n&7[The Tinkering Table is how you add these augments to your essence gear!]&f"]
+	quest.42218A7D42CF0A4C.quest_subtitle: "等级:&a2&7[Tier: 2]&f"
+	quest.4352505361D61BB2.quest_subtitle: "等级:&a2&7[Tier: 2]&f"
+	quest.4526E151BAE88310.quest_subtitle: "等级:&e1&7[Tier: 1]&f"
+	quest.4530C14828C3D153.quest_subtitle: "等级:&b4&7[Tier: 4]&f"
+	quest.45549E52B3CE2D23.quest_desc: ["镰刀是可以一次性收割大片作物的工具.它们也可以用作相当不错的武器.\\n&7[Scythes are tools that can farm large areas of crops all at once. They can also be used as a fairly good weapon.]&f"]
+	quest.4821419D44F8083F.quest_desc: [
+		"&9&a生长加速器&f&r当直接放置在耕地下方时,会略微增加种子的生长速度.每个等级都有其可以加速”向上”多少格的范围,下级精华的最低,为 12 格.\\n&7[Growth Accelerators very slightly increase the growth speed of a seed when placed directly underneath the farmland. Each tier has a range of how many blocks 'up' it can accelerate, with Inferium being the lowest at 12. ]&f"
+		""
+		"注意:所有等级的&a生长加速器&f提供相同的生长刻速率.然而,更高等级的范围更大,因此你可以在单个植物下方堆叠更多个.只要&a生长加速器&f放置在其最大范围内,使用哪个等级并不重要.\\n&7[Note: Growth Accelerators of all tiers provide the same rate of growth ticks. Higher tiers however have a larger range, so you can stack more of them below a single plant. It doesn't matter which tier you use as long as the Growth Accelerator is placed within its max range.]&f"
+	]
+	quest.4821419D44F8083F.quest_subtitle: "范围:&e9&r 格&7[Range: 9 Blocks]&f"
+	quest.4821419D44F8083F.title: "&a下级精华 &a生长加速器&f&7[Inferium Growth Accelerator]&f"
+	quest.48BF71269DEA1AB1.title: "&4&a终极耕地&f&7[Supremium Farmland]&f"
+	quest.4EF5DE3FBA2A7AE3.quest_desc: ["从下级精华开始,你可以制作锭来制造精华&9工具&r和&9盔甲&r.\\n\\n精华工具可以升级到更高等级,就像盔甲一样,它们可以在&3&a工具装配台&f&r中进行&5强化&r.\\n&7[Starting with Inferium Essence, you can create ingots to make both Essence Tools and Armor.\\n\\nEssence tools can be upgraded to higher tiers, and just like the Armor, they can be Augmented in the Tinkering Table.]&f"]
+	quest.4EF5DE3FBA2A7AE3.title: "&a下级精华工具&7[Inferium Tools]&f"
+	quest.4F0DD86CF6E5F1B5.quest_subtitle: "等级:&b4&7[Tier: 4]&f"
+	quest.4F137DB561F45306.title: "&2谨慎精华盔甲&r&7[Prudentium Armor]&f"
+	quest.52BB58D470560219.quest_subtitle: "范围:&c54&r 格&7[Range: 54 Blocks]&f"
+	quest.52BB58D470560219.title: "&6Awakened &a终极生长加速器&f&7[Awakened Supremium Growth Accelerator]&f"
+	quest.54735C5FCD2077B3.quest_desc: [
+		"&a&d神秘农业&f&r是一个资源生成模组,允许你使用&a种子&r种植大量原版和模组资源.\\n&7[Mystical Agriculture is a resource generation mod that allows you to grow a large variety of vanilla and modded resources using Seeds.]&f"
+		""
+		"请注意,这个整合包中删除了很多种子,是的,我知道!我们怎么能这样？好吧,Geores 提供了一些替代方案,或许可以填补这个空白 ;)_\\n&7[Please note, alot of the seeds have been deleted in this modpack, yes I know! How could we? Well there are a few alternatives with Geores that might just fill that void ;)_]&f"
+	]
+	quest.54735C5FCD2077B3.title: "&a&d神秘农业&f!&7[Mystical Agriculture!]&f"
+	quest.54D72C234EA76054.quest_subtitle: "等级:&e1&7[Tier: 1]&f"
+	quest.56201F98819478AB.quest_subtitle: "等级:&a2&7[Tier: 2]&f"
+	quest.576ABF43FCF886B7.title: "&2谨慎精华耕地&7[Prudentium Farmland]&f"
+	quest.5782E9F866453D1D.quest_subtitle: "等级:&b4&7[Tier: 4]&f"
+	quest.5B1E0E3E876339E7.title: "&4究极精华盔甲&7[Supremium Armor]&f"
+	quest.5BC4250E4C9F803C.title: "&9英普瑞姆耕地&7[Imperium Farmland]&f"
+	quest.5C590DB2F3D935E5.quest_desc: ["&a种子再处理器&f可以将精华种子转化回精华.\\n&7[The Seed Reprocessor can convert essence seeds back into essences.]&f"]
+	quest.5C590DB2F3D935E5.quest_subtitle: "回收利用!&7[Recycling!]&f"
+	quest.5F6ACDE014A61F46.quest_desc: ["增益效果:\\n\\n - &a伤害吸收 II&f (3:00)\\n - &a速度 II&f (3:00)\\n - &a抗性提升 II&f (3:00)\\n&7[Buffs:\\n\\n - Absorption II (3:00)\\n - Speed II (3:00)\\n - Resistance II (3:00)]&f"]
+	quest.5F6ACDE014A61F46.title: "&c三级精华苹果&7[Tertium Apple]&f"
+	quest.617F1FA978197AFD.quest_subtitle: "等级:&56&7[Tier: 6]&f"
+	quest.6235B9923BE0AAEB.quest_desc: ["&a附魔器&f是一个允许你使用物品和精华为可附魔物品添加附魔的方块.\\n&7[The Enchanter is a block that allows you to add enchantments to enchantable items using items and essences.]&f"]
+	quest.6235B9923BE0AAEB.title: "&b附魔器&7[Enchanter]&f"
+	quest.62D572BAB055F56F.quest_subtitle: "等级:&e1&7[Tier: 1]&f"
+	quest.6501A410F1543C70.quest_desc: ["&a魔法肥料&f的作用类似于骨粉,但效果更好.它能瞬间使使用对象生长至完全成熟.\\n&7[Mystical Fertilizer works as Bonemeal, but better. It instantly grows whatever it is used on to full maturity.]&f"]
+	quest.6501A410F1543C70.title: "&a&d魔法肥料&f&7[Mystical Fertilizer]&f"
+	quest.66C52B137A4FF869.quest_desc: ["这是第 4 级精华,由 4 个三级精华与一个&a注魔水晶&f合成而成.\\n&7[This is the Tier 4 Essence, made by combining 4 Tertium together with an Infusion Crystal.]&f"]
+	quest.66C52B137A4FF869.quest_subtitle: "等级:&b4&7[Tier: 4]&f"
+	quest.66C52B137A4FF869.title: "&9英普瑞姆&7[Imperium]&f"
+	quest.67DBE6C59C0D9D1B.quest_desc: ["这是第 4 级精华,由 4 个英普瑞姆与一个&a注魔水晶&f合成而成.\\n&7[This is the Tier 4 Essence, made by combining 4 Imperium together with an Infusion Crystal.]&f"]
+	quest.67DBE6C59C0D9D1B.quest_subtitle: "等级:&c5&7[Tier: 5]&f"
+	quest.67DBE6C59C0D9D1B.title: "&4究极精华&7[Supremium]&f"
+	quest.67DDFA6FB1F9EECA.title: "&9英普瑞姆工具&7[Imperium Tools]&f"
+	quest.685C4A646E092A82.title: "&6觉醒的究极精华盔甲&7[Awakened Supremium Armor]&f"
+	quest.6A18B971C3DB83AE.quest_subtitle: "等级:&63&7[Tier: 3]&f"
+	quest.712EB19B26D405DD.quest_subtitle: "等级:&e1&7[Tier: 1]&f"
+	quest.73350AD668200E99.quest_desc: ["这是第 2 级精华,由 4 个下级精华与一个&a注魔水晶&f合成而成.\\n&7[This is the Tier 2 Essence, made by combining 4 Inferium together with an Infusion Crystal.]&f"]
+	quest.73350AD668200E99.quest_subtitle: "等级:&a2&7[Tier: 2]&f"
+	quest.73350AD668200E99.title: "&2谨慎精华&7[Prudentium]&f"
+	quest.75560045ED084900.quest_desc: [
+		"大多数种子制作起来很简单,但要制作&9生物种子&r,你需要前往&a下界&f获取一些&8灵魂精华&r.\\n&7[Most seeds are simple to make, but to make Mob Seeds, you'll need to head to the Nether to pick up some Soulium. ]&f"
+		""
+		"用你找到的石头和矿石,你需要用它们制作&3&a灵魂匕首&f&r和&3&a灵魂瓶&f&r.使用匕首杀死生物,你将能够收集它们的&b灵魂&r,这些灵魂用于&a注魔祭坛吧&f来创建相应的生物种子.\\n&7[With the stone and ore that you find, you'll need to use these to make the Soulium Dagger and Soul Jars. Using the dagger to kill mobs, you'll be able to gather their souls, which are used in the Infusion Altar to create the respective mob seeds. ]&f"
+		""
+		"或者,你可以通过将罐子放入&3&a灵魂提取器&f&r并使用生物物品来填充&a灵魂瓶&f.例如,添加腐肉会给予一部分僵尸灵魂.\\n&7[Alternatively, you can fill Soul Jars inside of the Soul Extractor by inserting a jar and using mob items to fill them. For example, adding Rotten Flesh will give a portion of a Zombie Soul.]&f"
+	]
+	quest.75560045ED084900.title: "创建生物种子&7[Creating Mob Seeds]&f"
+	quest.7580037DB8ADEB3C.quest_desc: ["喵喵,我是一头牛...\\n&7[Meow meow I'm a Cow...]&f"]
+	quest.7580037DB8ADEB3C.quest_subtitle: "等级:&a2&7[Tier: 2]&f"
+	quest.76071C22A73A2026.title: "&c三级精华耕地&7[Tertium Farmland]&f"
+	quest.7655E1C6C5E5469F.quest_subtitle: "范围:&a18&r 格&7[Range: 18 Blocks]&f"
+	quest.7655E1C6C5E5469F.title: "&2谨慎精华 &a生长加速器&f&7[Prudentium Growth Accelerator]&f"
+	quest.77C6667B4C37589C.quest_desc: ["机器升级用于加速&a&d神秘农业&f&r机器.\\n&7[Machine Upgrades are used to speed Mystical Agriculture machines.]&f"]
+	quest.7A103577EAE7B3F1.quest_desc: ["这是第 5 级 - 觉醒精华,由 4 个认知粉尘、每种元素精华各 10 个和 1 个&a终极精华块&f在觉醒祭坛中合成而成.\\n&7[This is the Tier 5 - Awakened Essence, made by combining 4 Cognizant Dust, 10 of each Elemental Essence and 1 Supremium Block together in an Awakening Alter.]&f"]
+	quest.7A103577EAE7B3F1.quest_subtitle: "等级:&c5 - 觉醒&7[Tier: 5 - Awakened]&f"
+	quest.7A103577EAE7B3F1.title: "&6觉醒的究极精华&7[Awakened Supremium]&f"
+	quest.7ADE214373DE135F.quest_subtitle: "等级:&63&7[Tier: 3]&f"
+	quest.7BBD85F94D98CA46.quest_desc: ["大多数资源种子已被&c移除&r,以便为&b&a通量筛子&f&r (ExDeorum) 和带有&6&a生长加速器&f 等级&r的&aGeOres&r模组让路.\\n&7[Most Resource Seeds were removed to give way for Flux Sieves (ExDeorum) and GeOres mod with Growth Accelerator Tiers.]&f"]
+	quest.7BBD85F94D98CA46.title: "警告&7[Warning]&f"
+	quest.7CFA92CC48D1E7E3.quest_subtitle: "等级:&c5&7[Tier: 5]&f"
+	quest.7D43016926E77150.title: "&9英普瑞姆盔甲&r&7[Imperium Armor]&f"
+	quest.7DFF18CFEB0B8DBE.quest_desc: ["你应该尽快开始种植&a下级精华&r!\\n\\n虽然种植这些种子不一定需要,但你也可以创建&e&a精华耕地&f&r来增加种子的生长速度(尤其是&a究极精华种子&f).然而,某些种子需要种植在特定的耕地上.\\n&7[You'll want to start growing Inferium as soon as you can!\\n\\nWhile not required for growing these seeds, you can also create Essence Farmland that will increase the growth speed of the seeds (especially Inferium Seeds). However, certain seeds will require certain farmlands to be planted on.]&f"]
+	quest.7DFF18CFEB0B8DBE.title: "&a下级精华耕地&7[Inferium Farmland]&f"
+	task.011F410922A4D859.title: "镰刀&7[Scythes]&f"
+	task.0C92F7E44100B2BA.title: "三级精华工具&7[Tertium Tools]&f"
+	task.2DA0BD7B2834A560.title: "防凋灵方块&7[Witherproof Blocks]&f"
+	task.323D34AF775A642B.title: "镰刀&7[Sickles]&f"
+	task.34551E919FD101CF.title: "英普瑞姆工具&7[Imperium Tools]&f"
+	task.3E133AC7B615971D.title: "究极精华工具&7[Supremium Tools]&f"
+	task.41910A3BC6C0E838.title: "谨慎精华工具&7[Prudentium Tools]&f"
+	task.4C906A47EBC15BC1.title: "&a洒水壶&f&7[Watering Cans]&f"
+	task.4F6E8F2EC33DB910.title: "觉醒的究极精华工具&7[Awakened Supremium Tools]&f"
+	task.518B9569DCE0A771.title: "保留所有权利&7[AllRightsReserved]&f"
+	task.51A3E013D2B3D744.title: "机器升级&7[Machine Upgrades]&f"
+	task.64FADC78A8AD3FE4.title: "种子&7[Seeds]&f"
+	task.773CA1FDC4CEFCEF.title: "版权所有&7[AllRightsReserved]&f"
+	task.7D9A58EBADE91F54.title: "下级精华工具&7[Inferium Tools]&f"
+}

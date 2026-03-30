@@ -1,0 +1,29 @@
+{
+	quest.0A497EC17534D248.quest_desc: ["&#53BAEDBBL 路由器&r 是一个完全无线的物流模组.你只需要 &#8B53ED输入器&r 和 &#EDB753输出器&r,它们就可以传输物品、流体、能量、化学品和源力.\\n&7[&#53BAEDBBL Routers is a logistics mod which is completely wireless. You just need the &#8B53EDImporters and &#EDB753Exporters and they can transfer items, fluids, power, chemicals and source.]&f"]
+	quest.0A497EC17534D248.title: "&#45A5ED欢迎来到 BBL 路由器&7[&#45A5EDWelcome to BBL Routers]&f"
+	quest.222446C143B43770.title: "传输源力&7[Transferring Source]&f"
+	quest.33A1316FD66C6428.quest_subtitle: "输入器/输出器需要升级才能工作&7[Upgrades are required for the Importers/Exporters to work]&f"
+	quest.3584DE12E1D7D14F.quest_desc: [
+		"此模组中有两种类型的过滤器,你可以手持它们 &7右键点击&r 来设置:\\n&7[There are 2 types of filters in this mod, you can right-click with them in hand to set them:]&f"
+		""
+		"1. &#EDDE53&a模组过滤器&f&r:你必须输入模组的完整名称(不含空格)来设置过滤器.\\n&7[1. &#EDDE53Mod Filter: You have to write the full name of the mod without spaces to set the filter.]&f"
+		""
+		"2. &#EDDE53&a标签过滤器&f&r:你必须输入标签(不带 # 号)来设置过滤器.\\n&7[2. &#EDDE53Tag Filter: You have to write the tag without the # to set the filter.]&f"
+	]
+	quest.3584DE12E1D7D14F.title: "过滤器升级&7[Filter Upgrades]&f"
+	quest.3E14842D5F454F98.title: "提高操作速度&7[Increasing Operation Speed]&f"
+	quest.401A518B2D1BDB9A.quest_subtitle: "放置在接收容器上&7[Place on the receiving inventory]&f"
+	quest.5312BD7BDC054E48.title: "传输物品&7[Transferring Items]&f"
+	quest.548676DCD1E09A7F.quest_subtitle: "放置在发送容器上&7[Place on the sender inventory]&f"
+	quest.6420E8B38993D8E3.title: "能量传输&7[Power Transmission]&f"
+	quest.671141CF874D89A4.title: "传输流体&7[Transferring Fluids]&f"
+	quest.68ABBA8CB99AF6A1.quest_desc: [
+		"将鼠标悬停在物品上并按住 &#EDD353Shift&r 键,将获得相关信息.\\n&7[Holding &#EDD353Shift over an item will give you information regarding them.]&f"
+		""
+		"要使用 &#537CED连接器&r,首先 &7右键点击&r &#EDB553输入器&r,然后 &7右键点击&r &#5360ED输出器&r 来连接它们.\\n&7[To use the &#537CEDConnector, first right-click on the &#EDB553Importer and then right-click on &#5360EDExporter to link them.]&f"
+	]
+	quest.6B11A21220723520.title: "传输化学品&7[Transferring Chemicals]&f"
+	quest.7742D896461A4632.quest_subtitle: "只需将其放入输出器&7[Just put it in the Exporter]&f"
+	task.368EEAEC5B950F4D.title: "使用连接器&7[Using the Connector]&f"
+	task.7ECFB3665B40F251.title: "升级&7[Upgrades]&f"
+}

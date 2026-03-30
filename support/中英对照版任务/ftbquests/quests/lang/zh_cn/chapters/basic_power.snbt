@@ -1,0 +1,97 @@
+{
+	quest.0A0C5A2F8DDED257.quest_desc: ["&e戴森立方体&r是终极能源,能产生高达惊人的&l&a1 GFE/t&r&r!\\n\\n设置一个&e电磁轨道弹射控制器&r,将&b太阳帆&r和&b光束&r发射到环绕太阳的轨道上.你可以通过其底面的中心&b自动&r输入物品(你绝对需要自动化才能达到最大功率输出).不幸的是,它在&o正午、夜晚或下雨时无法发射&r.\\n\\n为了收集那辉煌的能量,建造一个&b射线接收控制器&r.它从其底面的中心输出能量,但在&e夜晚&r或&e下雨&r时&o无法接收能量&r.\\n\\n你可以将光束和太阳帆&e打包&r成捆以加快发射速度,这比一个一个发送要容易得多.\\n\\n为了达到最大输出,你需要向轨道发送&c8,333,333&r个光束和&c49,999,998&r个太阳帆,这数量相当庞大.\\n\\n在你开始扩展到那个规模之前,请确保你已经建立了一些&a强大的资源生成&r设施.\\n&7[The Dyson Cube is the ultimate power source, producing up to an insane l1GFE/t!\\n\\nSet up an EM Rail Ejector Controller to launch Solar Sails and Beams into orbit around the Sun. You can input items automatically through the center of the bottom face (you'll definitely need automation to reach maximum power output). Unfortunately, it cannot fire at midday, at night, or during rain.\\n\\nTo collect that glorious energy, build a Ray Receiver Controller. It outputs power from the center of its bottom face but cannot receive power during night or rain.\\n\\nYou can package beams and sails into bundles for faster launches, which is much easier than sending them one by one.\\n\\nFor maximum output, you'll need to send 8,333,333 beams and 49,999,998 sails into orbit, which is quite a lot.\\n\\nBefore you start scaling up to that level, make sure you've got some robust resource generation in place.]&f"]
+	quest.0A0C5A2F8DDED257.quest_subtitle: "太阳之力,尽在掌握&7[The power of the Sun, in the palm of your hand]&f"
+	quest.0A0C5A2F8DDED257.title: "&e戴森立方体&7[Dyson Cube]&f"
+	quest.0BB42C5861B22D32.quest_desc: ["&b&a菌丝网络产能反应堆&f&r由所有菌丝发电机在反应堆方块附近同时工作组成,总共产生&a25 MFE/t&r.\\n\\n听起来都不错,但你需要自动化一些东西才能让它工作,看看每个菌丝发电机需要消耗什么来工作,并将其自动化.大多数东西很简单,但其他的就没那么简单了……&o说的就是祛魔菌丝发电机&r.\\n\\n但当你把所有东西都自动化之后,你不必只停留在一个反应堆,你可以制造更多.\\n&7[The Mycelial Reactor consists of all the Mycelial Generators working at the same time, near the reactor block, and it produces a total of 25MFE/t.\\n\\nAll sounds good, but you need to automate some stuff to get it working, see what each Mycelial Generator consumes to work, and automate it, most things are simple, but others, not that much... looking at Disenchanting Mycelial Generator.\\n\\nBut after you get it all automated, you don't need to stop at one, you can make more reactors.]&f"]
+	quest.0BB42C5861B22D32.quest_subtitle: "这不是你的菌丝反应堆&7[It's not Yourcelial Reactor]&f"
+	quest.0BB42C5861B22D32.title: "&9&d工业先锋&f: &b&a菌丝网络产能反应堆&f&7[Industrial Foregoing: Mycelial Reactor]&f"
+	quest.11D09E918015355C.quest_desc: ["&d通用机械&f的&c&a热力发电机&f&r是基础发电的另一种方式.它有两种发电模式:\\n\\n&9被动模式:&r用熔岩源方块或流动方块包围发电机,会随着时间的推移通过热量产生被动能量.在顶部放置一个熔岩源方块,让它从侧面流下.确保先连接管道来传输能量!\\n\\n&9主动模式:&r将可燃材料如煤炭或木头放入发电机中,燃料会燃烧产生能量.这种方式效率不高.\\n&7[Mekanism's Heat Generator is a different take on basic power production. It has two modes of creating power:\\n\\nPassive: Surrounding the generator with Lava source or flowing blocks creates passive power over time through heat. Place one Lava source block on top and let it flow over the sides. Make sure to have Pipes connected for energy first!\\n\\nActive: Placing combustible materials such as Coal or Wood into the generator will burn the fuel to create power. This is not very efficient.]&f"]
+	quest.11D09E918015355C.title: "&c&a热力发电机&f&7[Heat Generator]&f"
+	quest.1409C17773B6A131.quest_desc: ["所有升级都会增加&e&lPipez&r的传输量,并提供更多与&e&l管道&r一起使用的选项.\\n\\n基础升级允许使用红石激活&e&lPipez&r,以更改分配方式:最近优先、最远优先、轮询或随机,并可以添加过滤器.\\n\\n改进、高级和终极升级不会提供任何新功能,它们只是传输得更多!\\n&7[All Upgrades increase the amount the lPipez move and also grant more options to use with the lPipe. \\n\\nBasic Upgrade allows Redstone Activation with lPipez, to change distribution either:Closest First, Farthest First, Round-Robin, or Random, and to add Filters.\\n\\nImproved, Advanced, and Ultimate upgrades don't grant anything new they just move more!]&f"]
+	quest.1409C17773B6A131.title: "&9Pipez:&a升级&7[Pipez: Upgrades]&f"
+	quest.1BE26A00A420DAE3.quest_desc: ["在这个模组中,你需要&a&a通量核心&f&r和&a通量方块&r来制作网络的核心部件.每样都做一些!\\n&7[In this mod, you'll need Flux Cores and Flux Blocks to craft the core parts of your network. Make a few of each!]&f"]
+	quest.1BE26A00A420DAE3.quest_subtitle: "核心所需之物&7[Of Cores you need these]&f"
+	quest.1BE26A00A420DAE3.title: "”核心”合成材料&7[The \"Core\" Crafting Materials]&f"
+	quest.1F81EA5E45424308.quest_desc: ["如果你在寻找从机器中获取能量的不同方式,这里可以找到!\\n\\n有几种传输能量的选项,包括&a有线&r和&9无线&r.\\n&7[If you're looking for different ways to get power out of your machines, this is where you can find it!\\n\\nThere are several options, both wired and wireless, for transferring power.]&f"]
+	quest.1F81EA5E45424308.title: "&f&l传输能量&7[lTransferring Power]&f"
+	quest.27A4FA38992448A0.quest_desc: [
+		"&d通量网络&f也提供了一种无线为物品充电的方式,甚至可以跨维度!\\n\\n一旦你将一个接入点连接到你的能源系统,你会想要制作&9&a通量控制器&f&r并将其放置下来.\\n\\n右键点击它以打开界面,然后进入”无线充电”标签页.在那里,你可以选择你想要保持充电状态的物品栏的每个部分.要激活,请确保点击底部的切换按钮以启用无线充电,然后点击应用!\\n\\n&7[Flux Networks also provides a way to charge your items wirelessly, even across dimensions!\\n\\nOnce you have a Plug attached to your power system, you'll want to make the Flux Controller and place it down.\\n\\nRight-click on it to bring up the interface, and go to the \"Wireless Charging\" tab. From there, you can select each section of your inventory you'd like to keep charged. To activate, make sure to hit the toggle button at the bottom to enable Wireless Charging, then click apply!\\n]&f"
+		"{image:atm:textures/questpics/basic_power/wireless_ui.png width:125 height:150 align:center}"
+	]
+	quest.27A4FA38992448A0.title: "无线充电&7[Wireless Charging]&f"
+	quest.2EB7784D5296F410.quest_desc: [
+		"&a右键点击&f一个功能正常的通量网络方块会给你这个界面.\\n\\n每个接入点或接出点都可以被命名,拥有自定义的优先级,以及自定义的能量传输限制.这允许你完全控制系统中的所有部分.\\n\\n&a绕过限制&r会忽略设定的限制.\\n\\n还有其他几个标签页可以查看,主要是关于你网络的统计数据!\\n\\n&7[Right clicking a functional Flux Network block will give you this UI.\\n\\nEach Plug or Point can be named, have a custom priority level, and have a custom power transfer limit. This allows complete control over all parts of your system.\\n\\nBypass Limit ignores the limit set.\\n\\nThere are several other tabs to check out, mostly for statistics on your network!\\n]&f"
+		"{image:atm:textures/questpics/basic_power/flux_ui.png width:125 height:150 align:center}"
+	]
+	quest.35ABB0DEE70DF7FD.quest_desc: ["信不信由你,&aPowah&r模组有一些获取……能量的绝佳选择.\\n\\n一定要查看&cPowah&r任务章节了解更多!\\n&7[Believe it or not, the Powah mod has some great options for getting...power.\\n\\nMake sure to check out the Powah quest chapter to learn more!]&f"]
+	quest.35ABB0DEE70DF7FD.title: "更多&aPowah&r!&7[More Powah!]&f"
+	quest.35CC898E0E49FE58.quest_desc: ["&9&d通量网络&f&r是一个旨在满足你所有无线能量需求的模组.\\n\\n该模组本身没有发电的方式,但它可以存储和无线传输能量,甚至可以跨维度.它甚至可以为物品栏中的物品充电.\\n\\n使用这个模组,你甚至可以在飞行时为你的喷气背包充电.\\n\\n要开始使用这个模组,你需要一些通量粉尘.合成一些&a黑曜石1x&f压缩(在工作台中用9个黑曜石合成),放置它,然后在它上面扔一些红石.在漂浮的红石正上方(上方一格)放置一些黑曜石,然后左键点击(击打)黑曜石.\\n&7[Flux Networks is a mod that aims to be the solution to all of your wireless power needs.\\n\\nThe mod itself does not have a way to generate power, but it can store and wirelessly transmit power, even across dimensions. It can even charge your items in your inventory.\\n\\nYou can even charge your Jetpacks while you are flying with this mod.\\n\\nTo get started with the mod, you'll need some Flux Dust. Craft some Obsidian 1x Compressed (9 Obsidian in crafting table), place it down, then throw some Redstone on top of it. Place some Obsidian right above the floating Redstone (1 block above), then left click (punch) the Obsidian.]&f"]
+	quest.35CC898E0E49FE58.quest_subtitle: "终极无线能源解决方案&7[The Ultimate Wireless Power Solution]&f"
+	quest.35CC898E0E49FE58.title: "&8&d通量网络&f&7[Flux Networks]&f"
+	quest.36DEA17CBB696CC7.quest_desc: ["如果你右键点击接入点,你会看到通量网络界面.在右上角最远处,点击+按钮来创建你的第一个网络.你需要设置一个密码来创建网络,但你也可以设置一个颜色!\\n\\n从这里,你可以进入&a网络选择&f标签页,在接入点上激活你的网络.如果接入点连接到了能源,你现在可以使用&a通量接出点&f在你系统的任何地方利用那个能量!\\n\\n专业提示:如果你想用不同的能源为系统的不同部分供电,你可以创建多个网络!\\n&7[If you right-click on the Plug, you'll see the Flux Network UI. On the far top-right corner, click on the + button to create your first network. You'll need to set a password to create the network, but you can also set a color!\\n\\nFrom here, you can go to the Network Selection tab to activate your network on the Plug. If the Plug is attached to a power source, you can now harness that power anywhere in your system using a Flux Point!\\n\\nPro Tip: You can create multiple networks if you want to have different power sources powering different parts of your systems!]&f"]
+	quest.36DEA17CBB696CC7.quest_subtitle: "成为网络管理员!&7[Becoming a Network Admin!]&f"
+	quest.3B3E12581F9F0482.quest_desc: [
+		"&b&d龙之进化/龙之研究&f&r添加了一个称为&d&a能量核心&f&r的多方块结构.\\n\\n虽然它可能看起来令人困惑,但最终等级可以存储&m9,223,372,036,854,775,808 FE&r,基本上是无限能量.\\n\\n更多信息,请查看&d龙之进化/龙之研究&f章节!\\n&7[Draconic Evolution adds a multiblock called the Energy Core.\\n\\nWhile it may seem confusing, the final tier can hold 9,223,372,036,854,775,808 FE basically infinite power.\\n\\nFor more information, check out the Draconic Evolution Chapter!]&f"
+		"{image:atm:textures/questpics/draconic/draconic_core_8on.png width:100 height:100 align:1}"
+	]
+	quest.3B3E12581F9F0482.quest_subtitle: "基本上是无限存储&7[Basically Infinite Storage]&f"
+	quest.3B3E12581F9F0482.title: "&9&d龙之进化/龙之研究&f: &d&a能量核心&f&7[Draconic Evolution: Energy Core]&f"
+	quest.3BDB94F17765EE77.quest_desc: ["如果你想产生大量能量,你可以从扩大&9中期能源&r部分的一些选项开始.让你的&a反应堆&r变得更大.将你的&9&a热力发电机&f&r升级到硝基级.尽情发挥吧.\\n\\n然而,你可能需要更多的能量.\\n&7[If you're looking to generate a ton of power, you can start by scaling up some of the options from the Mid Game Power section. Make your Reactors bigger. Upgrade your Thermo Generators to Nitro. Go wild.\\n\\nHowever, you may need even more power.]&f"]
+	quest.3BDB94F17765EE77.quest_subtitle: "超出你所需的能量&7[More Power Than You'll Need]&f"
+	quest.3BDB94F17765EE77.title: "终局能源选项&7[End Game Power Options]&f"
+	quest.42D173B9FF8D16E4.quest_desc: ["在寻找游戏早期的能源选项吗？这些是让你开始发电的好方法.\\n\\n这些不会产生大量能量,但它们在游戏早期通常容易获得或成本低廉!\\n&7[Looking for early game power options? These are good ways to get you started with generating power.\\n\\nThese don't produce a ton of power, but they are typically easy or cheap to get in the early game!]&f"]
+	quest.42D173B9FF8D16E4.quest_subtitle: "初始能源&7[Starter Power]&f"
+	quest.42D173B9FF8D16E4.title: "&8&l&a游戏早期&f能源选项&7[lEarly Game Power Options]&f"
+	quest.43D83CFA824B0A70.quest_desc: ["&9&d通用机械&f&r有一个终局能源选项,难以被超越.&d&a湮灭反应堆&f&r可以产生高达80 MRF/t的能量,如果你想学习如何建造它,一定要查看&a&d通用机械&f:&d反应堆&r任务章节!\\n&7[Mekanism has an end game power option that is tough to beat. The Fusion Reactor can produce up to 80MRF/t, and if you want to learn how to build it, make sure to check out the Mekanism: Reactors quest chapter!]&f"]
+	quest.43D83CFA824B0A70.quest_subtitle: "聚变启动!&7[Fusion Activate!]&f"
+	quest.43D83CFA824B0A70.title: "&9&d通用机械&f: &d&a湮灭反应堆&f&7[Mekanism: Fusion Reactor]&f"
+	quest.477B411F84342EEA.quest_desc: ["&d通用机械&f是能量存储的最佳模组之一,尤其是在游戏早期.\\n\\n基础能量立方体易于配置,易于合成,并且存储大量能量.它也可以升级,并且可以在界面内为物品充电!\\n\\n要了解更多关于升级能量立方体以及该模组的信息,请前往&a&d通用机械&f&r任务章节!\\n&7[Mekanism is one of the best mods for energy storage, especially in the early game.\\n\\nThe Basic Energy Cube is easy to configure, easy to craft, and stores a lot of power. It can also be upgraded, and can charge items inside of the interface!\\n\\nTo learn more about upgrading the Energy Cube as well as the mod, head over to the Mekanism quest chapter!]&f"]
+	quest.477B411F84342EEA.title: "&9&d通用机械&f:&a能量立方体&7[Mekanism: Energy Cubes]&f"
+	quest.48DC9E8E9D21A2FA.quest_desc: ["&d通用机械&f提供了几种利用可再生资源发电的方式.\\n\\n&9&a太阳能发电模块&f&r利用太阳的能量来满足基本电力需求.它在夜晚不工作,并且必须能接触到天空.玻璃是可以的.\\n\\n&9&a风力发电机&f&r通过风提供能量.除非你想出了让你的角色手动旋转它的方法,否则它的旋转速度基于它所放置的Y坐标高度.它也需要直接接触天空,上方不能有任何方块.\\n&7[Mekanism provides several ways to make power using renewable resources.\\n\\nThe Solar Generators harness the power of the Sun to provide basic power needs. It does not work during the night, and must have access to the sky. Glass is okay.\\n\\nThe Wind Generator provides power via the wind. Unless you've figured out a way for your character to manually spin this, the speed it spins is based off of the Y lvl it is placed at. It also needs direct access to the sky without any blocks above it.]&f"]
+	quest.48DC9E8E9D21A2FA.quest_subtitle: "&a太阳能&f……&7[The Power of the Sun...]&f"
+	quest.48DC9E8E9D21A2FA.title: "&9&d通用机械&f: &a&a再生能源&f&7[Mekanism: Renewable Energy]&f"
+	quest.4AB0DD227471FDBF.quest_desc: ["本章专门介绍所有与能量相关的内容!\\n\\n在这里,你将找到发电、存储和传输能量的基本方法.\\n&7[This chapter is dedicated to all things power related!\\n\\nHere you'll find the basic ways to generate, store, and transfer power.]&f"]
+	quest.4AB0DD227471FDBF.quest_subtitle: "所有能量!&7[All The Power!]&f"
+	quest.4AB0DD227471FDBF.title: "&c基础能源&7[Basic Power]&f"
+	quest.4EEAB467C722ECE7.quest_desc: ["这些是简单的管道,可以用管道升级进行升级.\\n\\n要从一个方块”提取”能量,将管道放置在方块旁边,在连接的那一侧,按住Shift+右键点击管道扳手,将管道设置为提取模式.\\n\\n&e&lPipez&r模组还提供了运输物品、气体和液体的方式!或者你可以制作一个称为&a&a通用管道&f&r的多合一管道.\\n\\n其他扳手也可以与&e&lPipez&r一起使用!\\n&7[These are simple pipes that can be upgraded with Pipe Upgrades.\\n\\nTo 'extract' power from a block, place the pipe down next to the block, and on the side that is connected, shift+right-click with the pipe wrench to set the pipe to extract.\\n\\nThe lPipez mod also offers ways to transport items, gases, and liquids as well! Or you can make an All-In-One Pipe called the Universal Pipe.\\n\\nOther Wrenches work with lPipez as well!]&f"]
+	quest.4EEAB467C722ECE7.title: "&9Pipez:&a&a能量管道&f&7[Pipez: Energy Pipes]&f"
+	quest.56B6ABF3D6EA0D84.quest_desc: ["设置好我们的接入点后,我们现在可以从我们的网络中获取能量.&9&a通量接出点&f&r正是做这个的.它将你网络中的能量指向它所连接的任意方块,包括管道或线缆,或者直接连接到机器上!\\n\\n一旦你将接出点放置在你想要供电的机器或方块上,右键点击它,在”&a网络选择&f”标签页中选择你的网络.就像接入点一样,你可以调整接出点提取多少能量、优先级等.\\n&7[With our Plug set up, we can now tap into the power from our network. The Flux Point does exactly that. It points the power from your network to whatever block it is attached to, including Pipes or Cables, or just directly on machines!\\n\\nOnce you've placed your Point on the machine or block you want to power, right-click on it and select your network in the \"Network Selection\" tab. Just like the Plug, you can adjust how much power the Point pulls, priority level, etc.]&f"]
+	quest.56B6ABF3D6EA0D84.title: "访问网络能量&7[Accessing Network Power]&f"
+	quest.5C47935A3B2877FF.quest_desc: ["&d通用机械&f提供了一种外观不错的线缆来传输你的能量.\\n\\n如果你连接的机器已经可以拉取或推送能量,你就不需要配置线缆.否则,你需要一个&9配置器&r来配置线缆.按住Shift右键点击会将线缆更改为拉取或推送模式.\\n&7[Mekanism offers a nice looking Cable to transfer your power.\\n\\nIf the machine you are connecting to already pulls or pushes power, you will not need to configure the Cable. Otherwise, you'll need a Configurator to configure the Cable. Shift right-clicking will change the Cable to pull or push mode.]&f"]
+	quest.5C47935A3B2877FF.quest_subtitle: "&d通用机械&f's &a能量传输&f Pipe&7[Mekanism's Energy Transfer Pipe]&f"
+	quest.5C47935A3B2877FF.title: "&9&d通用机械&f:&a通用线缆&7[Mekanism: Universal Cables]&f"
+	quest.5E41363F9AE243F3.quest_desc: ["你不能永远靠煤炭为你的基地供电!如果你有相当数量的可用资源,是时候升级你的能源设置了!\\n\\n这些选项通常需要一些设置,但产生的能量足以让你在游戏进程中走得很远.\\n&7[You can't power your base off of Coal forever! If you've got a decent amount of resources available, it's time to upgrade your power setup!\\n\\nThese options usually require a little setting up, but produce enough power to carry you far into your playthrough.]&f"]
+	quest.5E41363F9AE243F3.title: "&b&l中期能源选项&7[lMid Game Power Options]&f"
+	quest.5F078A574A783B02.quest_desc: ["启动你的通量网络所需的第一个物品是&9&a通量接入点&f&r.\\n\\n接入点用于从其连接的方块”抽取”能量.除了一个小缓冲区外,接入点本身不存储任何能量,所以不用担心它会吸走你所有的能量.\\n\\n建议将接入点放置在能量存储方块上,比如能量立方体.它可以连接到线缆、管道或任何发电机器的输出端.\\n\\n要学习如何设置你的第一个网络,请查看下一个任务!\\n&7[The first item you'll need to start your Flux Network is a Flux Plug.\\n\\nThe Plug is used to \"draw\" power from the block it is attached to. Aside from a small buffer, the Plug does not store any power itself, so don't worry about it zapping up all of your power.\\n\\nIt is suggested to place the Plug on a power storage block like an Energy Cube. It can connect to Cables, Pipes, or the output of any power producing machine.\\n\\nTo learn how to set up your first network, check the next quest!]&f"]
+	quest.5F078A574A783B02.quest_subtitle: "插上它就行!&7[Just plug it in!]&f"
+	quest.5F078A574A783B02.title: "启动你的网络&7[Starting Your Network]&f"
+	quest.682034C680FDEDC2.quest_desc: [
+		"&9&d通用机械&f&r的&a&a输导矩阵&f&r是一种强大的存储能量的方式.\\n\\n如果你在寻找&a&d通用机械&f&r提供的最佳能量存储,请查看&9&d通用机械&f:&r&d反应堆&r任务章节.\\n\\n&7[Mekanism's Induction Matrix is a powerful way to store your power.\\n\\nIf you're looking for the best power storage Mekanism has to offer, check out the Mekanism: Reactors quest chapter.\\n]&f"
+		"{image:atm:textures/questpics/mek/mek_induction_matrix_small.png width:125 height:150 align:center fit:true}"
+	]
+	quest.682034C680FDEDC2.title: "More &a能量存储&f&7[More Power Storage]&f"
+	quest.6D6E07564D8FDD8D.quest_desc: ["&a&d极限反应堆&f&r提供可完全自定义大小、效率等的多方块反应堆.\\n\\n要了解更多关于开始使用&d极限反应堆&f的信息,请查看该模组的任务章节!\\n&7[Extreme Reactors offers multi-block Reactors that are completely customizable in size, efficiency, and more.\\n\\nTo learn more about getting started with Extreme Reactors, check out the quest chapter for the mod!]&f"]
+	quest.6D6E07564D8FDD8D.quest_subtitle: "可自定义的反应堆!&7[Customizable Reactors!]&f"
+	quest.6D6E07564D8FDD8D.title: "&9&d极限反应堆&f:&a反应堆&7[Extreme Reactors: Reactors]&f"
+	quest.72EA25D05C46D39A.quest_desc: ["&9&d动态联合/集成动力&f&r提供了一个简单的能量存储系统.&a电池&f可以在合成网格中组合以增加总存储量!\\n&7[Integrated Dynamics provides a simple power storage system. The Batteries can be combined in a crafting grid to increase the overall storage!]&f"]
+	quest.72EA25D05C46D39A.quest_subtitle: "内含电池&7[Batteries Included]&f"
+	quest.72EA25D05C46D39A.title: "&9&d动态联合/集成动力&f:&b能量电池&7[Integrated Dynamics: Energy Battery]&f"
+	quest.76EA017B12E8F01B.quest_desc: ["本节向你展示存储能量的不同方式!\\n&7[This section shows you different ways to store your power!]&f"]
+	quest.76EA017B12E8F01B.title: "&f&l存储能量&7[lStoring Power]&f"
+	quest.79AD74A863EA43CB.quest_desc: ["&d通量网络&f确实提供了一种为你网络产生的能量存储的方式!\\n\\n这些总体上存储着大量的能量,并且可以升级以存储更多!\\n&7[Flux Networks does provide a way to store the power you generate for your network!\\n\\nThese hold massive amounts of power overall, and can be upgraded to store even more!]&f"]
+	quest.79AD74A863EA43CB.quest_subtitle: "存储能量&7[Storing Power]&f"
+	quest.79AD74A863EA43CB.title: "通量存储&7[Flux Storage]&f"
+	quest.7A979BEB20C9591E.quest_desc: ["通量粉尘可以使用 &6&d资源蜜蜂&f&r 自动化生产!\\n\\n&a红石蜜蜂刷怪蛋&f 可以使用 &a黑曜石蜜蜂&f 转化为通量粉尘蜜蜂 &a刷怪蛋&f.\\n&7[Flux Dust can be automated using Productive Bees!\\n\\nRedstone Bee Spawn Eggs can be converted to Flux Dust Bee Spawn Eggs using an Obsidian Bee.]&f"]
+	quest.7A979BEB20C9591E.title: "自动化通量粉尘&7[Automated Flux Dust]&f"
+	quest.7FE969CB4B419FC6.quest_desc: ["稍微研究一下 &d通用机械&f,这台机器就能让你无线传输任何东西.\\n\\n你可以设置特定频道来传输单个物品、能量,甚至是 &d通用机械&f 中的气体.这相当酷.\\n&7[With a little work into Mekanism, this machine allows you to transfer anything wirelessly.\\n\\nYou can set specific channels to transfer individual items, energy, or even gases from Mekanism. It's pretty cool.]&f"]
+	quest.7FE969CB4B419FC6.quest_subtitle: "不只传输能量&7[Doesn't just work for Power]&f"
+	quest.7FE969CB4B419FC6.title: "&9&d通用机械&f: &6&a量子传送装置&f&7[Mekanism: Quantum Entangloporter]&f"
+	task.098F1B932F851616.title: "管道升级&7[Pipe Upgrades]&f"
+	task.2D0212699F99459F.title: "第一个网络&7[The First Network]&f"
+	task.35C1DBD4544C9BB0.title: "感应单元&7[Induction Cells]&f"
+	task.3D721B55E8D33FE8.title: "&d通量网络&f 用户界面&7[The Flux Networks UI]&f"
+	task.44C02386C9B8E0D3.title: "感应供应器&7[Induction Providers]&f"
+	task.59DE118DD6597A4E.title: "可再生 &d通用机械&f 能量发生器&7[Renewable Mekanism Energy Generators]&f"
+	task.6C4B8A2662030CB0.title: "通用线缆&7[Universal Cables]&f"
+	task.76378687551A79C3.title: "能量立方&7[Energy Cubes]&f"
+}

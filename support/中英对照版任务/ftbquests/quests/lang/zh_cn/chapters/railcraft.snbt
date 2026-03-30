@@ -1,0 +1,191 @@
+{
+	quest.008D186B4E0ED14F.quest_desc: [
+		"&a蒸汽炉&f 是另一种使用蒸汽做有用事情的机器.\\n\\n通过将蒸汽输入 &a蒸汽炉&f,它可以作为其中任何物品的熔炉.将矿石熔炼成锭并烹饪食物.\\n\\n它是一个由 &a蒸汽炉&f 方块组成的2x2x2机器.\\n&7[The Steam Oven is another machine that uses Steam for something useful. \\n\\nBy putting Steam into the Steam Oven it will act as a furnace to any items in it. Making Ingots from Ores and cooking food items. \\n\\nIt's a 2x2x2 machine of Steam Oven blocks.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_oven.png width:100 height:100 align:center}"
+	]
+	quest.008D186B4E0ED14F.title: "&a蒸汽炉&f&7[Steam Oven]&f"
+	quest.020E6AF37A0421C8.quest_desc: [
+		"&a水槽&f 就像外面有个桶.只是这个桶要大得多.它收集水并可以为 &a蒸汽机车&f 储水.\\n\\n产水量取决于生物群系和是否露天可见.\\n\\n它由3x3x3的 &a水槽&f 方块构成,中心是空心的.\\n&7[The Water Tank is like having a barrel outside. Just this barrel is much bigger. It collects water and can hold water for Steam Locomotives. \\n\\nThe amount of water is makes is dependent on the biome and visible to the sky. \\n\\nIt's made by a 3x3x3 Water Tank blocks with the center being hollow.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_tank.png width:100 height:100 align:center}"
+	]
+	quest.020E6AF37A0421C8.title: "&a水槽&f&7[Water Tank]&f"
+	quest.032B654201E71618.quest_desc: ["这些&c轨道套件&r用于让你的&7矿车&r搭载实体(实体即生物).\\n\\n&c登车套件&r会拾取附近的任何生物并将其放入&7矿车&r.\\n&c下车套件&r将生物从&7矿车&r中卸载.\\n&c卸载套件&r会将&7矿车&r中的生物丢弃到其所在&6轨道&r的下方.\\n&7[These Track Kits are for using entities with your Carts (Entities aka Mobs). \\n\\nThe Embarking Kit will pick up any Mobs nearby and put them in a Cart. \\nThe Disembarking Kit unloads Mobs from the Carts. \\nThe Dumping Kit will drop the mobs in the Carts below the tracks its on.]&f"]
+	quest.032B654201E71618.title: "用于移动实体的&c轨道套件&r&7[Track Kits for moving entities]&f"
+	quest.035C52EF63AD23A7.quest_desc: ["因此,模组&l铁路工艺&r及其核心&5火车&r,都离不开&6轨道&r.\\n\\n&2原版&r轨道适用于许多情况,但得了吧,我们都知道它们很烂.&a增强型&f轨道需要一些更特殊的物品来合成!制作它们吧!(可能需要使用机器来制作这些物品,所以去看看任务的那部分!)\\n&7[Hence the name of the mod, lRailCraft, and what it revolves around, Trains, Rails are pretty important. \\n\\nThe Vanilla ones work for lots of these but come on we all know they suck. Upgraded ones will need some more special items for their recipes! Craft them! (They might require using machines to make the items so check out that part of the quest!)]&f"]
+	quest.035C52EF63AD23A7.title: "&6&l轨道&r!&7[lRails!]&f"
+	quest.068294A7C21DE550.quest_desc: ["&c轨道套件&r用于与&6轨道&r合成,以制作特殊的&6轨道&r.\\n\\n这些&6轨道&r对于&5火车&r相关的所有事情都很有帮助,例如:停止&5火车&r、移动&5火车&r以及发出红石信号.\\n&7[Track Kits are used to craft with rails to make special rails. \\n\\nThese rails will be helpful for everything Train wise like: stopping the Train, moving the Train, and emitting redstone.]&f"]
+	quest.068294A7C21DE550.title: "&c&l轨道&r!&7[lTracks!]&f"
+	quest.08457BEED799E600.quest_desc: ["这些新的&7矿车&r主要用于铺设&6轨道&r.\\n\\n&7铺轨车&r会放置&6轨道&r,而&7&a轨道拆除器&f&r会移除&6轨道&r.\\n\\n&7轨道更换车&r会用不同的&6轨道&r替换现有的,而&7轨道底切车&r会替换&6轨道&r下方的方块.\\n&7[These new Carts are mostly for laying down Tracks.\\n\\nThe Track Layer places down Tracks while the Track Remover removes Tracks.\\n\\nThe Track Relayer replaces the Tracks with different ones and the Track UnderCutter replaces the blocks beneath the Tracks.]&f"]
+	quest.08457BEED799E600.title: "&7矿车&r与&6轨道&7[Carts and Tracks]&f"
+	quest.0A43FD0B5C76C1C5.quest_desc: [
+		"&l&7铁路工艺&r为我们添加了一个&a爆裂熔炉&f多方块结构,用于将铁转化为钢!\\n\\n建造它需要34个&a高炉砖&f.它的尺寸为宽3格、长3格、高4格.正中心的两格必须是空心的.当它完全成型并允许你访问其GUI时,你就知道它建好了.\\n\\n在那里,你可以放入任何形式的铁,来获得钢和粒状沙子.\\n&7[lRailCraft adds a Blast Furnace multiblock for us to transform Iron into Steel! \\n\\nTo build it you'll need 34 Blast Furnace Bricks. It'll be 3 blocks wide, 3 blocks long, and 4 blocks tall. The two blocks in the exact center need to be hollow. You'll know it's done when it forms all together and allows you to access its GUI. \\n\\nThere you can put Iron ,in any form, to get Steel and Granulated Sand.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_furnace.png width:100 height:100 align:center}"
+	]
+	quest.0A43FD0B5C76C1C5.title: "爆裂(钢)熔炉&7[Blast (Steel) Furnace]&f"
+	quest.104049993CC62E7F.quest_desc: ["高级物品装载器拥有普通装载器的所有功能,但可以在&6轨道&r附近的任何位置使用.旁边、上方、另一侧旁边都可以.使用&4撬棍&r来改变它的方向.\\n&7[The Advanced Item Loader is everything the regular one is but can be used from anywhere near the Track. Next to, above, next to on the other side. Use the Crowbar to change its direction.]&f"]
+	quest.104049993CC62E7F.title: "高级物品装载器&7[Advanced Item Loader]&f"
+	quest.1698565EBB68DC85.quest_desc: [
+		"&6&aY型轨道&f&r是使用道钉锤制作的第二种轨道.它将两条&6轨道&r合并为一条.如果一条&6轨道&r与另一条相交,&6Y型轨道&f&r会将第一条&6轨道&r上的&7矿车&r移动到相交的轨道上.\\n&7[The Wye Track is the second track made by using a Spike Maul. It directs two Tracks into one. If you have one Track intersected by another the Wye will move Carts on the first Track into the intersecting one.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_wye.png width:100 height:100 align:center}"
+	]
+	quest.1698565EBB68DC85.title: "&6&aY型轨道&f&7[Wye Tracks]&f"
+	quest.170118E3C3C072E5.quest_desc: [
+		"&6道岔&r是道钉锤制作的最后一种&6轨道&r.它充当&6轨道&r的普通交叉口.&7矿车&r会保持原来的方向前进,但现在&6轨道&r可以相交了.如果两辆&7矿车&r在上面相撞会发生什么？它们会爆炸!!!我开玩笑的,但&e&a电力机车&f&r确实会爆炸.\\n&7[The Junction is the last Track made by the Spike Maul. It acts as a normal intersection for Tracks. Carts keep going the same way as before but now Tracks can intersect. What happens if 2 Carts hit each other on it? THEY EXPLODE!!! I'm kidding but Electric Locomotives will though.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_junction.png width:100 height:100 align:center}"
+	]
+	quest.170118E3C3C072E5.title: "&6&a交接轨道&f&7[Junction Tracks]&f"
+	quest.175D943160C10646.quest_desc: [
+		"&l&7铁路工艺&r使用许多机器来处理不同的事情,但主要是资源生产.\\n&7[lRailCraft uses many machines for different things but mostly resource creation.]&f"
+		""
+		"它们全都始于&a铁锭&f!\\n&7[All of them start with Iron Ingots!]&f"
+	]
+	quest.175D943160C10646.title: "&l&7机器&7[lMachines]&f"
+	quest.17F7964611D893BE.quest_desc: ["&a流体装载器&f将有助于让你的&3&a蒸汽机车&f&r保持运行.它必须放置在&6轨道&r上方几格的位置,并将流体部署到&5机车&r或&7矿车&r中.\\n&7[The Fluid Loader will be helpful to keeping your Steam Locomotives up and running. It has to be placed a few blocks above the Tracks and it will deploy fluids into either the Locomotive or Carts.]&f"]
+	quest.17F7964611D893BE.title: "&a流体装载器&f&7[Fluid Loader]&f"
+	quest.184F98BE0F6710E2.quest_desc: ["这两种&c轨道套件&r用于配合&7矿车&r和红石使用.\\n\\n&c激活套件&r会激活任何经过其上的&7矿车&r.\\n&c探测套件&r会在&7矿车&r经过时激活红石信号.\\n\\n两者都类似于&2原版&r中用于普通&6轨道&r的对应物.\\n&7[These 2 Track Kits are for using Carts and Redstone.\\n\\nThe Activator Kit will activate whatever Cart goes over it. \\nThe Detector Kit will activate a redstone signal whenever a Cart passes over it. \\n\\nBoth are similar to their Vanilla counters for regular tracks.]&f"]
+	quest.184F98BE0F6710E2.title: "用于红石的&c轨道套件&r&7[Track Kits for using Redstone]&f"
+	quest.21693C4DE6531D73.quest_desc: [
+		"&a磨粉机&f正如其名.它可以粉碎方块以获得合成材料,例如从砖楼梯获得砖,或从锭获得粉末.\\n\\n不过它需要能量才能工作!\\n\\n建造一个需要3x2x2的粉碎机方块.\\n&7[The Crusher is just as the name suggests. It can crush blocks to get the crafting materials, like bricks from a brick staircase, or dusts from ingots. \\n\\nIt needs power to work though! \\n\\nTo build one it's 3x2x2 of Crusher blocks.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_crusher.png width:100 height:100 align:center}"
+	]
+	quest.21693C4DE6531D73.title: "粉碎机&7[Crusher]&f"
+	quest.249E5C6893387E15.quest_desc: ["这些&c轨道&r专为停止&5机车&r和&7矿车&r而设计.\\n\\n&c锁定套件&r会停止&7矿车&r,并且只在收到红石脉冲时才会启动它们.\\n&c缓冲套件&r用于你的&6轨道&r末端,会停止矿车且不启动.\\n&c闸门套件&r会部署一个与&6轨道&r连接的&a栅栏门&f.\\n&7[These Tracks are made for stopping the Locomotives and Carts. \\n\\nThe Locking Kit stops Carts and only starts them when given a redstone pulse. \\nThe Buffer Kit is for the end of your tracks, will stop them and not start. \\nThe Gated Kit just deploys a Fence Gate connected with the track.]&f"]
+	quest.249E5C6893387E15.title: "用于停止&7矿车&r的&c轨道套件&r&7[Track Kits for stopping Carts]&f"
+	quest.283AB56F81EF03A5.quest_desc: ["为了给你的&6&a电力导轨&f&r和&e&a电力机车&f&r供能,你需要&e框架.框架&r需要被供能,并将能量传递到每个相连的&e框架&r.\\n&7[In order to power your Electric Rails and your Electric Locomotive you'll need Frames. Frames need to be powered and will move power to each connected to Frame.]&f"]
+	quest.283AB56F81EF03A5.title: "&e框架&7[Frames]&f"
+	quest.2869AB982799CF0C.quest_desc: ["&c&a单向通行&f轨道套件&r非常简单.&7矿车&r只能朝箭头所指的方向行驶.\\n&7[The One Way Track Kit is quite simple. Carts can only go where the arrow is facing.]&f"]
+	quest.2869AB982799CF0C.title: "&c轨道套件&r &a单向通行&f&7[Track Kit One Way]&f"
+	quest.2A30595DC6DDBFF7.quest_desc: [
+		"&6&a电力轨道&f&r用于&e&a电力机车&f&r.它们需要由&e框架&r供能,是的,如果你碰到它,它会伤害你.\\n&7[The Electric Tracks are used for the Electric Locomotives. They'll need to be powered by Frames and yes it will hurt you if you touch it.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_electric_rail.png width:150 height:100 align:center}"
+	]
+	quest.2A30595DC6DDBFF7.title: "&6&a电力轨道&f&7[Electric Tracks]&f"
+	quest.2AB0FA084739827A.quest_desc: ["要实际使用&9&a隧道盾构车&f&r,你需要一个&9&a隧道盾构车&f钻头&r.\\n\\n它们有4种不同的样式,挖掘效果取决于&9钻头&r的类型.\\n\\n它可以附魔并且有耐久度,所以你会想给它附魔!\\n&7[To actually use a Tunnel Bore you'll need a Tunnel Bore Head. \\n\\nThey come in 4 different styles and it mines dependent on the Bore Head. \\n\\nIt can be enchanted and has durability so you'll want to enchant it!]&f"]
+	quest.2AB0FA084739827A.title: "&9&a隧道盾构车&f,钻头&7[Tunnel Bore, Bore Head]&f"
+	quest.2D00F85379A4D591.quest_desc: ["物品装载器是铁路工艺中最基础的分配器.它必须位于&6轨道&r上方,并且可以配置为你想要装载到下方&7矿车&r中的物品.\\n&7[The Item Loader is the most basic dispenser from RailCraft. It has to be above the Track and can be configured to what you'll want loaded onto your Carts below.]&f"]
+	quest.2D00F85379A4D591.title: "物品装载器&7[Item Loader]&f"
+	quest.31094CC16E710040.quest_desc: ["&4撬棍&r是铁路工艺的主要工具.\\n\\n当对&5机车&r使用时,它会改变其朝向.\\n\\n当按住潜行键点击时,你可以连接&5机车&r和&7矿车&r.\\n\\n当直接对&7矿车&r使用时,会给它们一个轻微的推力.\\n\\n当对特殊轨道使用时,会改变它们的模式.\\n\\n不同的&4撬棍&r只是外观和伤害不同.\\n&7[The Crowbar is the main tool of RailCraft. \\n\\nWhen used on a Locomotive it will change the direction it's facing. \\n\\nWhen shift clicked you can connect Locomotives and Carts. \\n\\nWhen just used on Carts they give them a slight push. \\n\\nAnd when used on special tracks they change their mode. \\n\\nThe different Crowbars just give different looks and damage.]&f"]
+	quest.31094CC16E710040.quest_subtitle: "”怎么,你要抢劫我吗？”&7[\"What, ya gonna rob me?\"]&f"
+	quest.365D4B1DC953D406.quest_desc: ["&7矿车&r分配器会如其名所示.它可以将任何&7矿车&r分配到其前方的&6轨道&r上.需要红石信号来分配.\\n&7[The Cart Dispenser will do as the name suggests. It can dispense any Carts onto the Tracks in front of it. Needs a Redstone signal to dispense.]&f"]
+	quest.365D4B1DC953D406.title: "&7矿车&r分配器&7[Cart Dispenser]&f"
+	quest.38451B61E3FC075B.quest_desc: [
+		"等等,我们又有了钢,这是否也意味着我们拿回了(煤)焦炭？是的!\\n要获得(煤)焦炭,你需要一个&a焦炉&f.要建造一个,你需要26个&a焦炉砖块&f,并以3x3x3的方式放置,中心留空一格.当你可以访问GUI并且它变成一个整体纹理时,你就知道它建好了.\\n\\n放入煤炭或煤炭块以获得(煤)焦炭和液体杂酚油!你总是可以放入任何原木来获得木炭和杂酚油.\\n&7[Wait we have Steel again does that also mean we get our (Coal) Coke back? Yes! \\nTo get (Coal) Coke you'll need a Coke Oven. To make one you'll need 26 Coke Oven Bricks and place them 3x3x3 with 1 block hollow in the center. You'll know it's done when you can access the GUI and it's all one texture. \\n\\nPlace Coal or Coal Blocks to get (Coal) Coke and Liquid Creosote! You can always put any log in to get Charcoal and Creasote.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_coke.png width:100 height:100 align:center}"
+	]
+	quest.38451B61E3FC075B.title: "&a焦炉&f&7[Coke Oven]&f"
+	quest.3E75AFE3482834C5.quest_desc: ["&l铁路工艺&r是一个完全基于&5火车&r的模组!\\n\\n从&7矿车&r到&e&a电力机车&f&r再到&9&a隧道盾构车&f&r!它也有所有&5火车&r配件!&a交通信号灯&f、为&5火车&r提供动力的&a蒸汽锅炉&f,以及所有的自动化.\\n\\n为&5火车&r模型爱好者准备的模范模组!\\n&7[lRailCraft is an entire mod based off Trains! \\n\\nFrom Minecarts to Electric Locomotives to Tunnel Bores! It has everything Train accessory wise as well! Traffic Lights, Steam Boilers to power Trains, and automation for it all. \\n\\nThe model Mod for Model Train Lovers!]&f"]
+	quest.3E75AFE3482834C5.title: "&7&l铁路工艺&7[lRailCraft]&f"
+	quest.3E8C2E7769DFBF35.quest_desc: [
+		"与&3&a蒸汽机车&f&r不同,你不需要在&e&a电力机车&f&r中放入任何东西.\\n\\n它依靠&6&a电力轨道&f&r下方&e框架&r提供的能量运行.\\n\\n是的,它只能在&6&a电力轨道&f&r上运行.\\n&7[Unlike the Steam Locomotive you won't need to put anything into the Electric Locomotive. \\n\\nIt runs off the power from the Frames beneath the Electric Tracks. \\n\\nYes, it can only be ran off Electric Tracks.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_electric.png width:100 height:100 align:center}"
+	]
+	quest.3E8C2E7769DFBF35.title: "&e&a电力机车&f&7[Electric Locomotive]&f"
+	quest.4071BBBE12CACD2D.quest_desc: ["&5火车&r分配器是&7矿车&r分配器的升级版.它可以分配整个&5机车&r以及更多!设置你想要部署的模式,然后给它一个红石信号.\\n&7[The Train Dispenser is a better version of the Cart Dispenser. It can Dispense the whole Locomotive and more! Set a pattern for what you want to be deployed then give it a redstone signal.]&f"]
+	quest.4071BBBE12CACD2D.title: "&a列车分车站&f&7[Train Dispenser]&f"
+	quest.425E375A9EC127EB.quest_desc: [
+		"&6&a强化轨道&f&r是普通&6轨道&r的升级版!它们速度稍快且不会爆炸.\\n&7[Reinforced Tracks are the upgraded version of normal rails! They're slighter faster and don't blow up.]&f"
+		"{@pagebreak}"
+		"1\\n&7[1]&f"
+		"{image:atm:textures/questpics/railcraft/rail_reinforced1.png width:150 height:100 align:center}"
+		"{@pagebreak}"
+		"2\\n&7[2]&f"
+		"{image:atm:textures/questpics/railcraft/rail_reinforced2.png width:150 height:100 align:center}"
+		"{@pagebreak}"
+		"3\\n&7[3]&f"
+		"{image:atm:textures/questpics/railcraft/rail_reinforced3.png width:150 height:100 align:center}"
+		"{@pagebreak}"
+		"4\\n&7[4]&f"
+		"{image:atm:textures/questpics/railcraft/rail_reinforced4.png width:150 height:100 align:center}"
+	]
+	quest.425E375A9EC127EB.title: "&6&a强化轨道&f&7[Reinforced Tracks]&f"
+	quest.475E307844E3AF7F.quest_desc: [
+		"蒸汽锅炉是&l&7铁路工艺&r中最有用的机器之一.它们需要一个燃料燃烧室和顶部的某种锅炉.燃料燃烧室可以是1x1、2x2或3x3.燃烧室的大小决定了顶部锅炉的最大尺寸.对于1x1燃烧室,只能有1x1锅炉.对于2x2燃烧室,可以是2x2x3锅炉.对于3x3燃烧室,可以是3x3x4锅炉.&a液体&f燃料将使用杂酚油加热.对于固体燃烧室,它将使用熔炉能使用的任何燃料.\\n&7[The Water Boilers are some of the most helpful machines from lRailCraft. They need a Fuel Firebox and some sort of boiler on top. The Fueled Firebox can be 1x1 2x2 or 3x3. The size of the Firebox changes how big the Boiler on top can be. For 1x1 Firebox it can only have 1x1 Boiler. For 2x2 Firebox it can be a 2x2x3 Boiler. For 3x3 Firebox it can be 3x3x4. The Liquid Fuel will take Creosote to heat up. For Solid Firebox it'll use anything a furnace can use.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_big_boiler.png width:100 height:100 align:center}"
+	]
+	quest.475E307844E3AF7F.title: "锅炉&7[Boilers]&f"
+	quest.4A44623D8A307473.quest_desc: [
+		"&6&a高速电力轨道&f&r类似于&6&a电力轨道&f&r,但更快!它们也需要普通&6&a高速轨道&f&r和&6&a电力轨道&f&r所需的东西.&c&a速度提升&f&r和为其供能的&e框架&r.现在你在拐角处和触碰它们时必须小心!\\n&7[The High Speed Electric Tracks are like the Electric Tracks but faster! They also require what the normal High Speed Tracks require and what the Electric Tracks require. Speed Boosts and Frames to power them. Now you have to be careful around corners and with touching them!]&f"
+		"{image:atm:textures/questpics/railcraft/rail_electric_speed.png width:150 height:100 align:center}"
+	]
+	quest.4A44623D8A307473.title: "&6&a高速电力轨道&f&7[High Speed Electric Tracks]&f"
+	quest.50A286C268F38E09.quest_desc: ["在这个任务页面中,我花了很多时间为文本上色,试图帮助你这位玩家理解我指的是什么.&a仅用于&f让我意识到这可能更令人困惑,所以这里有一个图例!\\n\\n&5紫色&r代表任何火车或机车,包括电力和&a蒸汽机车&f以及连接的矿车.\\n&6金色&r代表任何轨道和铁轨,包括特殊铁轨,但不包括轨道套件.\\n&c浅红色&r代表任何轨道套件.\\n&4&a暗红色&f&r代表撬棍.\\n&3青色&r仅代表&a蒸汽机车&f.\\n&e黄色&r仅代表&a电力机车&f.\\n&9蓝色&r代表&a隧道盾构车&f.\\n&7灰色&r代表矿车和特殊矿车.\\n&7[With this Quest page I took a lot of time coloring the texts to try and help you the Player understand what I am referencing. Only for me to realize it might be even more confusing, so here's a Legend! \\n\\nPurple is any Train or Locomotive, so both Electric and Steam Locomotives and Carts attached. \\nGold is any Tracks and Rails, includes special Rails but not Track Kits. \\nLight Red stands for any Track Kits. \\nDark Red is for Crowbars. \\nCyan is for the Steam Locomotive only. \\nYellow is for only the Electric Locomotive. \\nBlue is for the Tunnel Bore. \\nGrey is for Minecarts and special Carts.]&f"]
+	quest.50A286C268F38E09.title: "颜色图例&7[Color Legend]&f"
+	quest.5128B119DFFF0C4C.quest_desc: [
+		"&3&a蒸汽机车&f&r是最基础的&5机车&r.可以通过给它水、熔炉燃料并等待来为其提供动力.它需要持续的水来保持工作.\\n\\n别担心,那只是意味着从它顶部冒出的烟是&a水蒸气&f,对环境是安全的.嗯,煤炭部分对环境来说不是最好的……呃,这是&2我的世界&r,我们在乎什么!\\n&7[The Steam Locomotive is the most basic Locomotive. It can be powered by giving it water, furnance fuel, and waiting. It'll need constant water to keep working. \\n\\nDon't worry that just means the smoke coming out of the top of it is Water Vapor, which is safe for the Environment. Well the Coal part isn't the best for the Environment... eh its Minecraft what do we care!]&f"
+		"{image:atm:textures/questpics/railcraft/rail_steam_locomotive.png width:100 height:100 align:center}"
+	]
+	quest.5128B119DFFF0C4C.title: "&3&a蒸汽机车&f&7[Steam Locomotive]&f"
+	quest.5180CDD196518F64.quest_desc: [
+		"&6&a镀铁轨道&f&r,像&6&a废弃轨道&f&r一样,非常适合吝啬鬼.它们比其他&6轨道&r慢得多,但没有脱轨的风险!\\n&7[The Strap Iron Tracks, like the Abandoned Tracks, are perfect for the cheapskates. They go much slower than the other tracks but no risk of derailment!]&f"
+		"{image:atm:textures/questpics/railcraft/rail_strap.png width:150 height:100 align:center}"
+	]
+	quest.5180CDD196518F64.title: "&6&a镀铁轨道&f&7[Strap Iron Tracks]&f"
+	quest.53594EBA9F7BA840.quest_desc: ["高级物品卸载器与普通版本类似,但可以从任何方向使用.除了方向之外没有区别.\\n&7[The Advanced Item Unloader is just like the normal part but can be used from any direction. Nothing different besides direction.]&f"]
+	quest.53594EBA9F7BA840.title: "高级物品卸载器&7[Advanced Item Unloader]&f"
+	quest.541D270451DA4320.quest_desc: ["&a转辙轨道&f将用于在不同特殊&6轨道&r之间切换车道.上面的&a箭头&f显示去向.\\n&7[The Switch Track will be needed for moving lanes between the different Special Tracks. The Arrows on it show which goes where.]&f"]
+	quest.54F2CB52D3A7BA87.quest_desc: ["物品卸载器与物品装载器相反.它会从&7矿车&r中取出物品.这个也必须位于&6轨道&r上方.\\n&7[The Item Unloader is the opposite of the Item Loader. It will take items from the Carts. This one must also be above the Track.]&f"]
+	quest.54F2CB52D3A7BA87.title: "物品卸载器&7[Item Unloader]&f"
+	quest.55D7CD0FA8F1AE48.quest_desc: ["我们聚集于此的原因,&5火车&r.这个模组叫做&l&7铁路工艺&r,别表现得那么惊讶.\\n\\n有两种不同的主要&5火车&r和一种特殊的采矿&5火车&r.\\n\\n这些&5火车&r本身可能有点无聊,那么为什么不给它们挂上&7矿车&r呢!连接&7矿车&r与&7矿车&r以及&5火车&r被称为耦合,而断开连接则称为解耦.要耦合&5火车&r和&7矿车&r,请使用&4撬棍&r或带有耦合&c轨道套件&r的&6轨道&r.\\n&7[The reason we're all here, Trains. The mod is called lRailCraft don't act surprised. \\n\\nThere's 2 different main Trains and 1 special mining Train. \\n\\nThese Trains all by themselves can get a little boring, so why not attach Carts to them! Connecting Carts with Carts and with Trains is called Coupling, and to unconnect them is to Decouple. To Couple Trains and Carts use a Crowbar or a Track with the Coupling Track Kit.]&f"]
+	quest.55D7CD0FA8F1AE48.title: "&7&l矿车&r与&5&l火车&r!&7[lCarts 'N' lTrains!]&f"
+	quest.5820EDEF71340A1A.quest_desc: [
+		"&6&a废弃轨道&f&r适合吝啬鬼和美观用途.它们可以用于在没有支撑的情况下跨越几个方块.它们只能在与行进方向相同的方块相距2格,或与相反方向方块相距1格的地方放置.不过它们有脱轨的风险,基本上你的&7矿车&r会被抛出&6轨道&r.\\n&7[Abandoned Tracks are good for the cheapskates and aesthetic. They can be used to bridge across a few blocks without support. They can only be 2 blocks away from blocks going the same direction, or one block from the opposite direction. They come at the risk of derailment though, basically your Cart will be thrown off the rails.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_abandoned.png width:150 height:100 align:center}"
+	]
+	quest.5820EDEF71340A1A.title: "&6&a废弃轨道&f&7[Abandoned Tracks]&f"
+	quest.5E750DB2244A67A1.quest_desc: [
+		"&6转辙轨道&f&r是使用道钉锤敲击&6轨道&r得到的第一种.它可以帮助朝两个方向行驶,向前和向一侧.可以通过&6轨道&r旁边的转辙器来切换.\\n&7[The Turnout track is the first from hitting a track with a Spike Maul. It can help go two directions, forward and to a side. It can be switched with a Switch next to the track.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_turnout.png width:100 height:100 align:center}"
+	]
+	quest.5E750DB2244A67A1.title: "&6转辙轨道&7[Turnout Tracks]&f"
+	quest.5F458D79D43D8842.quest_desc: ["此任务由&6AllTheMods Staff&r或&2社区贡献者&r编写,用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r整合包均根据&e保留所有权利&r许可,未经&6AllTheMods团队&r明确许可,此任务不得用于任何非&6AllTheMods团队&r发布的公开整合包.\\n\\n此任务被故意隐藏,如果你看到这个,说明你正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks.\\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.609CA1ACFA981BD5.quest_desc: ["&c路线套件&r与通行票一起使用.\\n&7[The Routing Kit is used with the passing tickets.]&f"]
+	quest.609CA1ACFA981BD5.title: "&c轨道套件&r 路线&7[Track Kit Routing]&f"
+	quest.61C93ABE07742DCD.quest_desc: [
+		"&a蒸汽轮机&f使用蒸汽来产生FE和EU能量.\\n\\n它是一个3x2x2的仅由&a蒸汽涡轮机壳&f构成的建筑,里面需要一个涡轮马达,并通入蒸汽.\\n&7[The Steam Turbine uses Steam to make FE and EU energy. \\n\\nIt's 3x2x2 building of only Steam Turbine Housing, and it'll need a Turbine Motor in it, and Steam piped in.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_turbine.png width:100 height:100 align:center}"
+	]
+	quest.61C93ABE07742DCD.title: "&a蒸气轮机&f&7[Steam Turbine]&f"
+	quest.64C105E1E2F97900.quest_desc: ["道钉锤用于普通&6轨道&r以&a切换&f它们的模式.对于尝试创建交叉口非常有帮助!\\n&7[The Spike Mauls are used on normal Tracks to switch their modes. Very helpful for trying to make intersections!]&f"]
+	quest.64C105E1E2F97900.title: "”切换它们”&7['Switch em up']&f"
+	quest.677C5D35DADA4A42.quest_desc: ["&c&a联结器&f&r用于连接或断开&7矿车&r.耦合是连接&7矿车&r的术语.\\n\\n它可以用&4撬棍&r配置为耦合、解耦或自动耦合.需要红石才能工作.\\n&7[The Coupler is for connecting or disconnecting Carts. Coupling is the phrase for connecting Carts. \\n\\nIt can be configured with a Crowbar to couple, decouple, or auto couple. Needs Redstone to work.]&f"]
+	quest.677C5D35DADA4A42.title: "&c轨道套件&r 联结器&7[Track Kit Coupler]&f"
+	quest.6C14D1B60124C2B2.quest_desc: [
+		"&9&a隧道盾构车&f&r非常适合自动铺设&6轨道&r,尤其是在山体或丘陵下方.\\n\\n它需要3样东西才能开始工作:&9钻头&r、燃料(如煤炭)和&6轨道&r.一旦备齐这三样,就让它开工吧!\\n\\n记得留意放入其中的物品!\\n&7[The Tunnel Bore is perfect for automatically placing Rails especially under mountains or hills. \\n\\nIt'll need 3 things to start working: Bore Head, fuel like Coal, and Rails. Once it has all 3 just let it go! \\n\\nRemember to keep track of the items going in it!]&f"
+		"{image:atm:textures/questpics/railcraft/rail_tunnel.png width:100 height:100 align:center}"
+	]
+	quest.6C14D1B60124C2B2.title: "&9&a隧道盾构车&f&7[Tunnel Bore]&f"
+	quest.6C163E005351FF6D.quest_desc: ["&c汽笛套件&r在红石激活时,会使&5机车&r鸣响汽笛.\\n&7[The Whistle Kit when active with Redstone will cause the Locomotives to set off their whistles.]&f"]
+	quest.6C163E005351FF6D.title: "&c轨道套件&r 汽笛&7[Track Kit Whistle]&f"
+	quest.6DB65926EE6D6C2E.quest_desc: ["这些&c轨道套件&r用于改变你的&7矿车&r的动量.\\n\\n&c变速套件&r会改变经过的&5机车&r的速度,需要红石供能.\\n&c助推套件&r在供能时会加速&7矿车&r,未供能时会减速&7矿车&r.\\n&c控制套件&r会给&7矿车&r一个小的推力,供能时会改变其推动方向.\\n&c节流套件&r会将经过的&5机车&r的速度改变为配置的速度,需要红石供能.\\n&c发射套件&r会真的把你的&7矿车&r扔出去!\\n&7[These Tracks Kits are for changing momentum with your Carts. \\n\\nThe Transition Kits change the speed of the passing Locomotive, needs redstone power. \\nThe Booster Kits will speed up the Cart if powered and slow down the Cart if not powered. \\nThe Control Kit gives the Carts a little push, when powered it'll change the direction it pushes it in. \\nThe Throttle Kit will change the speed of a passing Locomotive to whatever speed is configured, needs to be powered with redstone. \\nThe Launcher Kit will quite literally throw your Cart!]&f"]
+	quest.6DB65926EE6D6C2E.title: "用于移动&7矿车&r的&c轨道套件&r&7[Track Kits for moving Carts]&f"
+	quest.6E7C4228CD2B6BB9.quest_desc: ["这把&4撬棍&r有几种不同的模式,每种都会改变&5机车&r的外观.默认模式(在物品栏中悬停时描述)、无模式(变为&7灰色&r)、&6H&r&5a&r&6l&r&5l&r&6o&r&5w&r&6e&r&5e&r&6n&r模式(使其变得诡异)以及&cC&r&2h&r&c&r&2i&r&cs&r&2t&r&cm&r&2a&r&cs&r模式(使其变得喜庆)!\\n&7[This Crowbar has a few different modes, each with change the design of a Locomotive. From default which is described while hovering over the item in your inventory, none which goes to grey, Halloween which makes it spooky, and Christmas which makes it festive!]&f"]
+	quest.75DD345164EE5CD9.quest_desc: [
+		"&6&a高速轨道&f&r类似于&6&a强化轨道&f&r,但显然更快.不过它们需要&c轨道套件&r来帮助加速!并且在拐弯处要小心.\\n&7[High Speed Tracks are like Reinforced Tracks but obviously faster. They'll need Track Kits to help build up speed though! And careful around corners.]&f"
+		"{image:atm:textures/questpics/railcraft/rail_speed.png width:150 height:100 align:center}"
+	]
+	quest.75DD345164EE5CD9.title: "&6&a高速轨道&f&7[High Speed Tracks]&f"
+	quest.78D8F40AA9568511.quest_desc: ["&a辊压机&f是&a人力辊压机&f的改良版本.\\n\\n你无需一直盯着机器来合成物品,它会自动合成所有物品.\\n\\n唯一的问题是它需要能量!\\n&7[The Powered Rolling Machine is much better version of the Manual Rolling Machine. \\n\\nYou don't have to keep looking in the machine to craft things and it will automatically craft all of them. \\n\\nThe only problem is it needs power!]&f"]
+	quest.7D40B80DBBC4E160.quest_desc: ["&a人力辊压机&f将成为你制作许多铁路工艺材料的小型合成机器!\\n\\n当你放入配方且可制作数量大于1时,即使你仍在查看它,它也会自动合成.当你在合成时离开&a金属辊压机&f界面,合成将中止,物品会放入你的物品栏.\\n\\n你必须手动制作最后一个配方!\\n&7[The Manual Rolling Machine will be your little crafting machine for many things material for railcraft! \\n\\nWhen you put the recipe in and it can make more than 1 it will autocraft while you're still looking at it. When you leave the Rolling Machine while crafting it will abort the crafting and put it in your inventory. \\n\\nYou must manually build the last recipe!]&f"]
+	quest.7F187E291C3D5BA7.quest_desc: ["&a流体卸载器&f与&a流体装载器&f完全相反.它不是位于&6轨道&r上方,而是下方.它不是给&3&a蒸汽机车&f&r加水,而是取走它们的水.我不知道你为什么想这么做,但你可以!\\n&7[The Fluid Unloader is the exact opposite of the Fluid Loader. Instead of being over the Track its under. Instead of giving Steam Locomotives water it takes their water. I don't know why you'd want to do that but you can!]&f"]
+	quest.7F187E291C3D5BA7.title: "&a流体卸载器&f&7[Fluid Unloader]&f"
+	quest.7F4B734CFB0F0306.quest_desc: ["这些新的&7矿车&r类似于特殊的&2原版&r&7矿车&r.&7储罐矿车&r可以容纳并运输其中的任何液体.&7能量单元矿车&r则可以容纳并运输能量!\\n&7[These new Carts are similar to the special Vanilla Carts. The Minecart with a Tank will hold and move any Liquid held in it. The Minecart with an Energy cell will instead hold and move Energy!]&f"]
+	quest.7F4B734CFB0F0306.title: "新型矿车&7[New Carts]&f"
+	task.025A45B704969EAE.title: "&aY型轨道&f&7[Wye Tracks]&f"
+	task.03AE084C781CBA31.title: "轨道套件&7[Track Kits]&f"
+	task.11741300813AF742.title: "版权所有&7[AllRightsReserved]&f"
+	task.15BD622D04888DD8.title: "矿车&7[Carts]&f"
+	task.19E2DE9D89B89D7B.title: "尖刺大锤&7[Spike Mauls]&f"
+	task.1E77B21EA9F2E9A7.title: "燃料燃烧室&7[Fueled Fireboxes]&f"
+	task.2606DDF2AE263B42.title: "轨道套件&7[Track Kits]&f"
+	task.2A2D77813F3127A6.title: "轨道&7[Rails]&f"
+	task.3490AE43AD653256.title: "道岔轨道&7[Turnout Tracks]&f"
+	task.382933BEE2BCBD64.title: "&a隧道盾构车&f Heads&7[Tunnel Bore Heads]&f"
+	task.395D321BFFDB098A.title: "&a交接轨道&f&7[Junction Tracks]&f"
+	task.3E8F4263F7053EDD.title: "矿车&7[Carts]&f"
+	task.653ED58A9B65C796.title: "撬棍&7[Crowbars]&f"
+	task.6A4FADC04E1C9DA7.title: "&a蒸汽锅炉&f储罐&7[Steam Boiler Tanks]&f"
+	task.6C12449632AD53DC.title: "轨道套件&7[Track Kits]&f"
+	task.6D074E91F5BFC2A8.title: "轨道套件&7[Track Kits]&f"
+	task.7B128D5D8D5530A8.title: "染色&7[Coloring]&f"
+	task.7BB13793B38DFC2C.title: "版权所有&7[AllRightsReserved]&f"
+}

@@ -1,0 +1,113 @@
+{
+	quest.068128395837AF4F.quest_subtitle: "与蒸汽一体&7[Same as steam as one]&f"
+	quest.08C870DC50CA49FC.quest_desc: [
+		"&#5C5C5C&a原油&f&r本身对我们没有太大用处,但通过蒸馏器处理后,我们得到的输出可以用于许多许多用途.\\n&7[&#5C5C5CCrude Oil on its own is not of much use to us but when put through a distillery, we get outputs that can be used for many many purposes.]&f"
+		""
+		"我们可以用它生产&#C4C241&a含硫重燃油&f&r、&#CECC5F&a含硫轻燃油&f&r和&#D9D782含硫石脑油&r.\\n&7[We can produce &#C4C241Sulfuric Heavy Fuel, &#CECC5FSulfuric Light Fuel and &#D9D782Sulfuric Naptha with it.]&f"
+	]
+	quest.08C870DC50CA49FC.title: "&#5C5C5C原油&a处理&f&7[&#5C5C5CCrude Oil Processing]&f"
+	quest.0903F0D8642449B7.quest_desc: ["从&6模拟电路&r过渡,我们现在可以处理超过2位的信息.这为一些新机器打开了视野.\\n&7[Moving from analog circuitry, we can now process more than 2 bits of information. This opens horizons for some new machines]&f"]
+	quest.0A9ADDE68342B987.quest_desc: [
+		"要制作&#43DEC2聚乙烯&r,你需要遵循以下化学链:\\n&7[To make &#43DEC2Polyethylene, you follow the chain of chemicals this way:]&f"
+		""
+		"&8原油&r -> &#D2CD2D&a含硫轻燃油&f&r -> &#DBD658&a轻燃油&f&r -> &#E2DF78蒸汽裂解轻燃油&r -> &#44D1DB乙烯&r -> &#43DEC2聚乙烯&r.\\n&7[Crude oil -> &#D2CD2DSulfuric Light Fuel-> &#DBD658Light Fuel-> &#E2DF78Steam Cracked Light fuel -> &#44D1DBEthylene -> &#43DEC2Polyethylene.]&f"
+	]
+	quest.0C94D76B87E49FFD.title: "铁处理&7[Iron Processing]&f"
+	quest.103728F2BAD5AE84.title: "高级组件&7[Advanced Components]&f"
+	quest.1351D0594F1E6551.quest_desc: ["这些&#55EDA4基础组件&r将引领我们进入加工领域的下一个突破.\\n&7[These &#55EDA4basic components will lead us into the next breakthrough in processing.]&f"]
+	quest.1351D0594F1E6551.title: "电路组件&7[Circuit Components]&f"
+	quest.162807D14C173CB4.quest_desc: ["&#5599ED离心机&r证实了我们的理论:如果我们把某物旋转得足够快,一种新材料就会从中掉出来.它有很多用途,但你主要需要它来处理&#F2AAE5铬&r和&#AD3497独居石&r.\\n&7[The &#5599EDCentrifuge confirmed our theory if we spin something fast enough a new material just plops out of it. It has a lot of uses but you will need it mainly for &#F2AAE5Chromium and &#AD3497Monazite processing. ]&f"]
+	quest.162807D14C173CB4.quest_subtitle: "你让我的头转啊转啊转……&7[You spin my head right round right round..]&f"
+	quest.1745124F83D033B9.title: "基础组件&7[Basic Components]&f"
+	quest.18C0EF38430C3E67.quest_subtitle: "数字时代&7[The Digital Age]&f"
+	quest.1A84DF4478D55C41.quest_subtitle: "与蒸汽一体&7[Same as steam as one]&f"
+	quest.1B4CD5AC8F6C3307.quest_desc: ["&#4497DB超频模块&r即使在当前没有运行配方时也能保持机器的效率.作为交换,它会将机器锁定为该配方.\\n&7[The &#4497DBOverdrive module preserves the efficiency of the machine even when the recipe is not currently running. In return it locks the machine for the recipe.]&f"]
+	quest.1E0EF28175A7424F.quest_desc: ["既然你已经在生产蒸汽,何不利用它来发电呢.只需放置一个&#6363DB涡轮机&r,输入&7蒸汽&r,然后输出&#DBDB63电力&r.\\n&7[Since you are already producing the steam, why not use it to make electricity. Simply slap down a &#6363DBTurbine and put steam in and pull &#DBDB63electricity out.]&f"]
+	quest.1E0EF28175A7424F.quest_subtitle: "蒸汽 -> 电力&7[Steam -> Electricity]&f"
+	quest.1F21B578FAF4CCAC.quest_subtitle: "与蒸汽一体&7[Same as steam as one]&f"
+	quest.1F3E18129B871C49.quest_subtitle: "与蒸汽一体&7[Same as steam as one]&f"
+	quest.22AD9DF2BCC04575.quest_subtitle: "创造能量&7[Creating the energy]&f"
+	quest.22AD9DF2BCC04575.title: "&a发电装置&f&7[Electricity Generation]&f"
+	quest.256C3DBA392B4236.quest_desc: ["电解锰和铬的酸性溶液,将得到它们的粉末,可用于未来的配方.\\n&7[Electrolysing the Acidic Solutions for Manganese and Chromium will yield you their Dusts which can be used for future recipes.]&f"]
+	quest.256C3DBA392B4236.quest_subtitle: "9个&a小撮粉末&f合成1个粉末&7[9 Tiny Dusts give 1 Dust]&f"
+	quest.2EF0C033C540A7B1.title: "红宝石处理&7[Ruby Processing]&f"
+	quest.32D585D9F73CD9FD.quest_desc: ["&#EDDF55&a电力高炉&f&r将允许你熔炼几种不同的资源.配方需要使用结构中的&#B8ED55特定线圈&r.\\n&7[The &#EDDF55Electric Blast Furnace will allow you to cook several different resources. The recipes do require a &#B8ED55specific coil to be used in the structure.]&f"]
+	quest.374C06B3999BB0D3.quest_desc: ["混合&#C2C78B铁&r、&#EDB2EA铬&r、&#BEC9A3镍&r和&7锰&r,你将得到&#ADF0EE不锈钢&a钢粉&f&r.\\n&7[Mixing together &#C2C78BIron, &#EDB2EAChromium, &#BEC9A3Nickel and Manganese will give you &#ADF0EEStainless Steel Dust.]&f"]
+	quest.3A03852E282DAA4D.quest_desc: ["&#ED8055电解机&r能够提供足够的突发能量给材料,使它们分解成更基础的资源.\\n&7[The &#ED8055Electrolyzer is able to provide enough energy in bursts to material that they break down to more fundamental resources.]&f"]
+	quest.3B9D9CB589DB2003.quest_desc: [
+		"&#71EBB4&n&d现代工业化&f&r的机器与其他模组的工作方式不同.所有机器都有一个&#E5EB71效率倍率&r,当机器运行它制造的配方时,这个倍率会上升.&#E5EB71效率&r提高机器的&#E5EB71速度&r.当配方改变时,&#E5EB71效率&r会重置.\\n&7[&#71EBB4Modern Industrialization machines work differently to other mods. All machines have an &#E5EB71efficiency multiplier, this goes up as you have a recipe in the machine that it makes. &#E5EB71Efficiency increases the &#E5EB71speed of the machine. &#E5EB71Efficiency resets when recipe changes.]&f"
+		""
+		"建议你使用1台机器被动生产1种配方的组件.这就是这个模组预期的玩法.升级将使系统变得更好.这将在未来介绍.\\n&7[You are advised to use 1 machine for 1 recipe producing components passively. This is how the mod is supposed to be played. Upgrades will make the system better. This will be covered in the future.]&f"
+		""
+		"{image:atm:textures/questpics/modernindustrialization/prod_line.png width:100 height:100 align:center}"
+		""
+		"{@pagebreak}"
+		"这个模组的所有机器都接受FE作为能源.&c16 FE&r转换为&#E1EB591 EU&r的电力.\\n&7[All machines from this mod accept FE as power. 16 FE converts to &#E1EB591 EU of power.]&f"
+	]
+	quest.3B9D9CB589DB2003.quest_subtitle: "这会有所帮助&7[This will help]&f"
+	quest.3CE72DAF431269CD.quest_desc: ["&#D6AC2F极化器&r能够磁化放入其中的材料.\\n&7[The &#D6AC2FPolarizer is able to magnetise the materials put into it.]&f"]
+	quest.401A3FD6A3511870.quest_subtitle: "芝麻开门&7[Open Sesame]&f"
+	quest.401A3FD6A3511870.title: "门&7[Gates]&f"
+	quest.401B559649C54C5C.quest_desc: ["混合&#92CCF0氢气&r和&#519BC9氯气&r,你将得到&#4FB373&a盐酸&f&r.这将用于处理&#F2A0E1&a铬粉&f&r.\\n&7[Mixing together &#92CCF0Hydrogen and &#519BC9Chlorine will give you &#4FB373Hydrochloric Acid. This will be used to process &#F2A0E1Chromium Dust.]&f"]
+	quest.408EBED932656006.quest_desc: ["掺杂&7硅&r会比使用基础&7硅&r获得更好的产量.\\n&7[Doping Silicon will get you much better yield than using base Silicon.]&f"]
+	quest.408EBED932656006.title: "掺杂硅&7[Doped Silicone]&f"
+	quest.413F338DB07BA88C.quest_subtitle: "与蒸汽的那个相同&7[Same as steam one]&f"
+	quest.4A5A143A79809BB6.quest_desc: [
+		"啊,是的,你终于做到了.欢迎来到电力时代,这是你冒险的真正开始.\\n&7[Ah yes, you finally made it. Welcome to the Electric Age, this is the real beginning of your adventure.]&f"
+		""
+		"首先,我们需要&a电池合金&f……来制造电池,我知道,这很令人震惊.\\n&7[First of all, we need Battery Alloy... to make batteries, shocking, I know.]&f"
+	]
+	quest.4A5A143A79809BB6.quest_subtitle: "&a电池合金&f&7[Battery Alloy]&f"
+	quest.4A5A143A79809BB6.title: "&a电力&f时代&7[The Electric Age]&f"
+	quest.4E7B1B16C7CDA84C.quest_subtitle: "与蒸汽的那个相同&7[Same as steam as one]&f"
+	quest.532BCAB3FBF91B1D.quest_desc: [
+		"&#44DB9C升级&r为机器增加了进入&#4467DB超频&r状态的能力,进一步提高了机器的最大速度.\\n&7[&#44DB9CUpgrades add the ability for machines to move into &#4467DBoverclocked state further increasing the maximum speed of the machine.]&f"
+		""
+		"一台机器最多可以容纳任意等级的升级各一组.&#CEDB44基础升级&r每个升级增加&#F7F448+2 EU/t&r的容量.\\n&7[A machine can expect upto a stack of any tier of upgrades. The &#CEDB44Basic Upgrade adds &#F7F448+2EU/t to the capacity per upgrade.]&f"
+	]
+	quest.548274CC00E67EC4.quest_desc: ["传输电力很简单,你只需要在&#F5B027发电机&r和&#3CC1FA机器&r之间放一根电缆.低压电缆最多可以传输&#EEFA3C256 EU/t&r.\\n&7[Transferring electricity is simple, you just slap a cable in between your &#F5B027Generators and &#3CC1FAMachines. LV cables can transfer &#EEFA3C256 EU/t at most.]&f"]
+	quest.548274CC00E67EC4.quest_subtitle: "电缆限制&7[Cable Limits]&f"
+	quest.548274CC00E67EC4.title: "低压电缆&7[LV Cables]&f"
+	quest.54CE9493B63620C4.quest_desc: ["&#AC59EB&a柴油发电机&f&r将各种液体燃料转化为电力.你早期最容易获得的是&7&a杂酚油&f&r和&8合成油&r.\\n&7[The &#AC59EBDiesel Generator converts a variety of liquid fuels to electricity. The most accessible for you early on will be Creosote Oil and Synthetic Oil.]&f"]
+	quest.54CE9493B63620C4.quest_subtitle: "液体燃料 -> 电力&7[Liquid Fuels -> Electricity]&f"
+	quest.55BB4005BB4CA316.title: "独居石处理&7[Monazite Processing]&f"
+	quest.5A62260FB3850092.quest_desc: ["将&e硫&r、&#6ACDE6氧&r和&9水&r混合会得到&#D3D955&a硫酸&f&r.这将用于处理&7&a锰粉&f&r.\\n&7[Mixing together Sulfur, &#6ACDE6Oxygen and Water will give you &#D3D955Sulfuric Acid. This will be used to process Manganese Dust.]&f"]
+	quest.5AA8D2A1F3618615.quest_subtitle: "传输电力&7[Moving electricity]&f"
+	quest.5B50AC47957F0CD7.quest_desc: ["&7石油钻机&r将为你钻取&#7A7A7A&a页岩油&f&r和&#918686&a原油&f&r.\\n&7[The Oil Rig will drill up &#7A7A7AShale Oil and &#918686Crude Oil for you.]&f"]
+	quest.5B50AC47957F0CD7.quest_subtitle: "鹰的叫声&7[Eagle noises]&f"
+	quest.5D404ED40C6C2690.quest_subtitle: "输入更多能量&7[Input more power]&f"
+	quest.604C003EE6B1CC6B.quest_subtitle: "与蒸汽相同&7[Same as steam as one]&f"
+	quest.6256612D46C88C0C.quest_desc: [
+		"&#723CFA变压器&r将一种电压范围转换为另一种.\\n&7[&#723CFATransformers convert one range of power to another. ]&f"
+		""
+		"&#EBC471低压&r转&#DDE548中压&r &#723CFA变压器&r:将&#EBC471低压&r电力转换为&#DDE548中压&r电力,它有5个输入和1个输出.\\n&7[&#EBC471LV to &#DDE548MV &#723CFATransformers: Converts &#EBC471LV power to &#DDE548MV power, it has 5 inputs and 1 output.]&f"
+		""
+		"&#DDE548中压&r转&#EBC471低压&r &#723CFA变压器&r:将&#DDE548中压&r电力转换为&#EBC471低压&r电力,它有1个输入和5个输出.\\n&7[&#DDE548MV to &#EBC471LV &#723CFATransformers: Converts &#DDE548MV power to &#EBC471LV power, it has 1 input and 5 outputs.]&f"
+	]
+	quest.6256612D46C88C0C.quest_subtitle: "”自由是所有感知生命的权利”&7[\"Freedom is the right of all sentient beings\"]&f"
+	quest.6256612D46C88C0C.title: "LV-&a中压变压器&f&7[LV-MV Transformers]&f"
+	quest.6647A9652EFDDCDF.quest_desc: ["要冷却&#ADF0EE热不锈钢&a钢锭&f&r,只需将其放入&#56E3DF&a真空冷冻机&f&r中,即可将其转化为可用的&#ADF0EE不锈钢&a钢锭&f&r.\\n&7[To cool down the &#ADF0EEHot Stainless Steel Ingot simply put it into a &#56E3DFVacuum Freezer to turn it into usable &#ADF0EEStainless Steel Ingot.]&f"]
+	quest.66D4256F79D5B30B.quest_subtitle: "与蒸汽相同&7[Same as steam as one]&f"
+	quest.6A25ED4059E224D2.quest_desc: [
+		"&#ED5585蒸馏室&r用于蒸馏某些流体,以获得更适合我们使用的、更好的产出物.\\n&7[The &#ED5585Distillery is used to distill certain fluids to receive better more fitting outputs for our use. ]&f"
+		""
+		"如果单一输入会产生多种输出,你必须锁定配方才能得到你想要的东西.首先点击GUI中的锁定图标,点击箭头,然后在你想要的配方上点击&7'+'&r图标.\\n&7[You must lock the recipe in order to get what you want if a singular input produces many outputs. First click on the lock icon in the GUI, click on the arrow and then '+' icon on your desired recipe. ]&f"
+	]
+	quest.6A25ED4059E224D2.quest_subtitle: "锁定配方&7[Lock the recipe]&f"
+	quest.6E7DF4AF86A036EC.title: "页岩&a原油处理&f&7[Shale Oil Processing]&f"
+	quest.72FFD9E471242D68.quest_desc: ["不锈钢需要比普通熔炉更高的热量来熔炼.我们必须使用之前建造的&a电力高炉&f.\\n&7[Stainless Steel requires more heat to smelt than a normal furnace. We must use our previously constructed Electric Blast Furnace.]&f"]
+	quest.744E620B7DEBB483.quest_desc: ["&#27CFF5&a真空冷冻机&f&r将用于冷却&#E6AD1E热锭&r或某些流体,以获得你已经生产的物品的更好比例.\\n&7[The &#27CFF5Vacuum Freezer will be used to cooldown &#E6AD1EHot Ingots or certain fluids for better ratios of items you have already been producing.]&f"]
+	quest.744E620B7DEBB483.quest_subtitle: "冰之凛冽&7[Bing Chilling]&f"
+	quest.76660075F254597E.quest_desc: ["&#F5B758高级升级&r每个升级增加&#EDE02F16 EU/t&r的最大使用量.\\n&7[&#F5B758Advanced Upgrade adds &#EDE02F16 EU/t of maximum usage per upgrade.]&f"]
+	quest.7E3B19796870C2B1.quest_desc: ["&#9955ED&a化学反应器&f&r将是你未来最有用的机器之一.它将用于制造多种化学品.\\n&7[The &#9955EDChemical Reactor will be one of the most useful machines for you going forward. It will be used to create several chemicals.]&f"]
+	quest.7EDBE88A2CFAB353.quest_desc: [
+		"&#562FD6装配机&r用于制造大量组件和机器.它们能够以自动化的方式进行合成工作.\\n&7[The &#562FD6Assemblers are used to make a lot of components and machines. They are able to do crafting jobs in an automatic manner.]&f"
+		"它们还为你已经使用过的一些配方提供了&a便宜得多&r的变体.\\n&7[They also offer much cheaper variants of some recipes you have already used.]&f"
+	]
+	quest.7EDBE88A2CFAB353.quest_subtitle: "你会需要很多&7[You'll need many]&f"
+	quest.7FE5864E59D7B827.quest_desc: ["&#6784EB外壳&r控制可以输入机器的能量上限.当你向机器放入升级时,你将需要更高等级的&#6784EB外壳&r来接受更多能量.&#6784EB外壳&r的等级也影响何种电缆可以连接到它.\\n&7[&#6784EBHulls control the amount of power that can be pushed into a machine. As you put upgrades into the machine, you will need a higher tier &#6784EBHull in it to accept more power. The tier of the &#6784EBHull also affects what cable can connect to it.]&f"]
+	quest.7FE5864E59D7B827.quest_subtitle: "基础构建方块&7[Basic building block]&f"
+	task.12433760FD40CB3A.title: "仔细阅读&7[Read this carefully]&f"
+	task.1489DD401D237541.title: "电力&7[Electricity]&f"
+	task.1FE598387B609AE5.title: "电力传输&7[Electricity Transfer]&f"
+}
